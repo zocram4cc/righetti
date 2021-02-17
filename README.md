@@ -1,7 +1,7 @@
 # Righetti
 ## Righetti - Gameplay patch for PES21
 
-Righetti is the unofficial proposed gameplay patch, via dt18 constant modding, specifically developed for and by [the 4chan Cup](https://implyingrigged.info) for its future use in Pro Evolution Soccer 2021. Its name is a very unsublte nod at the nationality of the original developer.
+Righetti is the unofficial proposed gameplay patch, via dt18 constant modding, specifically developed for and by [the 4chan Cup](https://implyingrigged.info) for its future use in Pro Evolution Soccer 2021, to attempt to fix its lack of entertainment value when watched in coach mode. Its name is a very unsubtle nod at the nationality of the original developer.
 
 **Note:** You can contribute to the patch's development, but please, upload any changes\forks in BIN, CPK and text form *at the same time*. Don't make the documentation drift from the actual binary. Thank you.
 
