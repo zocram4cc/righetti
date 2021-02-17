@@ -20,3 +20,9 @@ Righetti is the unofficial proposed gameplay patch, via dt18 constant modding, s
 - Shot count is still lower than desired.
 - The animation for centering the ball tends to play twice.
 - Ball physics are not exactly perfect yet.
+
+### How do I read this shit
+The text files follow this format:
+```bash
+STOCK VALUE   PATCHED VALUE //variable description
+```
