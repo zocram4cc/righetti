@@ -27,6 +27,6 @@ The text files follow this format:
 STOCK VALUE   PATCHED VALUE //variable description
 ```
 
-##TODO:
+## TODO:
 - Test, test, and test some more. (You) too can help in finding weird corner cases.
 - Reformat the docs since I am a retard and can't into legibility.
