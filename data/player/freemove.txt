@@ -1,0 +1,26 @@
+1	//delayAreaAutoStep
+0	//freeMoveStopDist
+32	//runLoopBank array
+0	//runTurnOn
+64	//stepMoveFront array
+0	//stepMoveSpeed
+0	//padding
+0	//padding
+
+//runLoopBank//
+40.0	//limitBankLower
+30.0	//limitBankUpper
+112.5	rotYLimMax
+0		//padding
+
+//stepMoveFront -> distAdjust//
+40.0	//ballSpeedKphMax
+20.0	//ballSpeedKphMin
+1		//enable
+3.0		//value
+
+//stepMoveFront//
+48		//distAdjust index
+10.0	//distBase
+0		//mode
+0		//padding

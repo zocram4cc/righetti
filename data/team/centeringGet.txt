@@ -1,0 +1,4 @@
+5	//centeringGetPattern
+0	//padding
+0	//padding
+0	//padding

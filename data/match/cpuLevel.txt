@@ -1,0 +1,378 @@
+144		//bpDirectPlay
+176		//bpDribbleAddWait
+208		//bpDribbleBallGard
+240		//bpDribbleBreakThrough
+272		//bpDribbleMatchUp
+304		//bpDribbleQuickTurn
+336		//bpDribbleSafety
+368		//bpFeint
+400		//bpFreekickNuckle
+432		//bpPassAddWait
+464		//bpPassBackSpace
+496		//bpPassSafety
+528		//bpShootControlCurve
+560		//bpShootRoop
+592		//dfBlock
+624		//dfDelayAddDist
+656		//dfDelayDash
+688		//dfDribbleReactionAddWait
+720		//dfKickReactionAddWait
+752		//dfMark
+784		//dfMarkAddDist
+816		//dfMarkMaxApproachRate
+848		//dfMarkPosUpdateAddTime
+880		//dfPassCourseCut
+912		//dfPress
+944		//dfSand
+976		//dfSlidingTackle
+1008	//dfSurround
+1040	//gkKickReactionAddWait
+1072	//obCounterRun
+1104	//obDiagonalRun
+1136	//obLineBreak
+1168	//obSpaceRun
+1200	//tmSubConcept
+0		//padding
+0		//padding
+
+//bpDirectPlay//
+//Values go from lowest difficulty to highest, only the first six matter//
+//This applies to all the arrays in this file//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpDribbleAddWait//
+60
+40
+20
+10
+5
+0
+0	//padding
+0	//padding
+
+//bpDribbleBallGard//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpDribbleBreakThrough//
+0
+1
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpDribbleMatchUp//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpDribbleQuickTurn//
+0
+0
+0
+0
+1
+1
+0	//padding
+0	//padding
+
+//bpDribbleSafety//
+0
+1
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpFeint//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpFreekickNuckle//
+0
+0
+0
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpPassAddWait//
+120
+60
+30
+15
+10
+0
+0	//padding
+0	//padding
+
+//bpPassBackSpace//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpPassSafety//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpShootControlCurve//
+0
+0
+0
+1
+1
+1
+0	//padding
+0	//padding
+
+//bpShootRoop//
+0
+0
+0
+1
+1
+1
+0	//padding
+0	//padding
+
+//dfBlock//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//dfDelayAddDist//
+2.0
+1.5
+1.0
+0.5
+0
+0
+0	//padding
+0	//padding
+
+//dfDelayDash//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//dfDribbleReactionAddWait//
+30
+30
+20
+10
+10
+0
+0	//padding
+0	//padding
+
+//dfKickReactionAddWait//
+30
+30
+20
+10
+10
+0
+0	//padding
+0	//padding
+
+//dfMark//
+1
+1
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//dfMarkAddDist//
+4.0
+3.0
+2.0
+1.5
+1.0
+0
+0	//padding
+0	//padding
+
+//dfMarkMaxApproachRate//
+30.0
+50.0
+95.0
+100.0
+100.0
+100.0
+0	//padding
+0	//padding
+
+//dfMarkPosUpdateAddTime//
+60
+40
+20
+12
+12
+0
+0	//padding
+0	//padding
+
+//dfPassCourseCut//
+0
+0
+0
+1
+1
+1
+0	//padding
+0	//padding
+
+//dfPress//
+0
+1
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//dfSand//
+0
+0
+0
+1
+1
+1
+0	//padding
+0	//padding
+
+//dfSlidingTackle//
+0
+0
+0
+1
+1
+1
+0	//padding
+0	//padding
+
+//dfSurround//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//gkKickReactionAddWait//
+10
+10
+5
+3
+3
+0
+0	//padding
+0	//padding
+
+//obCounterRun//
+0
+0
+0
+1
+1
+1
+0	//padding
+0	//padding
+
+//obDiagonalRun//
+0
+1
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//obLineBreak//
+0
+0
+0
+1
+1
+1
+0	//padding
+0	//padding
+
+//obSpaceRun//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+
+//tmSubConcept//
+0
+0
+1
+1
+1
+1
+0	//padding
+0	//padding

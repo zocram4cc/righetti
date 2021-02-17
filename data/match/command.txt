@@ -1,0 +1,14 @@
+32		//burstR1PullDelete array
+1		//kickAngleChangeOfferNowAnimeKick
+0		//kickAngleChangeOfferTimer
+0		//kickCommandCreateButtonPull
+-1.0	//shootKickAngleChangeOfferTimer
+0		//padding
+0		//padding
+0		//padding
+
+//burstR1PullDelete//
+0	//dribble
+0	//enable
+0	//trap
+0	//padding

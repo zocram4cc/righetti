@@ -1,0 +1,10 @@
+//This file is not part of the original Tomato map, but I've mimicked it to document my changes.
+//Thanks avok.
+
+
+TRUE	//Enable Output CSV
+128		//Retry Max
+22.5	//Kick Angle Add
+16 		//Kick Angle Num
+0		//Kick Angle Start
+0		//Zz Dummy

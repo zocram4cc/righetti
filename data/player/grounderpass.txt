@@ -1,0 +1,82 @@
+64		//angleY array
+80		//calcRecieveSpeed array
+96		//debug array
+1		//gageManualTest
+112		//lob array
+144		//manual array
+160		//manualBlendManualRateGageStrong array
+176		//manualBlendManualRateGageWeak array
+-0.1	//manualBlendParaMaxAdd
+20.0	//manualBlendthreshold
+0.9	1.04	//paraMaxSpeedRate (1 in 17)
+0.7	0.9	//paraMinSpeedRate (0.9 in 17)
+nan		//passAssistLevel
+192		//receiveSpeed array
+224		//search array
+0		//padding
+
+//angleY//
+7.0		//angleForDistMax
+0		//angleForDistMin
+40.0	//distMax
+12.0	//distMin
+
+//calcRecieveSpeed//
+15.0	//autoRecieveSpeedAddDistMax
+10.0	//autoRecieveSpeedAddDistMin
+15.0	//autoRecieveSpeedDecDistMax
+10.0	//autoRecieveSpeedDecDistMin
+
+//debug//
+0		//angleXZ
+0		//dist
+0		//enable
+30.0	//recieveBallSpeed
+
+//lob//
+6.0		//enemyDistMax
+1.0		//enemyDistMin
+1.5		//enemyXPos
+0.6		//lobHeightDistMax
+0.4		//lobHeightDistMin
+13.0	//passDistMax
+20.0	//passDistMaxThrough
+0		//padding
+
+//manual//
+40.0	//distForGageMax
+2.25	//distForGageMin
+0		//padding
+0		//padding
+
+//manualBlendManualRateGageStrong//
+1.0
+0.8
+0.8
+0	//padding (?)
+
+//manualBlendManualRateGageWeak//
+1.0
+0.3
+0.3
+0	//padding (?)
+
+//receiveSpeed//
+38.0
+33.0
+28.0
+28.0
+30.0
+0	//padding (?)
+0	//padding (?)
+0	//padding (?)
+
+//search//
+0.4	0,35	//angleRate
+0		//debugDisp_searchBasePoint
+1.0		//distRate
+30.0 22	//searchMaxDist
+2.25 1,1	//searchMinDist
+0		//padding
+0		//padding
+0		//padding

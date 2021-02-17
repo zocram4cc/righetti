@@ -1,0 +1,36 @@
+20.0  18		//adjustAngleOneSideCutRev
+50.0  44		//adjustAngleRate
+5.0	  4			//adjustCorrectDist
+0		//adjustDistDelay
+0		//adjustDistOneSideCutRev
+2.0		//adjustZ
+0.3	  0.2		//adjustZRate
+165.0 110		//baseAngleCutLongitudinal0
+15.0	//baseAngleCutLongitudinal1
+240.0 190		//baseAngleCutSide0
+300.0 240		//baseAngleCutSide1
+25.0  18		//baseAngleOneSideCutRev
+6.0	  5			//checkDistBaseToCover
+7.5	  5.5		//checkDistTransToCover
+30.0  25		//correctAdjustAngle
+60.0  38		//correctAngleWidth0
+120.0 99		//correctAngleWidth1
+10.0  8			//correctDist0
+7.5	  4.7		//correctDist1
+10.0  7			//coverAdjustAngle
+4.0	  3			//coverAdjustDist
+42.0  28		//coverAngle
+55.0  48		//coverDfAngle
+18.0  15		//coverDfAngle2
+4.5	  3.8		//coverDist
+50.0	//coverPenaltyAngle
+9.0		//diffContinueTargetLineX
+6.0		//diffTargetLineX
+60 30		//futureFrame
+1		//isNearPlayerAssign
+8.0	6		//limitDistX_MfLine
+70.0 120	//mfLimitRate
+5.0	4		//minCoverDist
+0 		//padding
+0 		//padding
+0		//padding

@@ -1,0 +1,130 @@
+16	//categorys array
+2	//downPointMin
+192	//gage array
+0	//padding
+
+//categorys//
+//These are split into blocks of 2 for readability//
+224	//name
+0	//retry
+
+//categorys//
+229	//name
+0	//retry
+
+//categorys//
+238	//name
+0	//retry
+
+//categorys//
+251	//name
+0	//retry
+
+//categorys//
+256	//name
+0	//retry
+
+//categorys//
+262	//name
+0	//retry
+
+//categorys//
+276	//name
+0	//retry
+
+//categorys//
+290	//name
+0	//retry
+
+//categorys//
+299	//name
+0	//retry
+
+//categorys//
+304	//name
+0	//retry
+
+//categorys//
+320	//name
+0	//retry
+
+//categorys//
+336	//name
+0	//retry
+
+//categorys//
+351	//name
+0	//retry
+
+//categorys//
+366	//name
+0	//retry
+
+//categorys//
+380	//name
+0	//retry
+
+//categorys//
+386	//name
+0	//retry
+
+//categorys//
+391	//name
+0	//retry
+
+//categorys//
+399	//name
+0	//retry
+
+//categorys//
+412	//name
+0	//retry
+
+//categorys//
+420	//name
+0	//retry
+
+//categorys//
+432	//name
+0	//retry
+0	//padding
+0	//padding
+
+//gage//
+nan	//away_lmt //Might be 206 if 0xFF is ignored
+nan	//away_max //Might be 216 if 0xFF is ignored
+nan	//away_mid //Might be 236 if 0xFF is ignored
+50	//home_lmt
+40	//home_max
+20	//home_mid
+0	//padding
+0	//padding
+
+
+//The following is the cleartext part cleaned up to be more readable. DO NOT
+//try to copy-paste this back to the .bin file in any form, it'll just break.
+//Manually hex-edit the file instead, and use this part only as a reference.//
+
+//Looks like these map to the "name" part of the "categorys" array. There's
+//21 of both, but I'm not sure what the logic behind it all is.//
+GOAL
+GOAL_OWN
+GOAL_OFFSIDE
+HALF
+SHOOT
+SHOOT_OFFENCE
+SHOOT_DEFENCE
+OUT_BALL
+FOUL
+OFFSIDE_OFFENCE
+OFFSIDE_DEFENCE
+CHANCE_OFFENCE
+CHANCE_DEFENCE
+DEFENCE_CATCH
+CLEAR
+PASS
+DRIBBLE
+OFFENCE_STOP
+COUNTER
+TAKING_BALL
+PRESS

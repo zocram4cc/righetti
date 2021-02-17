@@ -1,0 +1,15 @@
+//This file is not part of the original Tomato map, but I've mimicked it to document my changes.
+//Thanks avok.
+
+
+TRUE	//Enable Output CSV
+TRUE 	//Repeat
+128		//Retry Max
+FALSE	//Start Step Move
+90.0 70	//Start Touch Angle
+1		//Table Checker
+3		//Transition Touch Count
+22.5 30 //Turn Angle Add
+16 		//Turn Angle Num
+0		//Turn Angle Start
+FALSE 	//Turn Step Move

@@ -1,0 +1,69 @@
+//No idea what the array values mean, they're not documented anywhere//
+32	//offerNum_diagonalRun array
+64	//offerNum_lineBreak array
+96	//offerNum_pullAway array
+128	//offerNum_spaceRunChance array
+160	//offerNum_spaceRunCounter array
+192	//offerNum_spaceRunSecondLine array
+0	//padding
+0	//padding
+
+//offerNum_diagonalRun
+1
+1
+1 2
+2 
+2 3
+0	//padding
+0	//padding
+0	//padding
+
+//offerNum_lineBreak
+0
+1
+1 2
+2
+2 3
+0	//padding
+0	//padding
+0	//padding
+
+//offerNum_pullAway
+0
+0 1
+1
+1 2
+1 2
+0	//padding
+0	//padding
+0	//padding
+
+//offerNum_spaceRunChance
+1
+2
+2 3 //3 in 17
+3 4 //4 in 17
+3 5 //5 in 17
+0	//padding
+0	//padding
+0	//padding
+
+//offerNum_spaceRunCounter
+2 //0 in 17
+3 //1 in 17
+4 //2 in 17
+4 //3 in 17
+4 //4 in 17
+0	//padding
+0	//padding
+0	//padding
+
+//offerNum_spaceRunSecondLine
+0
+1
+1
+1
+1
+0	//padding
+0	//padding
+0	//padding

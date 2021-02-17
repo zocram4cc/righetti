@@ -1,0 +1,54 @@
+1	//pad
+96	//project1vs1 array
+160	//projectKick array
+0	//stopConcept
+
+//project1vs1 -> pressUpdateTimer//
+25.0	//ballAngleSub	
+1		//distFuzzyEnable
+9.0		//distMax
+2.0		//distMin
+-1.0	//hitFrameRate
+40.0	//pressAngleSub
+1		//rateKind
+0.1		//timerMax
+
+//project1vs1 -> waitTimer//
+0		//ballAngleSub	
+10.0	//distMax
+3.0		//distMin
+40.0	//pressAngleSub
+12.0	//pressDistMax
+6.0		//pressDistMin
+0.18	//pressTimerMax
+1		//rateKind
+0.3		//timerMax
+0		//padding
+0		//padding
+0		//padding
+
+//project1vs1//
+0.2	//decelerateThreshold
+257	//HEX 0x01010000, contains enable, loseNoDodgeFlag, NULL, NULL
+0	//lostBallAfterStopTime
+2.0	//pressCheckStepMoveDistance
+16	//pressUpdateTimer index
+48	//waitTimer index
+0	//padding
+0	//padding
+
+//projectKick -> gageSpeed//
+0.3		//cross	
+0.3		//longPass
+0.25	//shoot
+0.3		//shortPass
+0.3		//throughPass
+0		//padding
+0		//padding
+0		//padding
+
+//projectKick//
+0	//gageDisp
+128	//gageSpeed index
+0	//padding
+0	//padding

@@ -1,0 +1,4 @@
+0		//longpassInplayUse
+90.0	//longpassSpeedKPHMax
+30.0	//longpassSpeedKPHMin
+0		//padding

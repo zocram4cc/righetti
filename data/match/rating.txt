@@ -1,0 +1,147 @@
+96		//addPoint array
+45.0	//angleDiffMoveAngleToPos
+6.5		//baseRatingMax
+5.5		//baseRatingMin
+144		//df_rate	//cleartext
+8.0		//distOneArrow
+25.0	//distTwoArrow
+1083	//fw_rate	//cleartext
+2020	//gk_rate	//cleartext
+2470	//mf_rate	//cleartext
+9.0		//ratingMax
+4.0		//ratingMin
+2.0		//subValue100percent
+0		//subValue10percent
+0.5		//subValue20percent
+1.0		//subValue30percent
+1.5		//subValue40percent
+2.0		//subValue50percent
+2.0		//subValue60percent
+2.0		//subValue70percent
+2.0		//subValue80percent
+2.0		//subValue90percent
+0		//padding
+0		//padding
+
+//addPoint//
+0.5		//assist_over2	
+1.0		//assist_over4
+0.5		//goal_king
+0.5		//goal_or_assist
+0.5		//goal_over2
+1.5		//goal_over3
+2.0		//goal_over6
+-0.5	//lost_goal_many
+0.5		//many_save
+-0.5	//snatchedMany_dribble
+-0.5	//snatchedMany_pass
+0		//padding
+
+
+//This is the cleartext part formatted to be a bit neater. DO NOT try to copy
+//this back into the .bin file as-is, you will just break the entire thing.
+//Edit the .bin with a hex editor instead.//
+
+//DEFENDER//
+0.2 * StatsPlayerBallTouch()
++  6.0 * UnqStatsPlayerShootShort()
++  4.0 * UnqStatsPlayerShootMiddle()
++  2.0 * UnqStatsPlayerShootLong()
++  3.0 * StatsPlayerShootInFrame()
++  80.0 * StatsPlayerGoal()
+-  18.0 * StatsPlayerPKGoal()
+-  10.0 * StatsPlayerFKGoal()
+-  60.0 * StatsPlayerOwnGoal() 
++  40.0 * StatsPlayerAssist()
++  0.0  * StatsPlayerPassShortSuccess()
++  3.0  * StatsPlayerPassThrouhSuccess()
++  12.0  * StatsPlayerPassLongSuccess()
++  7.0  * StatsPlayerCenteringSuccess()
+-  6.0  * ( StatsPlayerPassShort() - StatsPlayerPassShortSuccess() ) 
++  8.0 * StatsPlayerTackleSuccess()
++  3.0 * StatsPlayerDispossessDelay()
++  3.0 * StatsPlayerDispossessPress()
++  10.0 * StatsPlayerCutPass()
++  3.0  * StatsPlayerClear() 
+-  0.0  * ( StatsPlayerFoul() - StatsPlayerOffSide() )
+-  5.0  * StatsPlayerCardYellow()
+-  40.0 * StatsPlayerCardRed()
++ 10.0 * UnqStatsPlayerDribbleAttack()
++ 5.0 * StatsTeamMyScore()
++ 10.0 * StatsTeamWin()
+
+
+//FORWARD//
+0.7 * StatsPlayerBallTouch()
++  5.0 * UnqStatsPlayerShootShort()
++  4.0 * UnqStatsPlayerShootMiddle()
++  2.0 * UnqStatsPlayerShootLong()
++  3.0 * StatsPlayerShootInFrame()
++  75.0 * StatsPlayerGoal()
+-  18.0 * StatsPlayerPKGoal()
+-  10.0 * StatsPlayerFKGoal()
+-  40.0 * StatsPlayerOwnGoal()
++  40.0 * StatsPlayerAssist()
++  1.5  * StatsPlayerPassShortSuccess()
++  3.0  * StatsPlayerPassThrouhSuccess()
++  5.0  * StatsPlayerPassLongSuccess()
++  7.0  * StatsPlayerCenteringSuccess()
+-  4.0  * ( StatsPlayerPassShort() - StatsPlayerPassShortSuccess() )
++  10.0 * StatsPlayerTackleSuccess()
++  3.0 * StatsPlayerDispossessDelay()
++  3.0 * StatsPlayerDispossessPress()
++  8.0 * StatsPlayerCutPass()
++  4.0  * StatsPlayerClear()
+-  0.0  * ( StatsPlayerFoul() - StatsPlayerOffSide() )
+-  10.0  * StatsPlayerCardYellow()
+-  50.0 * StatsPlayerCardRed()
++ 8.0 * UnqStatsPlayerDribbleAttack()
++ 15.0 * StatsTeamMyScore() 
++ 10.0 * StatsTeamWin()
+
+
+//GOALKEEPER//
+15.0 * StatsPlayerGKSave()
++  20.0 * StatsPlayerGKShootPA()
++  10.0 * StatsPlayerShoot()
++  50.0 * StatsPlayerAssist()
++  10.0 * StatsPlayerClear()
++  5.0 * StatsPlayerCutPass()
++  60.0 * StatsPlayerGoal()
+-  15.0 * StatsPlayerPKGoal()
+-  10.0 * StatsPlayerFKGoal()
+-  60.0 * StatsPlayerOwnGoal() 
+-  5.0  * StatsPlayerCardYellow()
+-  40.0 * StatsPlayerCardRed() 
++ 5.0 * StatsTeamMyScore()
+- 15.0 * StatsTeamEnemyScore()
++ 10.0 * StatsTeamWin()
+
+
+//MIDFIELDER//
+0.3 * StatsPlayerBallTouch()
++  6.0 * UnqStatsPlayerShootShort()
++  4.0 * UnqStatsPlayerShootMiddle()
++  2.0 * UnqStatsPlayerShootLong()
++  3.0 * StatsPlayerShootInFrame()
++  75.0 * StatsPlayerGoal()
+-  18.0 * StatsPlayerPKGoal()
+-  10.0 * StatsPlayerFKGoal()
+-  50.0 * StatsPlayerOwnGoal()
++  40.0 * StatsPlayerAssist()
++  1.5  * StatsPlayerPassShortSuccess()
++  3.0  * StatsPlayerPassThrouhSuccess()
++  7.0  * StatsPlayerPassLongSuccess()
++  7.0  * StatsPlayerCenteringSuccess()
+-  4.0  * ( StatsPlayerPassShort() - StatsPlayerPassShortSuccess() )
++  8.0 * StatsPlayerTackleSuccess()
++  3.0 * StatsPlayerDispossessDelay()
++  3.0 * StatsPlayerDispossessPress()
++  8.0 * StatsPlayerCutPass()
++  4.0  * StatsPlayerClear()
+-  0.0  * ( StatsPlayerFoul() - StatsPlayerOffSide() )
+-  5.0  * StatsPlayerCardYellow()
+-  40.0 * StatsPlayerCardRed()
++ 10.0 * UnqStatsPlayerDribbleAttack()
++ 10.0 * StatsTeamMyScore()
++ 10.0 * StatsTeamWin()

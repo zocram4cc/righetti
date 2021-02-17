@@ -1,0 +1,30 @@
+450		//airBattle
+1000	//border
+400		//controlSho
+360		//cross
+30		//dribble
+600		//earyCross
+300		//feint
+300		//flyThrough
+60		//grndThrough
+170		//intercept
+150		//kickAndLush
+600		//middleShoot
+350		//nearControl
+1000	//offSidetrap
+50		//oneTouchPlay
+200		//oneTwo
+2000	//setPlayGoal
+500		//sideChange
+300		//sliding
+300		//tackle
+600		//teamMateMoving
+96		//version array
+0		//padding
+0		//padding
+
+//version//
+0.0	//cleartext "v4.0"
+0	//padding
+0	//padding
+0	//padding

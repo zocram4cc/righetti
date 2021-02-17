@@ -1,0 +1,88 @@
+0	//gk_entry
+nan	//playerPosNo
+32	//playerPosTable
+nan	//restartPosNo
+176	//restartPosTable
+0	//padding
+0	//padding
+0	//padding
+
+//playerPosTable//
+270.0	//enemyAngle
+10.0	//enemyDist
+90.0	//kickerAngle
+3.0		//kickerDist
+
+//playerPosTable//
+200.0	//enemyAngle
+10.0	//enemyDist
+90.0	//kickerAngle
+3.0		//kickerDist
+
+//playerPosTable//
+340.0	//enemyAngle
+10.0	//enemyDist
+90.0	//kickerAngle
+3.0		//kickerDist
+
+//playerPosTable//
+270.0	//enemyAngle
+25.0	//enemyDist
+90.0	//kickerAngle
+3.0		//kickerDist
+
+//playerPosTable//
+200.0	//enemyAngle
+25.0	//enemyDist
+90.0	//kickerAngle
+3.0		//kickerDist
+
+//playerPosTable//
+340.0	//enemyAngle
+25.0	//enemyDist
+90.0	//kickerAngle
+3.0		//kickerDist
+
+//playerPosTable//
+270.0	//enemyAngle
+5.0		//enemyDist
+270.0	//kickerAngle
+3.0		//kickerDist
+
+//playerPosTable//
+240.0	//enemyAngle
+5.0		//enemyDist
+270.0	//kickerAngle
+3.0		//kickerDist
+
+//playerPosTable//
+300.0	//enemyAngle
+5.0		//enemyDist
+270.0	//kickerAngle
+3.0		//kickerDist
+
+
+//These are in blocks of 2 for readability, since they're separate values//
+//restartPosTable//
+20.0	//x
+0		//z
+
+//restartPosTable//
+20.0	//x
+20.0	//z
+
+//restartPosTable//
+20.0	//x
+-20.0	//z
+
+//restartPosTable//
+35.0	//x
+0		//z
+
+//restartPosTable//
+35.0	//x
+20.0	//z
+
+//restartPosTable//
+35.0	//x
+-20.0	//z

@@ -1,0 +1,48 @@
+2.0		//adjustAngle
+0		//adjustAngleHigh
+0		//adjustGageFarZ
+2.0		//adjustGageNearZ
+96		//adjustSearchAngleRate array
+10.0	//adjustSpeed
+-5.0	//adjustSpeedGrounder
+0		//adjustSpeedHigh
+112		//adjustStartPointRate array
+128		//allowAngleWidth array
+4.5		//centeringCurveAdjustMax
+4.0		//centeringCurveBase
+93.0 90	//centeringMaxSpeedHigh
+89.0 75	//centeringMaxSpeedLow
+0.0		//HEX 0x00000001, contains debugDisp, debugDisp_searchBasePoint, forceLowLob, gageTest
+257		//HEX 0x01010000, contains isSkillLowLob, isValid_lowLob, NULL, NULL
+2.0		//limitBackX
+13.0	//limitFrontX
+144		//limitZRate array
+40.0 33	//searchMaxDist
+5.0	4	//searchMinDist
+0.0		//HEX 0x01010100, contains searchTest, searchTest2016, stickTest, NULL
+0		//padding
+0		//padding
+
+//adjustSearchAngleRate//
+0
+0.7
+0.3
+0	//padding (?)
+
+//adjustStartPointRate//
+0
+0
+0.5
+1.0
+
+//allowAngleWidth//
+0
+0
+35.0
+180.0
+
+//limitZRate//
+1.0
+1.0
+0.5
+0	//padding (?)

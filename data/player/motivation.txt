@@ -1,0 +1,10 @@
+16	//param_rate array
+0	//padding
+0	//padding
+0	//padding
+
+//param_rate//
+0.95 0.9	//effect_down
+1.05 1.11	//effect_up
+0		//padding
+0		//padding

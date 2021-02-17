@@ -1,0 +1,84 @@
+48	//defence array
+208	//offence array
+240	//retry array
+0	//padding
+
+//defence -> parameter//
+256	//HEX 0x00010000, contains control, fishDive, heel, NULL
+0	//keeperCheckStyle
+0	//keeperCheckType
+95	//keeperStartParam
+95	//kickerStartParam
+0	//padding
+0	//padding
+0	//padding
+
+//defence//
+1	//keeper
+1	//moveKind
+5	//moveMode
+2	//moveSpeed
+16	//parameter index
+0	//pattern
+0	//situation
+1	//stop
+
+//offence -> kickAuto//
+0.6	//checkXRate	
+0.6	//checkZ
+1	//enable
+0	//padding
+
+//offence -> kickDebug//
+40.0	//adjustY		
+7.0		//adjustZ
+0.5		//checkXRate
+2.0		//checkZ
+1		//enable
+1		//shootKind
+0		//startSpeedLevel
+0		//padding
+
+//offence -> kickPointBall//
+1.0	//y
+6.0	//z
+0	//padding
+0	//padding
+
+//offence -> kickPointDirect//
+1.2	//y
+3.8	//z
+0	//padding
+0	//padding
+
+//offence -> kickPointGoal//
+0.5	//y
+0.8	//z
+0	//padding
+0	//padding
+
+//offence -> kickPosition//
+0		//angle
+26.0	//dist
+256		//HEX 0x00010000, contains dribbleAiThink, dribbleStart, NULL, NULL
+20.0	//shootGoalDist
+0		//shootKpDist
+0		//padding
+0		//padding
+0		//padding
+
+//offence//
+80	//kickAuto
+96	//kickDebug
+1	//kickMode
+128	//kickPointBall
+144	//kickPointDirect
+160	//kickPointGoal
+176	//kickPosition
+0	//kickRotMode
+
+//retry//
+0	//auto
+401	//code
+nan	//setid
+0	//padding

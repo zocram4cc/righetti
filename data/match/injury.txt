@@ -1,0 +1,12 @@
+0	//dummy
+120	//levelDamageMicro
+220	//levelDamageMiddle
+180	//levelDamageMinor
+240	//levelDamageSerious
+120	//symptomDamageBruise
+250	//symptomDamageFracture
+160	//symptomDamageInflammation
+220	//symptomDamageLaceration
+240	//symptomDamageLigament
+230	//symptomDamageTearMuscle
+0	//padding

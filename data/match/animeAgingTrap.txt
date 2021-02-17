@@ -1,0 +1,17 @@
+//This file is not part of the original Tomato map, but I've mimicked it to document my changes.
+//Thanks avok.
+
+
+TRUE	//Enable Output CSV
+128		//Retry Max
+22.5 28.5	//Ball Angle H Add
+16 		//Ball Angle H Num
+0		//Ball Angle H Start
+22.5 28.5	//Ball Angle V Add
+3 		//Ball Angle V Num
+1		//Ball Angle V Start
+30		//Ball Speed
+0		//Player Trap Pos X
+1.5		//Player Trap Pos Y
+0		//Player Trap Pos Z
+0		//Zz Dummy

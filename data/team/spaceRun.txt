@@ -1,0 +1,84 @@
+90.0  98	//angleDiff_chance
+110.0 120	//angleDiff_chance_good
+60.0  85	//angleDiff_second
+90.0  110	//angleDiff_second_good
+130.0	//angleDiff_side //GONE IN 21
+130.0	//angleDiff_side_good //GONE IN 21
+15.0	//angleWidth0 //GONE IN 21
+15.0	//angleWidth0_good //GONE IN 21
+17.0	//angleWidth1 //GONE IN 21
+21.0	//angleWidth1_good //GONE IN 21
+20.0	//angleWidth2 //GONE IN 21
+25.0	//angleWidth2_good //GONE IN 21
+1			//backwardCurve
+100   98		//chanceScore
+85    80		//chanceScore_good
+30.0  45		//checkAngleWidthSector
+50.0  75		//checkAngleWidthSector_good
+2		//checkAreaNum
+4		//checkAreaNum_good
+12.0  14		//checkBackDist_second
+17.0  20		//checkBackDist_second_good
+25.0  30		//checkBallDist_chance
+28.0  36		//checkBallDist_chance_good
+16.0  22		//checkBallDist_counter
+20.0  27		//checkBallDist_counter_good
+25.0  31		//checkBallDist_second
+30.0  42		//checkBallDist_second_good
+90.0  120		//checkBodyAngle
+110.0 140		//checkBodyAngle_good
+1		//checkCount
+2		//checkCount_good
+5.0		//checkCrossPointDist0_chance //GONE IN 21
+4.0		//checkCrossPointDist0_chance_good //GONE IN 21
+6.0		//checkCrossPointDist1_chance //GONE IN 21
+5.0		//checkCrossPointDist1_chance_good //GONE IN 21
+7.0		//checkCrossPointDist2_chance //GONE IN 21
+6.0		//checkCrossPointDist2_chance_good //GONE IN 21
+27.0  32		//checkFreeDist
+32.0  38		//checkFreeDist_good
+0 2			//checkInterceptScore
+10.0  22 		//checkInterceptScore_good
+19.0  26		//checkLastLineDist_chance
+23.0  30		//checkLastLineDist_chance_good
+5.0		//checkLastLineDist_flow //GONE IN 21
+10.0	//checkLastLineDist_flow_good //GONE IN 21
+4.0	  7			//checkMarginDist
+8.0	  14		//checkMarginDist_good
+82.0  92		//checkMoveAngle
+100.0 140		//checkMoveAngle_good
+15.0  11		//checkOffsideLineDistX
+2.0   1			//checkOffsideLineDistX_counter
+2.0   1			//checkOffsideLineDistX_counter_good
+18.0  12	 	//checkOffsideLineDistX_good
+40.0  48		//checkPlayPointDist
+20.0  28		//checkPlayPointDistX
+24.0  40		//checkPlayPointDistX_good
+40.0  56		//checkPlayPointDist_good
+100	  130		//checkScore
+95		//checkScore_flow //GONE IN 21
+80		//checkScore_flow_good //GONE IN 21
+90 99		//checkScore_good
+1		//checkSpaceRunCount
+1 2			//checkSpaceRunCount_good
+40.0  34		//checkZ
+13.0  15	 	//checkZ_counter
+18.0  20		//checkZ_counter_good
+15.0	//checkZ_flow //GONE IN 21
+20.0	//checkZ_flow_good //GONE IN 21
+40.0  44		//checkZ_good
+20.0  24		//checkZ_second
+30.0  34		//checkZ_second_good
+0.0 	//HEX 0x01010001, contains createPassCourse, defenceGap, inOut, roundTest
+4     5			//searchCount
+6     8		 	//searchCount_good
+25.0	//sectorDist0 //GONE IN 21
+25.0	//sectorDist0_good //GONE IN 21
+17.0	//sectorDist1 //GONE IN 21
+20.0	//sectorDist1_good //GONE IN 21
+10.0	//sectorDist2 //GONE IN 21
+15.0	//sectorDist2_good //GONE IN 21
+1		//shortConceptTest //GONE IN 21
+3		//supportTime
+2		//supportTime_good
+1		//vitalSupportPrior

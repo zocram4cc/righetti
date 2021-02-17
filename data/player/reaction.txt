@@ -1,0 +1,4 @@
+1	//thinkWaitTimer
+0	//padding
+0	//padding
+0	//padding

@@ -1,0 +1,96 @@
+32	//BallGard array
+64	//BreakThrough array
+144	//MatchUp array
+160	//Nomal array
+192	//QuickTurn array
+224	//Safety array
+272	//Stop array
+0	//padding
+
+//BallGard//
+0	//dummy
+0	//padding
+0	//padding
+0	//padding
+
+//BreakThrough -> DashCheckSecotor//
+40.0	//angle
+10.0	//dist
+0		//padding
+0		//padding
+
+//BreakThrough//
+48		//DashCheckSecotor index
+5.0		//distDecideAngle
+40.0	//distThikStart
+120.0	//enemySearchAngle
+
+//MatchUp -> Burst//
+60.0	//angleSubMax
+90.0	//enemyFanWidth
+0.6		//enemyFutureSec
+3.5		//startDist
+
+//MatchUp -> OneTwo//
+20.0	//courseCheckWidth
+3.0		//distTargetToEnemy
+2.5		//passTimingDist
+20.0	//rangeFar
+4.0		//rangeNear
+0		//padding
+0		//padding
+0		//padding
+
+//MatchUp -> Slide//
+7.0	//keepDistMax
+4.0	//keepDistMin
+5.0	//startDist
+0	//padding
+
+//MatchUp//
+80		//Burst index
+96		//OneTwo index
+128		//Slide index
+55.0	//distThikStart
+
+//Nomal//
+10.0	//distDecideAngle
+10.0	//distLeaveEnemy
+240.0	//enemySearchAngle
+15		//frameLeaveEnemy
+1.0		//rateLeaveEnemy
+0		//padding
+0		//padding
+0		//padding
+
+//QuickTurn//
+0	//dummy
+0	//padding
+0	//padding
+0	//padding
+
+//Safety -> GearDownCheckSecotor//
+30.0	//angle
+15.0	//dist
+10		//frame
+0		//padding
+
+//Safety//
+208		//GearDownCheckSecotor index
+6.0		//distDecideAngle
+15.0	//distLeaveEnemy
+6.0		//enemyCheckDistMax
+3.0		//enemyCheckDistMin
+180.0	//enemySearchAngle
+10		//frameLeaveEnemy
+45.0	//gearDownMoveAngleSub
+1.0		//rateLeaveEnemy
+0		//padding
+0		//padding
+0		//padding
+
+//Stop//
+0	//dummy
+0	//padding
+0	//padding
+0	//padding

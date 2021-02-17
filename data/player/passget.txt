@@ -1,0 +1,74 @@
+96		//autoFrontMove array
+1.0		//ballArrivalFastSec
+1		//ballAvoidEnable
+112		//defence array
+160		//inputMoveAir array
+192		//inputMovePosition array
+0		//manualPassGetRate
+100.0	//neutralTrapAutoFront
+1		//nextPlayEnable
+45.0	//openBodyMaxValue
+1		//passGetThroughNoTrap
+35.0	//positionAdjustAngleSubMax
+1		//positionAdjustEnable
+0.3		//positionAdjustSide
+0.0		//HEX 0x00000001, contains thinkPressFilterUntilTargetBallThrough, trapRunReceiveMotionFreeMove, trapRunReceiveMotionStepMove, trapStopThinkEnemyFarFoot
+0.4		//trapStopThinkEnemyFrameDiffSec
+1		//trapStopThinkStrongerFoot
+22.5	//trapStopThinkStrongerFootBallSpeedKph
+0		//padding
+0		//padding
+
+//autoFrontMove -> pressure//
+9.0	//circleDist	
+0	//mode
+0.1	//secDiff
+1	//thinkDelay
+
+//autoFrontMove//
+1	//enable
+0	//moveKind
+80	//pressure index
+1	//slowMoveEnable
+
+//defence//
+90.0 120	//paraMax
+60.0 40	//paraMin
+0.4		//secMax
+0.4		//secMin
+
+//inputMoveAir -> moveRange//
+1.5	2.5 //length
+0.5	//side
+0	//padding
+0	//padding
+
+
+//inputMoveAir -> moveRangeFree//
+1.5 2.5	//length
+0	//side
+0	//padding
+0	//padding
+
+//inputMoveAir//
+1	//ballBound
+1.5	//ballHeight
+1	//enable
+128	//moveRange index
+144	//moveRangeFree index
+3.0	//targetDist
+0	//padding
+0	//padding
+
+//inputMovePosition//
+1	//enable
+0	//padding
+0	//padding
+0	//padding
+
+
+New from 17
+//Ball Follow Neutral//
+30.0 Ball Angle
+40.0 37 Ball Speed Max
+5.0 Ball Speed Min

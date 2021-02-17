@@ -1,0 +1,588 @@
+//This file is a mess because the same values are repeated 17 times for different
+//configurations.//
+1376	//shotPattern array
+0		//padding
+0		//padding
+0		//padding
+
+//shotPattern -> cameraPos//
+10.0	//angleXZ	
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+1.0		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ	
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+4	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+2	//interval	
+0	//offset
+1	//point
+nan	//range
+
+//shotPattern -> cameraPos//
+35.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.8		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+4	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+2	//interval
+0	//offset
+1	//point
+nan	//range
+
+//shotPattern -> cameraPos//
+-35.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.8		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+4	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+2	//interval
+0	//offset
+1	//point
+nan	//range
+
+//shotPattern -> cameraPos//
+25.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+6		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0		//angleXZ
+1		//isLocalTransform
+0		//isOffsetFromGround
+-0.1	//offsetXZ
+0		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+17	//range
+
+//shotPattern -> cameraPos//
+-25.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+6		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0		//angleXZ
+1		//isLocalTransform
+0		//isOffsetFromGround
+-0.1	//offsetXZ
+0		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+17	//range
+
+//shotPattern -> cameraPos//
+120.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.8		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0		//angleXZ
+1		//isLocalTransform
+0		//isOffsetFromGround
+-0.1	//offsetXZ
+0		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+17	//range
+
+//shotPattern -> cameraPos//
+-55.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+-2.6	//offsetXZ
+2.2		//offsetY
+3		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0		//angleXZ
+1		//isLocalTransform
+0.75	//isOffsetFromGround
+-1.25	//offsetXZ
+3		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+20	//range
+
+//shotPattern -> cameraPos//
+55.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+-2.6	//offsetXZ
+2.2		//offsetY
+3		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0		//angleXZ
+1		//isLocalTransform
+0.75	//isOffsetFromGround
+-1.25	//offsetXZ
+3		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+20	//range
+
+//shotPattern -> cameraPos//
+35.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+10	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+20	//range
+
+//shotPattern -> cameraPos//
+-35.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+10	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+20	//range
+
+//shotPattern -> cameraPos//
+125.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+10	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+20	//range
+
+//shotPattern -> cameraPos//
+180.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.5		//offsetXZ
+0.5		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+6	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+15	//range
+
+//shotPattern -> cameraPos//
+0		//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.5		//offsetXZ
+0.5		//offsetY
+5		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+0	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+0	//offset
+0	//point
+15	//range
+
+//shotPattern -> cameraPos//
+20.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+7	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+10	//range
+
+//shotPattern -> cameraPos//
+15.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+7	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+65	//range
+
+//shotPattern -> cameraPos//
+60.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+7	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+65	//range
+
+//shotPattern -> cameraPos//
+-60.0	//angleXZ
+1		//isLocalTransform
+1		//offsetPoint
+7.0		//offsetXZ
+0.5		//offsetY
+0		//point
+0		//padding
+0		//padding
+
+//shotPattern -> lookAt//
+0	//angleXZ
+1	//isLocalTransform
+0	//isOffsetFromGround
+0	//offsetXZ
+7	//offsetY
+0	//point
+0	//padding
+0	//padding
+
+//shotPattern -> timing//
+1	//interval
+nan	//offset
+0	//point
+65	//range
+
+//shotPattern//
+//These are broken into blocks of 6 for readability. There is no padding 0x00
+//between these blocks, but they're still separate control values.//
+16		//cameraPos
+10.0	//fovY
+48		//lookAt
+100		//percent
+0		//scene
+80		//timing
+
+//shotPattern//
+96		//cameraPos
+13.0	//fovY
+128		//lookAt
+100		//percent
+0		//scene
+160		//timing
+
+//shotPattern//
+176		//cameraPos
+13.0	//fovY
+208		//lookAt
+100		//percent
+0		//scene
+240		//timing
+
+//shotPattern//
+256		//cameraPos
+16.0	//fovY
+288		//lookAt
+100		//percent
+1		//scene
+320		//timing
+
+//shotPattern//
+336		//cameraPos
+16.0	//fovY
+368		//lookAt
+100		//percent
+1		//scene
+400		//timing
+
+//shotPattern//
+416		//cameraPos
+16.0	//fovY
+448		//lookAt
+100		//percent
+1		//scene
+480		//timing
+
+//shotPattern//
+496		//cameraPos
+100.0	//fovY
+528		//lookAt
+100		//percent
+2		//scene
+560		//timing
+
+//shotPattern//
+576		//cameraPos
+100.0	//fovY
+608		//lookAt
+100		//percent
+2		//scene
+640		//timing
+
+//shotPattern//
+656		//cameraPos
+16.0	//fovY
+688		//lookAt
+100		//percent
+3		//scene
+720		//timing
+
+//shotPattern//
+736		//cameraPos
+16.0	//fovY
+768		//lookAt
+100		//percent
+3		//scene
+800		//timing
+
+//shotPattern//
+816		//cameraPos
+16.0	//fovY
+848		//lookAt
+100		//percent
+3		//scene
+880		//timing
+
+//shotPattern//
+896		//cameraPos
+16.0	//fovY
+928		//lookAt
+100		//percent
+4		//scene
+960		//timing
+
+//shotPattern//
+976		//cameraPos
+20.0	//fovY
+1008	//lookAt
+100		//percent
+4		//scene
+1040	//timing
+
+//shotPattern//
+1056	//cameraPos
+16.0	//fovY
+1088	//lookAt
+100		//percent
+4		//scene
+1120	//timing
+
+//shotPattern//
+1136	//cameraPos
+16.0	//fovY
+1168	//lookAt
+100		//percent
+5		//scene
+1200	//timing
+
+//shotPattern//
+1216	//cameraPos
+16.0	//fovY
+1248	//lookAt
+100		//percent
+5		//scene
+1280	//timing
+
+//shotPattern//
+1296	//cameraPos
+16.0	//fovY
+1328	//lookAt
+100		//percent
+5		//scene
+1360	//timing
+0		//padding
+0		//padding

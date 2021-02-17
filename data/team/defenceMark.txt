@@ -1,0 +1,80 @@
+22.5 50		//addAngleKickOff //hope this helps with kekoff
+3		//addRemainMarkXDistDf
+20.0 30		//adjustApproachRateMax_inOffenceDir
+5.0	 4		//adjustContinueDistTeamWork
+3.0		//adjustCrossDistTeamWork
+3.0	 5		//adjustDistBoxToBox
+50.0 42		//approachRateMax
+30.0 38		//approachRateMax_buildUp
+40.0 32		//approachRateMax_side
+60   50		//backAngleLimitGoal
+90   80		//backAngleLimitSide
+67.5 50		//ballBackAngleForLineUp
+0.7	 0.6	//checkBackFollowDist
+0.7	 1.1	//checkBackFollowDist_BoxToBox
+15.0 14		//checkBackFollowRemainDist
+18.0 22		//checkBackFollowRemainDist_BoxToBox
+1.0		//checkBackFollowZoneDist
+2.0	3		//checkBackFollowZoneDist_BoxToBox
+10 9		//checkCenterPlayLastXDist
+8 7			//checkCenterPlayLastXDistRemain
+2		//checkCenterPlayZPosRemain
+25.0 22		//checkFrontPlayPointDist
+20   16		//checkRearOffenceDist
+20		//checkRearOffenceDistFar
+15		//checkReverseSideXDist
+40   28		//checkTargetGoalDist
+0.1	 0.08	//checkZoneAreaRate
+0.3	 0.4	//checkZoneAreaRate_BoxToBox
+22.5 17.5	//continueAddAngleLimit
+2		//continueAddStartLine
+2		//continueAddWideLimit
+4 3			//cornerKickTime
+2.5 2.1		//dfZZoneRange
+6.0 5		//distDash
+2.0	2.5 	//distDashMargin
+4.0 3.5		//distDash_course
+2.0	2.2		//distJog
+2.0		//distJogMargin
+2.0	1.8		//distJog_course
+3.0	  3.5		//distRun
+2.0		//distRunMargin
+3.0		//distRun_course
+4.0		//gapDist
+5.0		//keepDistForGap
+7.0	  6		//markContinueAddDistDF
+15.0  10		//markContinueDist
+20.0  22		//markContinueDist_BoxToBox
+5 4			//mfZZoneRange
+90.0  75		//needMarkAngleBase
+25.0  21		//needMarkDistGKShort
+2.0	 1.6		//needMarkOverLastLineDist
+7		//noCrossCheckDist
+4.0  3.2		//preLastDistForGap
+20	 15		//predictionFrame
+29.15	//releaseCheckTargetAngle
+15.0	//releaseCheckTargetDfLineDist
+22.5	//releaseCheckTargetMarkedAngle
+6		//releaseCheckTargetMarkedDist
+5		//releaseTargetDist
+10.0  7			//remainMarkXLimit
+13.0  14		//remainMarkXLimit_BoxToBox
+12.0  9			//remainMarkZLimit
+18.0  19		//remainMarkZLimit_BoxToBox
+10		//reverseSideAddWideLimit
+135.0 115		//targetBallAngleForGap
+30.0  26		//targetLastDistForGap
+2.0	  1.5		//targetLineDistForLineUp
+20.0  18		//targetPlayDistForLineUp
+4.0		//tmpCheckZoneMarkDist
+1		//useCoverMoveSpeed
+10		//zoneFrontXMf
+15.0  13		//zoneMarkXLimit
+18.0  20		//zoneMarkXLimit_BoxToBox
+15.0  13		//zoneMarkZLimit
+18.0  20		//zoneMarkZLimit_BoxToBox
+2.5   2.1		//zoneZRange
+5		//zoneZRangeAlone
+0	 	//padding
+0	 	//padding
+0		//padding

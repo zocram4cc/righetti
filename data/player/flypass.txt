@@ -1,0 +1,80 @@
+48		//attackSideAdjustAngleXZMax array
+64		//defenceSideAdjustAngleXZMax array
+1		//gageManualTest
+80		//height array
+128		//manual array
+144		//manualBlendManualRateGageMax array
+160		//manualBlendManualRateGageStrong array
+176		//manualBlendManualRateGageWeak array
+-0.1	//manualBlendParaMaxAdd
+30.0	//manualBlendthreshold
+nan		//passAssistLevel
+192		//search array
+
+//attackSideAdjustAngleXZMax//
+1.0
+1.0
+0.5
+0	//padding (?)
+
+//defenceSideAdjustAngleXZMax//
+1.0
+0.25
+0.125
+0	//padding (?)
+
+//height//
+35.0 45	//distMax (50 in 17)
+35.0 45	//distMax_high (50 in 17)
+10 2 		//distMin (0 in 17)
+10 2		//distMin_high (0 in 17)
+5 4.6		//heightForDistMaxParaMax (4.5 in 17)
+6.5 6		//heightForDistMaxParaMin (6.0 in 17)
+2.0		//heightForDistMaxSkill
+8.0		//heightForDistMax_high
+1.8 1.2		//heightForDistMinParaMax (1.2 in 17)
+1.8	1.2	//heightForDistMinParaMin (1.2 in 17)
+1.5		//heightForDistMinSkill
+2.3 1.75	//heightForDistMin_high (1.75 in 17)
+
+//manual//
+60.0	//distForGageMax
+10.0	//distForGageMin
+0.3		//interpolateRate
+0		//padding
+
+//manualBlendManualRateGageMax//
+1.0
+0.6
+0.6
+0	//padding (?)
+
+//manualBlendManualRateGageStrong//
+1.0
+0.5
+0.5
+0	//padding (?)
+
+//manualBlendManualRateGageWeak//
+1.0
+0.4
+0.4
+0	//padding (?)
+
+//search//
+0.5		//angleRate
+0		//debugDisp_searchBasePoint
+1.0		//distRate
+50.0 32	//passTargetDistMax
+10.0 9	//passTargetDistMaxOffset
+15.0 12	//passTargetDistMin
+4.0	3	//passTargetDistMinOffset
+60.0 42	//searchMaxDist
+10.0 5	//searchMinDist
+15.0	//xAxisAngleMaxAngle
+5.0		//xAxisAngleZeroAngle
+15.0	//zAxisAngleMaxAngle
+5.0		//zAxisAngleZeroAngle
+0		//padding
+0		//padding
+0		//padding
