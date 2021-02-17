@@ -1,63 +1,39 @@
-45.0	//angleMax
-22.5	//angleMaxAdjust
-90.0	//angleMaxFront
-22.5	//angleMaxMargin
-135.0	//angleSubAbsMax
+45.0	75.0		//angleMax
+22.5	65.0		//angleMaxAdjust
+90.0	125.0		//angleMaxFront
+22.5	85.0		//angleMaxMargin
+135.0	170.0		//angleSubAbsMax
 0		//angleSubAbsMaxMargin
-20.0	//baseDistMax
-5.0		//baseDistMaxAdjust
-5.0		//baseDistMaxMargin
-15.0	//baseXDistMax
-5.0		//baseXDistMaxAdjust
-5.0		//baseXDistMaxMargin
-15.0	//baseZDistMax
-5.0		//baseZDistMaxAdjust
-5.0		//baseZDistMaxMargin
-12.0	//distDash
-1.0		//distDashMargin
-8.0		//distDashQuick
-2.0		//distJog
-1.0		//distJogMargin
-20.0	//distMax
-15.0	//distMaxAdjust
-5.0		//distMaxMargin
-3.0		//distRequestPass
-4.0		//distRun
-1.0		//distRunMargin
-10.0	//distXDashQuick
+20.0	32.0		//baseDistMax
+5.0		9.0			//baseDistMaxAdjust
+5.0		9.0			//baseDistMaxMargin
+15.0	20.0		//baseXDistMax
+5.0		9.0		//baseXDistMaxAdjust
+5.0		9.0		//baseXDistMaxMargin
+15.0	20.0		//baseZDistMax
+5.0		9.0		//baseZDistMaxAdjust
+5.0		9.0		//baseZDistMaxMargin
+12.0	20.0		//distDash
+1.0		2.0		//distDashMargin
+8.0		11.0		//distDashQuick
+2.0		3.0		//distJog
+1.0		1.5		//distJogMargin
+20.0	34.0		//distMax
+15.0	24.0		//distMaxAdjust
+5.0		9.0		//distMaxMargin
+3.0		4.0		//distRequestPass
+4.0		6.0		//distRun
+1.0		4.0		//distRunMargin
+10.0	12.0		//distXDashQuick
 50.0	//lowerConnectionParam
 6.0		//spaceRectLength
 160		//style array
-6.0		//supportDist
-3.0		//supportDistAdjust
-3.0		//supportDistAdjustBase_Long
-5.0		//supportDistSituation
-8.0		//supportDistSituationBack
-12.0	//supportDistSituationSide
+6.0		10.0		//supportDist
+3.0		6.0		//supportDistAdjust
+3.0		2.0		//supportDistAdjustBase_Long
+5.0		4.0		//supportDistSituation
+8.0		5.0		//supportDistSituationBack
+12.0	10.0	//supportDistSituationSide
 16.0	//thicknessPillar
 70.0	//upperConnectionParam
-1.0		//waitTimeMax
-
-
-//style//
-0	//Again no idea what these mean
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
+1.0		0.01	//waitTimeMax
