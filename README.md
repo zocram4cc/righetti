@@ -26,3 +26,7 @@ The text files follow this format:
 ```bash
 STOCK VALUE   PATCHED VALUE //variable description
 ```
+
+##TODO:
+- Test, test, and test some more. (You) too can help in finding weird corner cases.
+- Reformat the docs since I am a retard and can't into legibility.
