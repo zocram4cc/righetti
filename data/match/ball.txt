@@ -6,12 +6,12 @@
 256		//boundCheckBoundAddRate array
 288		//boundCheckFrictionAddRate array
 0		//boundCheckRotationDecRate
-25.0	28			//boundFrictionSpeedMax
-10.0	8			//boundFrictionSpeedMin
+25.0	//boundFrictionSpeedMax
+10.0	//boundFrictionSpeedMin
 320		//boundRate	array
-7.5		7.92		//boundRollMax
-20.0	24			//boundRotationSpeedMax
-5.0		3.9			//boundRotationSpeedMin
+7.5		//boundRollMax
+20.0	//boundRotationSpeedMax
+5.0		//boundRotationSpeedMin
 352		//boundToRotationAddRateXZ array
 0.07	//boundToRotationAddRateY //REPLACED BY ARRAY IN 21
 384		//boundToRotationBaseXZ array
@@ -28,38 +28,38 @@
 0.7		//curveToSpeedSpeedYRateBase //GONE IN 21
 3.0		//debugKickAngle
 35.0	//debugKickSpeed
-96.995  96.98		//dragSpeedMax
-56.9956 56.94		//dragSpeedMin (56.996 in 17)
+96.995	//dragSpeedMax
+56.9956 //dragSpeedMin (56.996 in 17)
 416		//frictionRollRateMax array
 448		//frictionRollRateMin array
 480		//frictionRollSpeedMax array
 512		//frictionRollSpeedMin array
-0.08	0.091		//grounderBoundYAdd (0.085 in 17)
+0.08	//grounderBoundYAdd (0.085 in 17)
 8.0		//grounderCTan
-0.985   0.981		//grounderFrictionRate (0.98 in 17)
-20.0    20.8		//grounderSpeed
+0.985   //grounderFrictionRate (0.98 in 17)
+20.0    //grounderSpeed
 0.035	//magnusRate
 544		//natualBoundA array
-0.4	    0.41		//natualBoundB
+0.4	    //natualBoundB
 2.0		//naturalRoll
-105.0   116		//nonSpinMax
-45.0    42		//nonSpinMin
+105.0   106		//nonSpinMax
+45.0   	//nonSpinMin
 1.0		//nonSpinRate
 1.0		//nonSpinTopDownDecRate
 1.0		//nonSpinTopRiseDecRate
 1.0 	//pitchCondition
 -2.0	//roll
-0.07	0.073		//rollToBoundAdd
-7.0		7.9		//rollToBoundRollMax
+0.07	//rollToBoundAdd
+7.0		//rollToBoundRollMax
 2.0		//rollToBoundRollMin
 576		//rollToSpeedMaxKPH array
-8.5		8.8		//rollToSpeedMaxRoll (7.5 in 17)
-0.5		0.7		//rollToSpeedSpeedYMax (0.7 in 17)
-0.1		0.15		//rollToSpeedSpeedYMin
+8.5		//rollToSpeedMaxRoll (7.5 in 17)
+0.5		//rollToSpeedSpeedYMax (0.7 in 17)
+0.1		//rollToSpeedSpeedYMin
 0.2		//rollToSpeedSpeedYRateBase //REPLACED BY ARRAY IN 21
 0		//HEX 0x00000000, contains rotationCustom, speedCustom, NULL, NULL
-0.175	0.168		//stopSpeed
-10.0	10.5		//topSpinChangeSpeed
+0.175	//stopSpeed
+10.0	//topSpinChangeSpeed
 1.0		//topSpinDownDecRate
 1.0		//topSpinRiseDecRate
 
@@ -96,29 +96,29 @@
 
 
 //boundToRotationAddRateXZ// completely different from 17
-0.62 0.624
-0.64 0.644
-0.66 0.666
-0.14 0.16
-0.62 0.625
-0.62 0.625
+0.62 0.6	//these changes are taken from 19
+0.64 0.62
+0.66 0.64
+0.14 0.12
+0.62 0.62
+0.62 0.62
 
 //boundToRotationAddRateY// new, mapped by avok
 
-0.07 0.071
-0.07 0.071
-0.07 0.071
-0.07 0.071
-0.07 0.071
-0.03 0.031
+0.07 
+0.07 
+0.07 
+0.07 
+0.07 
+0.03 
 
 //boundToRotationBaseRateXZ// completely different from 17
-0.13 0.132
-0.17 0.171
-0.21 0.211
-0.11 0.111
-0.2  0.21
-0.2  0.21
+0.13 0.16	//these changes are taken from 19
+0.17 0.2
+0.21 0.24
+0.11 0.13
+0.2  
+0.2  
 
 //boundToRotationBaseRateY// new, mapped by avok
 0.03
@@ -129,76 +129,76 @@
 0.02
 
 //boundToRotationSpeedMaxXZ// new, mapped by avok
-20.0 22
-20.0 22
-20.0 22
-20.0 22
+20.0 25	//these changes are taken from 19
+20.0 25
+20.0 25
+20.0 25
 0.7
-25.0 26
+25.0 25
 
 //boundToRotationSpeedMaxY// new, mapped by avok
-0.7 0.72
-0.7 0.72 
-0.7 0.72
-0.7 0.72
-0.7 0.72
+0.7 
+0.7 
+0.7 
+0.7 
+0.7 
 30
 
 //boundToRotationSpeedMinXZ// new, mapped by avok
-5
-5
-5
-5
+5	3	//these changes are taken from 19
+5	3
+5	3
+5	3
 0.1
-3
+3	3
 
 //boundToRotationSpeedMinY// new, mapped by avok
-0.1 0.11
-0.1 0.11
-0.1 0.11
-0.1 0.11
-0.1 0.11
+0.1 
+0.1 
+0.1 
+0.1 
+0.1 
 1.0
 
 //frictionRollRateMax// completely different in 17
-0.975 0.974
-0.972 0.971
-0.969 0.968
-0.99  0.98
-0.955 0.954
-0.983 0.982
+0.975 
+0.972 
+0.969 
+0.99  
+0.955 
+0.983 
 
 //frictionRollRateMin// completely different in 17
-0.985 0.984
-0.982 0.981
-0.979 0.978
-0.98  0.97
-0.987 0.986
-0.983 0.982
+0.985 
+0.982 
+0.979 
+0.98  
+0.987 
+0.983 
 
 //frictionRollRateStop// new, mapped by avok
-0.975 0.974
-0.972 0.971
-0.969 0.968
-0.97  0.965
-0.987 0.986
-0.983 0.982
+0.975 
+0.972 
+0.969 
+0.97  
+0.987
+0.983
 
 //frictionRollSpeedMax//  
-25.0  26
-25.0  26
-25.0  26
-50.0  52 //70 in 17
-8.0   9
-30.0  31 //missing in 17
+25.0  
+25.0
+25.0
+50.0		//70 in 17
+8.0
+30.0	0	//missing in 17 - based on 19, I wonder why it's 0?
 
 //frictionRollSpeedMin// completely different in 17
-8.0  7
-8.0  7
-8.0  7
-8.0  7
-8.0  7
-15.0 14
+8.0
+8.0
+8.0 
+8.0
+8.0
+15.0
 
 //frictionRollSpeedStop// new, mapped by avok
 0.0
@@ -225,12 +225,12 @@
 0.055
 
 //natunalRollBackSpinRate// lol konami - new, mapped by avok
-0.35 0.354
-0.4  0.44
-0.45 0.47
-0.2  0.24
-0.5  0.52
-0.4  0.42
+0.35	//these changes are taken from 19
+0.4 
+0.45
+0.2  0.45
+0.5  0.2
+0.4  
 
 //overRotMax// new, mapped by avok
 1.0
@@ -249,17 +249,17 @@
 -2.0
 
 //rollToSpeedMaxKPH//
+18.0	20	//these changes are taken from 19
+18.0	20
+18.0	20
+8.5		//9.0 in 17
 18.0
-18.0
-18.0
-8.5 //9.0 in 17
-18.0
-16.0 //missing in 17
+16.0	//missing in 17
 
 //rollToSpeedSpeedYRateBase// new, mapped by avok
-0.8 0.815
-0.8 0.815
-0.8 0.815
-0.4 0.415
-0.2 0.22
-0.8 0.815
+0.8
+0.8 
+0.8 
+0.4 
+0.2 
+0.8
