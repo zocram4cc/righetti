@@ -1,5 +1,5 @@
-90 80		//checkAreaScore
-70 60		//checkAreaScore_lineBreaker
+90 100		//checkAreaScore
+70 80		//checkAreaScore_lineBreaker
 60.0 75 	//checkBodyAngleEyesOff
 80.0 100	//checkBodyAngleEyesOff_lineBreaker
 60.0 85		//checkBodyAnglePullAway

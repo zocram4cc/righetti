@@ -10,8 +10,8 @@
 
 //press//
 0	//checkArea
-1.0	//checkDist
-3.0 2	//checkDistShoot
+1.0 2	//checkDist
+3.0 4	//checkDistShoot
 1	//enable
 16	//press index
 0	//padding

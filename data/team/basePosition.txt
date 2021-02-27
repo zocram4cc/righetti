@@ -12,12 +12,12 @@
 5.0		//adjustDistX_Throwin_CB
 4.0		//adjustDiv
 1		//adjustEnemyZ
--10.0 -11		//adjustFrontOF
--12.0 -14		//adjustFwLine //decreasing these may seem counterintuitive, but I'm trying to find out if better linkup between midfield and offence is possible without compromising the strikers.
-1		//adjustGapDfLine
+-10.0 -4		//adjustFrontOF
+-12.0 -4		//adjustFwLine //decreasing these may seem counterintuitive, but I'm trying to find out if better linkup between midfield and offence is possible without compromising the strikers.
+1		2	//adjustGapDfLine
 1		//adjustGapDfLineAction
-1		//adjustMoveEnemySide
-7.0	  3.0		//adjustReturnDist
+1		2	//adjustMoveEnemySide
+7.0	  8.0		//adjustReturnDist
 1		//adjustSetplay
 8.0		//adjustSideZ
 13.0	//adjustSideZ_concept_side
@@ -76,29 +76,29 @@
 5.0	  4			//dfAttackWidthMarginBack
 12.0  9			//dfAttackWidthMarginFront
 0.0 	//HEX 0x01010100, contains dfCoverAdjustX, dfCoverEnable, dfForceAverageZ, NULL
-0.5		//dfGroupRate
-10	  7			//dfLine
-10.0  50		//dfLineAdjustMax //time to press - hopefully these reflect the d-line slider
-3.0	  -5		//dfLineAdjustMin
-10.0  6			//dfLineBack
-8.0	  32		//dfLineCenterAdjustMax
--5.0  -10		//dfLineCenterAdjustMin
-0.55  0.33		//dfLineCloseRate
-0.2	  0.18		//dfLineRate
+0.5	 0.23	//dfGroupRate
+10	  14		//dfLine
+10.0  80		//dfLineAdjustMax //time to press - hopefully these reflect the d-line slider
+3.0	  12		//dfLineAdjustMin
+10.0  15			//dfLineBack
+8.0	  69		//dfLineCenterAdjustMax
+-5.0  3		//dfLineCenterAdjustMin
+0.55  0.23		//dfLineCloseRate
+0.2	  0.4		//dfLineRate
 0.1		//dfLineRate_goalKick
-16.0  18		//dfLineWidth_3
-20.0  22		//dfLineWidth_4
-24.0  26		//dfLineWidth_5
+16.0  20		//dfLineWidth_3
+20.0  24		//dfLineWidth_4
+24.0  28		//dfLineWidth_5
 6.0		//dfLineWidth_Corner
 1		//dfUserPositionAdjustEnable
-1.0		//dfUserPositionAdjustRate
-30		//dfUserPositionAdjustTime
-58.0  65		//diffRestartX_End (65 in 17)
-35.0  40		//diffRestartX_Start (40 in 17)
-9.0	  7 		//forceDashDistDefence
-15.0  18		//forceDashDistOffence
-2.4	  2.1		//forceJogDist
-1.2	  0.8		//forceWalkDist
+1.0	  4.0		//dfUserPositionAdjustRate
+30	  5			//dfUserPositionAdjustTime
+58.0  50		//diffRestartX_End (65 in 17)
+35.0  20		//diffRestartX_Start (40 in 17)
+9.0	  10 		//forceDashDistDefence
+15.0  14		//forceDashDistOffence
+2.4	  2.8		//forceJogDist
+1.2	  1.6	//forceWalkDist
 1.0		//freeKickAdjustRateX_MF
 55.0	//freeKickAdjustRateZ
 63.0	//freeKickAdjustRateZ_FW
@@ -106,7 +106,7 @@
 nan		//freekickAttackForce0
 nan		//freekickAttackForce1
 nan		//freekickAttackForce2
-0.8	  2			//fwGroupRate
+0.8	  1.33		//fwGroupRate
 0		//gklAdjustRateX
 0		//gklAdjustRateZ_DF
 0		//gklAdjustRateZ_FW
@@ -131,41 +131,41 @@ nan		//freekickAttackForce2
 1		//isUseDashSituation
 50.0	//jogMfLineScore
 1		//keepDfTargetLineX
--18.0  -20		//kickoffDfLineX
-0.8   0.4		//lastLineCloseMaxRate
-35.0  40		//lengthDf
-35.0   	//lengthDf_Retreat
-30.0  32		//lengthDf_SuperRetreat
-35.0  40		//lengthOf (40 in 17)
+-18.0  -16		//kickoffDfLineX
+0.8   0.33		//lastLineCloseMaxRate
+35.0  50		//lengthDf
+35.0  40	 	//lengthDf_Retreat
+30.0  38		//lengthDf_SuperRetreat
+35.0	32		//lengthOf (40 in 17)
 13.0	//limitBesideWidth
-13.0	//limitBesideWidth_df 
+13.0	10	//limitBesideWidth_df 
 1		//lineControl
 50.0	//lowerConnectionParam
 120		//marginPredictionFrameAdjust
 0		//marginPredictionFrameBase
 1.0		//marginSide
--6.0  -10		//marginTargetLineX (-9 in 17)
-6.0	  8			//margin_restartX
+-6.0  -5		//marginTargetLineX (-9 in 17)
+6.0			//margin_restartX
 30.0  38		//matchUpContinueRate
 40.0  52		//matchUpContinueRate_FW_MF
 95.0  80		//maxCloseXRate_FreeKick
 30.0  1			//maxWaitTime //I hate wait times.
 0.2	  1			//mfAdjustMaxRateX
-0.4	  0.28		//mfGroupRate (0.3 in 17)
+0.4	  0.45		//mfGroupRate (0.3 in 17)
 0.1	  1			//mfLineRate
 10.0  20		//mfLineScore_adjustMax
-35.0  65		//mfPushUpRate
-65.0  120		//mfPushUpRate_offencive
-9.0	  4			//minDistMF_DF (8 in 17)
-6.0	  1			//minDistMF_DF_stratagy_defensive
-1.5	  0.8		//minDistMF_FW
-9.0	  6			//minWidth (8 in 17)
+35.0  55		//mfPushUpRate
+65.0  100		//mfPushUpRate_offencive
+9.0	  18			//minDistMF_DF (8 in 17)
+6.0	  12			//minDistMF_DF_stratagy_defensive
+1.5	  0.9		//minDistMF_FW
+9.0	  7			//minWidth (8 in 17)
 2.0		//minWidth_GoalKick
-7.0	  4			//minWidth_stratagy_defensive
+7.0	  6			//minWidth_stratagy_defensive
 0.8		//moveStartDist
 1		//numericalRelationDefenceLine
-45.0  40			//offenceWideLength
-48.0  60			//offenceWideLength_concept_side
+45.0  30			//offenceWideLength
+48.0  50			//offenceWideLength_concept_side
 1		//offenceZposiAdjust
 0		//offenceZposiAdjustDist
 1		//onPassCourse
@@ -185,25 +185,25 @@ nan		//freekickAttackForce2
 1		//sideClose
 60.0  40			//sideCloseRate
 0		//slide
-25.0  36			//slideDistMax
+25.0  32			//slideDistMax
 8.0   2				//slideDistMin
 10.0  8				//slideJudgeWidthBase
 10.0  12			//slideJudgeWidthMargin
 0		//slideKind
-3.0   4				//slideWidth
+3.0   2				//slideWidth
 1		//slowDownArrivalFrame
 1		//slowDownDefenceLine
-1     0				//slowDownFw
+1     			//slowDownFw
 1		//slowDownMySide
 1     0				//slowDownPassFrame
-0.43  0.4			//spaceCoverRate
-5.0	  3				//speedDownRunDist
+0.43  0.33			//spaceCoverRate
+5.0	  2				//speedDownRunDist
 4.0	  2				//speedUpRunDist
 1		//speedUpTargetLine
 9.0		//supportDist_FreeKick
 0.2		//targetLineXVariation
 0.2		//targetLineZVariation
-0     1				//teamToGroupAdjustEnable
+0 		//teamToGroupAdjustEnable
 0		//teamToGroupAdjustEnd
 -10.0	//teamToGroupAdjustStart
 20.0	//throwinLengthDf
@@ -213,6 +213,6 @@ nan		//freekickAttackForce2
 5     2				//transitionSec
 0		//transitionSmooth
 70.0	//upperConnectionParam
-20.0	//walkMfLineScore
+20.0  40	//walkMfLineScore
 0.3		//wideRate
 0		//xposiRateCustom

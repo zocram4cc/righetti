@@ -1,4 +1,4 @@
-0.2 0.01	//InplayTapPassCheckSec
+0.2 0.001	//InplayTapPassCheckSec
 208	//UEFAShootFreekick array
 240	//defenceMarkCalcApproachRate array
 288	//foul array
@@ -73,7 +73,7 @@
 
 //defenceMarkCalcApproachRate// //this seems to be important, if the defence is sluggish to mark opposition strikers, revert
 1	//custom
-0.5  0.38	//rate
+0.5  0.28	//rate
 0	//padding
 0	//padding
 
@@ -141,13 +141,13 @@
 
 //isShouldTurnBeforePass -> angle//
 1		//custom	
-120.0 180	//max
-95.0  60	//min
+120.0 140	//max
+95.0  80	//min
 0		//padding
 
 //isShouldTurnBeforePass -> dist//
-35.0  32	//checkDistMiddle	
-30.0  26	//checkDistShort
+35.0  28	//checkDistMiddle	
+30.0  22	//checkDistShort
 1		//custom
 0		//padding
 
@@ -275,7 +275,7 @@
 
 //updateThinkList -> execSubConcept//
 0	//custom
-8.0	//enemyDist
+8.0 6.0	//enemyDist
 0	//padding
 0	//padding
 

@@ -1,7 +1,7 @@
-8.0	6	//dist
-15.0 12	//distWide
-0.5	0.01	//suspendTime
-0.5	0.01	//waitTime
+8.0	9	//dist
+15.0 28	//distWide
+0.5	0.001	//suspendTime
+0.5	0.001	//waitTime
 
 
 //BEGONE, CURSOR BUG!

@@ -14,22 +14,22 @@ nan		//passAssistLevel
 //attackSideAdjustAngleXZMax//
 1.0
 1.0
-0.5
+0.8
 0	//padding (?)
 
 //defenceSideAdjustAngleXZMax//
-1.0
-0.25
+0.8
 0.125
+0.025
 0	//padding (?)
 
 //height//
-35.0 45	//distMax (50 in 17)
-35.0 45	//distMax_high (50 in 17)
+35.0 	32	//distMax (50 in 17)
+35.0 	32	//distMax_high (50 in 17)
 10 2 		//distMin (0 in 17)
 10 2		//distMin_high (0 in 17)
-5 4.6		//heightForDistMaxParaMax (4.5 in 17)
-6.5 6		//heightForDistMaxParaMin (6.0 in 17)
+5 		4.7		//heightForDistMaxParaMax (4.5 in 17)
+6.5		6		//heightForDistMaxParaMin (6.0 in 17)
 2.0		//heightForDistMaxSkill
 8.0		//heightForDistMax_high
 1.8 1.2		//heightForDistMinParaMax (1.2 in 17)
@@ -65,16 +65,16 @@ nan		//passAssistLevel
 0.5		//angleRate
 0		//debugDisp_searchBasePoint
 1.0		//distRate
-50.0 32	//passTargetDistMax
-10.0 9	//passTargetDistMaxOffset
-15.0 12	//passTargetDistMin
+50.0 28	//passTargetDistMax
+10.0 5	//passTargetDistMaxOffset
+15.0 10	//passTargetDistMin
 4.0	3	//passTargetDistMinOffset
-60.0 42	//searchMaxDist
-10.0 5	//searchMinDist
-15.0	//xAxisAngleMaxAngle
-5.0		//xAxisAngleZeroAngle
-15.0	//zAxisAngleMaxAngle
-5.0		//zAxisAngleZeroAngle
+60.0 34	//searchMaxDist
+10.0 6	//searchMinDist
+15.0 16	//xAxisAngleMaxAngle
+5.0	 4	//xAxisAngleZeroAngle
+15.0 12		//zAxisAngleMaxAngle
+5.0	 2.5	//zAxisAngleZeroAngle
 0		//padding
 0		//padding
 0		//padding

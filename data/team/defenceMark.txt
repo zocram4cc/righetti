@@ -1,9 +1,9 @@
 22.5 50		//addAngleKickOff //hope this helps with kekoff
 3		//addRemainMarkXDistDf
-20.0 30		//adjustApproachRateMax_inOffenceDir
-5.0	 4		//adjustContinueDistTeamWork
+20.0 16		//adjustApproachRateMax_inOffenceDir
+5.0	 3.5		//adjustContinueDistTeamWork
 3.0		//adjustCrossDistTeamWork
-3.0	 5		//adjustDistBoxToBox
+3.0	 4		//adjustDistBoxToBox
 50.0 42		//approachRateMax
 30.0 38		//approachRateMax_buildUp
 40.0 32		//approachRateMax_side
@@ -57,10 +57,10 @@
 22.5	//releaseCheckTargetMarkedAngle
 6		//releaseCheckTargetMarkedDist
 5		//releaseTargetDist
-10.0  7			//remainMarkXLimit
-13.0  14		//remainMarkXLimit_BoxToBox
-12.0  9			//remainMarkZLimit
-18.0  19		//remainMarkZLimit_BoxToBox
+10.0  6			//remainMarkXLimit
+13.0  10		//remainMarkXLimit_BoxToBox
+12.0  7			//remainMarkZLimit
+18.0  12		//remainMarkZLimit_BoxToBox
 10		//reverseSideAddWideLimit
 135.0 115		//targetBallAngleForGap
 30.0  26		//targetLastDistForGap

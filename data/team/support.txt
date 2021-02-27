@@ -37,3 +37,27 @@
 16.0	//thicknessPillar
 70.0	//upperConnectionParam
 1.0		0.01	//waitTimeMax
+
+
+//style//
+0	//Again no idea what these mean
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0

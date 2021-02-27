@@ -8,8 +8,8 @@
 176		//manualBlendManualRateGageWeak array
 -0.1	//manualBlendParaMaxAdd
 20.0	//manualBlendthreshold
-0.9	1.04	//paraMaxSpeedRate (1 in 17)
-0.7	0.9	//paraMinSpeedRate (0.9 in 17)
+0.9	0.91	//paraMaxSpeedRate (1 in 17)
+0.7	0.82	//paraMinSpeedRate (0.9 in 17)
 nan		//passAssistLevel
 192		//receiveSpeed array
 224		//search array
@@ -72,10 +72,10 @@ nan		//passAssistLevel
 0	//padding (?)
 
 //search//
-0.4	0,35	//angleRate
+0.4	//angleRate
 0		//debugDisp_searchBasePoint
 1.0		//distRate
-30.0 22	//searchMaxDist
+30.0 28	//searchMaxDist
 2.25 1,1	//searchMinDist
 0		//padding
 0		//padding

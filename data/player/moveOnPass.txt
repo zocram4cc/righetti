@@ -1,8 +1,8 @@
-37.0 17	//adjustWaitFrame
-50 26		//baseWaitFrame
-30 26		//continueFrame
-15.0 19	//distMax
-5.0	2	//distMin
+37.0 5	//adjustWaitFrame
+50 10		//baseWaitFrame
+30 32		//continueFrame
+15.0 14	//distMax
+5.0	1	//distMin
 0		//padding
 0		//padding
 0		//padding

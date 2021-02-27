@@ -17,7 +17,7 @@
 2.0		//limitBackX
 13.0	//limitFrontX
 144		//limitZRate array
-40.0 33	//searchMaxDist
+40.0 30	//searchMaxDist
 5.0	4	//searchMinDist
 0.0		//HEX 0x01010100, contains searchTest, searchTest2016, stickTest, NULL
 0		//padding
