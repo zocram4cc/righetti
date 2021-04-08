@@ -10,8 +10,8 @@
 
 //press//
 0	//checkArea
-1.0 2	//checkDist
-3.0 4	//checkDistShoot
+3.0 1.25	//checkDistShoot
+1.0 0.67	//checkDist
 1	//enable
 16	//press index
 0	//padding
@@ -19,7 +19,7 @@
 0	//padding
 
 //touchAfterSec//
-0.2	//normal (0.5 in 17)
-1.0	//speedBall
+0.7	//normal (0.5 in 17)
+1.0	0.67	//speedBall
 0	//padding
 0	//padding

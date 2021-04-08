@@ -38,14 +38,16 @@
 0	//padding
 
 //projectKick -> gageSpeed//
-0.3		//cross	
+0.3		0.305	//cross	
+0.42	//fkLongPass NEW 
+0.38	//fkShoot NEW
+0.42	//fkShortPass NEW
+0.42	//fkThroughPass NEW
 0.3		//longPass
 0.25	//shoot
 0.3		//shortPass
 0.3		//throughPass
-0		//padding
-0		//padding
-0		//padding
+			
 
 //projectKick//
 0	//gageDisp

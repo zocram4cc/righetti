@@ -1,4 +1,20 @@
-95.0	//shootSpeedKPHMax
-75.0	//shootSpeedKPHMin
-0		//padding
-0		//padding
+//file entirely new from 17
+
+//LoopShotSpeed//
+50.0 //Speed
+
+//ShotSpeed//
+30.0 //GageAddKPH
+30.0 //GageMax
+30.0 //GageMin
+30.0 //HeightAddKPH
+30.0 //MinKPH
+30.0 //ParaAddGageMax
+30.0 //ParaAddGageMin
+30.0 //ParaAddKPH
+
+//TargetPoint//
+2.00 //HeightAdd
+2.00 //HeightAddKeyConfig
+2.00 //WidthAdd
+2.00 //WidthAddKeyConfig

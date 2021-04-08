@@ -1,5 +1,5 @@
-45.0	75.0		//angleMax
-22.5	65.0		//angleMaxAdjust
+45.0	60.0		//angleMax
+22.5	60.0		//angleMaxAdjust
 90.0	125.0		//angleMaxFront
 22.5	85.0		//angleMaxMargin
 135.0	170.0		//angleSubAbsMax
@@ -28,12 +28,12 @@
 50.0	//lowerConnectionParam
 6.0		//spaceRectLength
 160		//style array
-6.0		10.0		//supportDist
+6.0		9.0		//supportDist
 3.0		6.0		//supportDistAdjust
 3.0		2.0		//supportDistAdjustBase_Long
 5.0		4.0		//supportDistSituation
 8.0		5.0		//supportDistSituationBack
-12.0	10.0	//supportDistSituationSide
+12.0	8.0	//supportDistSituationSide
 16.0	//thicknessPillar
 70.0	//upperConnectionParam
 1.0		0.01	//waitTimeMax

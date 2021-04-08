@@ -1,4 +1,3 @@
-//TODO this file isn't actually reflective of the current binary, but since difficulty does not seem to affect coach mode anymore, it's not a priority.
 144		//bpDirectPlay
 176		//bpDribbleAddWait
 208		//bpDribbleBallGard

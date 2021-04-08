@@ -1,5 +1,5 @@
 0		//back_charge_forced_falldown
-56.0 59	//forced_large_speed
+56.0 	69.0	//forced_large_speed
 0.45	//lower_size_mid_to_max
 0.45	//lower_size_mid_to_max_by_sliding
 0.5		//lower_size_mid_to_max_by_tackle
@@ -10,8 +10,8 @@
 0.5		//ragdoll_falldown_size_normal_body
 0.8		//ragdoll_falldown_size_normal_foot
 0.8		//ragdoll_falldown_size_tackle
-24.0	//speed_mid_to_max (35 in 17)
-16.0	//speed_min_to_mid (27 in 17)
+24.0	42.0	//speed_mid_to_max (35 in 17)
+16.0	36.0	//speed_min_to_mid (27 in 17)
 0.15	//upper_size_mid_to_max
 0.04	//upper_size_mid_to_max_by_tackle
 0.06	//upper_size_min_to_mid

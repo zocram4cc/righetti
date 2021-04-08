@@ -1,4 +1,4 @@
-0.2 0.001	//InplayTapPassCheckSec
+0.2 0	//InplayTapPassCheckSec
 208	//UEFAShootFreekick array
 240	//defenceMarkCalcApproachRate array
 288	//foul array
@@ -73,13 +73,13 @@
 
 //defenceMarkCalcApproachRate// //this seems to be important, if the defence is sluggish to mark opposition strikers, revert
 1	//custom
-0.5  0.28	//rate
+0.5  0.295	//rate
 0	//padding
 0	//padding
 
 //foul -> action//
 1	//custom
-25	//time
+25	15	//time
 0	//padding
 0	//padding
 
@@ -112,12 +112,12 @@
 0	//padding
 
 //gk -> catchable// avok you asshole, why did you not map this - 0x3CFC
-85.0 80	//catchableSpeedDefaultMax	0000AA42 A042
-70.0 59.75	//catchableSpeedDefaultMin  00008C42 6F42
-60.0 52	//catchableSpeedMin  00007042 5042
+85.0 77	//catchableSpeedDefaultMax	0000AA42 9A42
+70.0 57	//catchableSpeedDefaultMin  00008C42 6442
+60.0 49	//catchableSpeedMin  00007042 4442
 0		//custom 
-1.1		//frontAdjustRate  CDCC8C3F 
-110.0 99.5	//punchableSpeedMax 0000DC42 C742
+1.1	0.88	//frontAdjustRate  CDCC8C3F AE47613F
+110.0 92	//punchableSpeedMax 0000DC42 B842
 80.0 72	//punchableSpeedMin 0000A042 9042
 20.0	//tooNearDist  0000A041
 
@@ -171,8 +171,8 @@
 
 //stamina -> defenceTired//
 1	//custom
-3.0 4.0		//value
-3.0	4.0 	//valueOwnSide
+3.0 6.0		//value
+3.0	6.0 	//valueOwnSide
 0	//padding
 
 //stamina -> dribbleTired//
@@ -201,7 +201,7 @@
 
 //stamina -> speedTired//
 1	//custom
-1.0 3.0		//value
+1.0 5.0		//value
 0	//padding
 0	//padding
 
@@ -226,7 +226,7 @@
 0	//padding
 
 //subConcept -> longPassLayOffAndBreakthroughToDefenceLine//
-60.0 80.0	//checkRot
+60.0 70.0	//checkRot
 1		//custom
 0		//padding
 0		//padding
@@ -275,7 +275,7 @@
 
 //updateThinkList -> execSubConcept//
 0	//custom
-8.0 6.0	//enemyDist
+8.0 5.2	//enemyDist
 0	//padding
 0	//padding
 

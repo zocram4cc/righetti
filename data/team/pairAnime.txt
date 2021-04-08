@@ -9,14 +9,14 @@
 
 //decideTiming -> pes15TestDecideTiming
 1	//enable
-0.8 0.2 //maxSec
+0.8 	0.20	//maxSec
 0	//minSec
 0	//padding
 
 //decideTiming
-0.8	0.2	//moveSec
+0.8		0.00001	//moveSec
 32	//pes15TestDecideTiming index
-0.3	0.1	//stopSec
+0.3		0.10	//stopSec
 0 1	//Highball Enable (apparently)
 
 //moveContact -> firstAttackEnd
@@ -26,10 +26,10 @@
 0	//padding
 
 //moveContact -> pes15TestMoveContact -> defenceIdealRot
-5.0	2	//margin
-40.0 28	//max
-30.0 10	//min
-15.0 8	//paraDown
+5.0		2.00	//margin
+40.0 	28.0	//max
+30.0 	20.0	//min
+15.0 	8.00	//paraDown
 
 //moveContact -> pes15TestMoveContact -> dropOut
 1		//enable
@@ -38,8 +38,8 @@
 0		//padding
 
 //moveContact -> pes15TestMoveContact -> speedDiff
-5.0 4.0	//paraDown
-5.0 4.0	//value
+5.0 	4.00	//paraDown
+5.0 	4.00	//value
 0	//padding
 0	//padding
 
@@ -60,13 +60,13 @@
 0	//padding
 
 //stamina
-0.5 0.8	//effect
-0.8 1.2	//max
-0.2 0.4	//min
+0.5 	0.82	//effect
+0.8 	1.24	//max
+0.2 	0.45	//min
 0	//padding
 
 //stopContact
-110.0 90	//keepBodyAngleSub
+110.0 	90.0	//keepBodyAngleSub
 1		//myGoalAngleEnable
 0		//padding
 0		//padding

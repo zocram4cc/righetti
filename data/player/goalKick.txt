@@ -1,8 +1,8 @@
 10.0	//angleBase
-2.0->8		//angleDelta
-25.0->18	//distManualBase
-35.0->32	//distManualDelta
-30.0->24	//distMaxBase
-35.0->30	//distMaxDelta
-20.0->1	//distMinBase
-35.0->29	//distMinDelta
+2.0		8.0	//angleDelta
+25.0	18.0	//distManualBase
+35.0	31.0	//distManualDelta
+30.0	24.0	//distMaxBase
+35.0	28.0	//distMaxDelta
+20.0	1.00	//distMinBase
+35.0	29.0	//distMinDelta

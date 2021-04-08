@@ -24,19 +24,18 @@ nan		//passAssistLevel
 0	//padding (?)
 
 //height//
-35.0 	32	//distMax (50 in 17)
-35.0 	32	//distMax_high (50 in 17)
-10 2 		//distMin (0 in 17)
-10 2		//distMin_high (0 in 17)
-5 		4.7		//heightForDistMaxParaMax (4.5 in 17)
-6.5		6		//heightForDistMaxParaMin (6.0 in 17)
-2.0		//heightForDistMaxSkill
-8.0		//heightForDistMax_high
-1.8 1.2		//heightForDistMinParaMax (1.2 in 17)
-1.8	1.2	//heightForDistMinParaMin (1.2 in 17)
-1.5		//heightForDistMinSkill
-2.3 1.75	//heightForDistMin_high (1.75 in 17)
-
+35.0 	32.0	//distMax (50 in 17)
+35.0	32.0	//distMax_high (50 in 17)
+10		6.00	//distMin (0 in 17)
+10		6.00	//distMin_high (0 in 17)
+5 		4.67	//heightForDistMaxParaMax (4.5 in 17)
+6.5		5.86	//heightForDistMaxParaMin (6.0 in 17)
+2.0		1.95	//heightForDistMaxSkill
+8.0		7.67	//heightForDistMax_high
+1.8		1.21	//heightForDistMinParaMax (1.2 in 17)
+1.8		1.21	//heightForDistMinParaMin (1.2 in 17)
+1.5		1.42	//heightForDistMinSkill
+2.3		1.76	//heightForDistMin_high (1.75 in 17)
 //manual//
 60.0	//distForGageMax
 10.0	//distForGageMin
@@ -65,16 +64,16 @@ nan		//passAssistLevel
 0.5		//angleRate
 0		//debugDisp_searchBasePoint
 1.0		//distRate
-50.0 28	//passTargetDistMax
-10.0 5	//passTargetDistMaxOffset
-15.0 10	//passTargetDistMin
-4.0	3	//passTargetDistMinOffset
-60.0 34	//searchMaxDist
-10.0 6	//searchMinDist
-15.0 16	//xAxisAngleMaxAngle
-5.0	 4	//xAxisAngleZeroAngle
-15.0 12		//zAxisAngleMaxAngle
-5.0	 2.5	//zAxisAngleZeroAngle
+50.0 	28.0	//passTargetDistMax
+10.0 	5.00	//passTargetDistMaxOffset
+15.0 	10.0	//passTargetDistMin
+4.0		3.00	//passTargetDistMinOffset
+60.0 	34.0	//searchMaxDist
+10.0 	6.00	//searchMinDist
+15.0	16.0	//xAxisAngleMaxAngle
+5.0		3.00	//xAxisAngleZeroAngle
+15.0	12.0	//zAxisAngleMaxAngle
+5.0		2.50	//zAxisAngleZeroAnglefloat
 0		//padding
 0		//padding
 0		//padding

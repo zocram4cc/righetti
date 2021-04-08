@@ -10,17 +10,17 @@
 //runLoopBank//
 40.0	//limitBankLower
 30.0	//limitBankUpper
-112.5	rotYLimMax
+67.5	112.5	//rotYLimMax (112.5 in 17)
 0		//padding
 
 //stepMoveFront -> distAdjust//
-40.0	//ballSpeedKphMax
-20.0	//ballSpeedKphMin
+40.0	50.0	//ballSpeedKphMax
+20.0	10.0	//ballSpeedKphMin
 1		//enable
 3.0		//value
 
 //stepMoveFront//
 48		//distAdjust index
-10.0	//distBase
+10.0	9.90	//distBase
 0		//mode
 0		//padding
