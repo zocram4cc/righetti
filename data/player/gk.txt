@@ -10,8 +10,8 @@
 35.0	30.0	//throwRangeLongMin
 30.0	27.0	//throwRangeNormalMax
 5.0		4.00	//throwRangeNormalMin
-20.0	25.75	//waitTimeAddMax
-4.0		5.33	//waitTimeAddMin
+20.0	24.75	//waitTimeAddMax
+4.0		5.22	//waitTimeAddMin
 0		//padding
 0		//padding
 
@@ -22,7 +22,7 @@
 0.5	    0.67	//catchHandSideElapsedTime
 70.0	60.0	//catchHoldBallSpeed
 20.0	12.0	//collapsingBallSpeed
-0.23	0.40	//collapsingElapsedTime
+0.23	0.39	//collapsingElapsedTime
 45.0	40.0	//contactDeflectAngle
 0.5		0.32	//contactDeflectDist
 0		//contactDeflectTest
