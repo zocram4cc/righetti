@@ -70,18 +70,18 @@
 96.0 	92.0	//passgetSpeedRate
 93.0 	89.0	//passgetSpeedRate2
 464		//searchAngleWidth array
-32.0 	24.0	//searchLengthMax (25 IN 17)
-36.0 	28.0	//searchLengthMax_fly (30 IN 17)
+32.0 	25.0	//searchLengthMax (25 IN 17)
+36.0 	29.0	//searchLengthMax_fly (30 IN 17)
 1.0		//searchLengthMin
-50.0 	34.0	//searchMaxDist
-60.0 	36.0	//searchMaxDistFly
+50.0 	35.0	//searchMaxDist
+60.0 	39.0	//searchMaxDistFly
 2.0		1.60	//searchMinDist
 6.0		//searchMinDistFly
 0.0		//HEX 0x01010101, contains searchTest, searchTest2, stickTest1, stickTest3
-30.0 	28.0	//targetDistMax
+30.0 	28.5	//targetDistMax
 8.0		6.00	//targetDistMin
 1.0		0.40	//targetDistSec
-20.0 	16.0	//targetDistZMax
+20.0 	16.7	//targetDistZMax
 14.0 	4.00	//targetDistZMin
 1		//useSinCurveAngleY
 45.0	//wallTargetAdjustAngleWidth

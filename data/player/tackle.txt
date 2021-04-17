@@ -8,8 +8,8 @@
 2		//freeMoveTackleMode
 0		//manualSideStepEnable
 0		//reactionStartFrame
-1.5		0.87	//saftyRate_FarDist
-0.2		0.09	//saftyRate_NearDist
+1.5		0.90	//saftyRate_FarDist
+0.2		0.10	//saftyRate_NearDist
 1.75	//tackleThinkDisableToTrap
 0		//padding
 0		//padding
@@ -24,9 +24,9 @@
 0.0		//HEX 0x01010101, contains autoShoulderCom, autoShoulderInterruptCom, autoShoulderInterruptUser, autoShoulderUser
 1		//ballVisibleCheck
 14.0 	//enterSpeed (15 in 17)
-4		//farCutFrame
-6		//midCutFrame
-8		//nearCutFrame
+4	0	//farCutFrame
+6	2	//midCutFrame
+8	4	//nearCutFrame
 1.2		1.18	//playbackSpeedHighest
 0.9		0.75	//playbackSpeedLowest
 135.0 	105.0	//pressTackleEnableAngleIdle
@@ -37,7 +37,7 @@
 157.5 	100.5	//pressTackleEnableAngleMoveAggressiveLv2
 0		//shoulderCutFrame
 0.1		//shoulderInterruptSlideLimit
-1		//shoulderOnly
+1	0	//shoulderOnly
 0.75	//shoulderSlideLimit
 257		//HEX 0x01010000, contains stepMoveAutoTackleFarEnable, stepMoveAutoTackleVeryfarEnable, tackleVeryfarEnable, NULL
 2		//veryfarCutFrame

@@ -14,9 +14,9 @@
 0	//padding
 
 //decideTiming
-0.8		0.00001	//moveSec
+0.8		0.01	//moveSec
 32	//pes15TestDecideTiming index
-0.3		0.10	//stopSec
+0.3		0.01	//stopSec
 0 1	//Highball Enable (apparently)
 
 //moveContact -> firstAttackEnd
@@ -28,12 +28,12 @@
 //moveContact -> pes15TestMoveContact -> defenceIdealRot
 5.0		2.00	//margin
 40.0 	28.0	//max
-30.0 	20.0	//min
+30.0 	10.0	//min
 15.0 	8.00	//paraDown
 
 //moveContact -> pes15TestMoveContact -> dropOut
 1		//enable
-0.15 0.07	//minSec
+0.15	0.07	//minSec
 0		//padding
 0		//padding
 
@@ -60,8 +60,8 @@
 0	//padding
 
 //stamina
-0.5 	0.82	//effect
-0.8 	1.24	//max
+0.5 	0.85	//effect
+0.8 	1.25	//max
 0.2 	0.45	//min
 0	//padding
 
