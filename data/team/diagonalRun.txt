@@ -1,24 +1,24 @@
-45.0 	38.0	//angleBase
-80.0 	56.0	//bpAngleSubAbsMax
-1.0		0.80	//deltaXEnd
+45.0 	64.0	//angleBase
+80.0 	88.0	//bpAngleSubAbsMax
+1.0		2.10	//deltaXEnd
 15.0 	18.0	//deltaZMax
 6.0		3.00	//deltaZMin
 4.0		3.00	//distNear
 25.0	25.0	//distPlayPointMax
 8.0		9.00	//distXBpMax
-15.0 	16.0	//distXBpMax_dummyRunner
+15.0 	11.0	//distXBpMax_dummyRunner
 13.0 	11.0	//distXOffsideLineMax
 0		//distXOffsideLineMin
-20.0 	16.0	//fanAngle
+20.0 	15.0	//fanAngle
 5.0 	4.00	//fanAngleHalfMargin
-5.0 	7.00	//fanAngleHalfMargin_dummyRunner
-40.0 	32.0	//fanAngle_dummyRunner
+5.0 	8.00	//fanAngleHalfMargin_dummyRunner
+40.0 	30.0	//fanAngle_dummyRunner
 5.0 	7.00	//fanFar
 10.0 	12.0	//fanFar_dummyRunner
 2.0 	1.00	//fanNear
 5.0		4.00	//fanOffset
 9.0		10.0	//moveKPHMin
-60	59	//scoreMin
+60	64	//scoreMin
 0 	//padding
 0 	//padding
 0 	//padding

@@ -1,7 +1,7 @@
 15.0 17.5	//checkDist
 60.0 		//checkWedgeAngle
 25.0 26		//checkWedgeFarX
-9.0  8.2	//checkWedgeNearX
+9.0  10.2	//checkWedgeNearX
 7.5  10.5	//checkWedgeOffsideX
 4.0 //checkZ
 48	//combsCom array

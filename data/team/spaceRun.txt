@@ -1,7 +1,7 @@
-90.0  70	//angleDiff_chance
-110.0 90	//angleDiff_chance_good
-60.0  50	//angleDiff_second
-90.0  80	//angleDiff_second_good
+90.0 	90.0	//angleDiff_chance
+110.0 	120.0	//angleDiff_chance_good
+60.0 	70.0	//angleDiff_second
+90.0 	95.0	//angleDiff_second_good
 130.0	//angleDiff_side //GONE IN 21
 130.0	//angleDiff_side_good //GONE IN 21
 15.0	//angleWidth0 //GONE IN 21
@@ -11,22 +11,22 @@
 20.0	//angleWidth2 //GONE IN 21
 25.0	//angleWidth2_good //GONE IN 21
 1			//backwardCurve
-100   72		//chanceScore
-85    62		//chanceScore_good
+100   82		//chanceScore
+85    71		//chanceScore_good
 30.0  45		//checkAngleWidthSector
 50.0  75		//checkAngleWidthSector_good
 2		//checkAreaNum
 4		//checkAreaNum_good
 12.0  14		//checkBackDist_second
 17.0  20		//checkBackDist_second_good
-25.0  30		//checkBallDist_chance
-28.0  36		//checkBallDist_chance_good
-16.0  22		//checkBallDist_counter
-20.0  27		//checkBallDist_counter_good
-25.0  31		//checkBallDist_second
+25.0  39		//checkBallDist_chance
+28.0  41		//checkBallDist_chance_good
+16.0  24		//checkBallDist_counter
+20.0  28		//checkBallDist_counter_good
+25.0  32		//checkBallDist_second
 30.0  42		//checkBallDist_second_good
-90.0  88		//checkBodyAngle
-110.0 100		//checkBodyAngle_good
+90.0  92		//checkBodyAngle
+110.0 112		//checkBodyAngle_good
 1		//checkCount
 2		//checkCount_good
 5.0		//checkCrossPointDist0_chance //GONE IN 21
@@ -35,38 +35,38 @@
 5.0		//checkCrossPointDist1_chance_good //GONE IN 21
 7.0		//checkCrossPointDist2_chance //GONE IN 21
 6.0		//checkCrossPointDist2_chance_good //GONE IN 21
-27.0  30		//checkFreeDist
-32.0  36		//checkFreeDist_good
-0 3			//checkInterceptScore
-10.0  14 		//checkInterceptScore_good
-19.0  17		//checkLastLineDist_chance
-23.0  22		//checkLastLineDist_chance_good
+27.0  	30.0	//checkFreeDist
+32.0 	36.0	//checkFreeDist_good
+0.0		50.0	//checkInterceptScore
+10.0 	88.0	//checkInterceptScore_good
+19.0 	26.0	//checkLastLineDist_chance
+23.0 	32.0	//checkLastLineDist_chance_good
 5.0		//checkLastLineDist_flow //GONE IN 21
 10.0	//checkLastLineDist_flow_good //GONE IN 21
-4.0	  5			//checkMarginDist
-8.0	  10		//checkMarginDist_good
-82.0  72		//checkMoveAngle
-100.0 90		//checkMoveAngle_good
-15.0  12		//checkOffsideLineDistX
-2.0   1.25			//checkOffsideLineDistX_counter
-2.0   1.25			//checkOffsideLineDistX_counter_good
-18.0  12	 	//checkOffsideLineDistX_good
-40.0  48		//checkPlayPointDist
-20.0  28		//checkPlayPointDistX
-24.0  40		//checkPlayPointDistX_good
-40.0  56		//checkPlayPointDist_good
-100	  69		//checkScore
+4.0 	5.00	//checkMarginDist
+8.0		10.0	//checkMarginDist_good
+82.0 	92.0	//checkMoveAngle
+100.0 	120.0	//checkMoveAngle_good
+15.0 	14.0	//checkOffsideLineDistX
+2.0 	2.25	//checkOffsideLineDistX_counter
+2.0 	2.25	//checkOffsideLineDistX_counter_good
+18.0 	14.0	//checkOffsideLineDistX_good
+40.0 	46.0	//checkPlayPointDist
+20.0 	26.0	//checkPlayPointDistX
+24.0 	38.0	//checkPlayPointDistX_good
+40.0 	50.0	//checkPlayPointDist_good
+100 89	//checkScore
 95		//checkScore_flow //GONE IN 21
 80		//checkScore_flow_good //GONE IN 21
-90	76		//checkScore_good
+90 	94	//checkScore_good
 1		//checkSpaceRunCount
-1 2			//checkSpaceRunCount_good
-40.0  32		//checkZ
-13.0  10	 	//checkZ_counter
-18.0  16		//checkZ_counter_good
+1	2	//checkSpaceRunCount_good
+40.0  42		//checkZ
+13.0  15	 	//checkZ_counter
+18.0  19		//checkZ_counter_good
 15.0	//checkZ_flow //GONE IN 21
 20.0	//checkZ_flow_good //GONE IN 21
-40.0  38		//checkZ_good
+40.0  41		//checkZ_good
 20.0  28		//checkZ_second
 30.0  34		//checkZ_second_good
 0.0 	//HEX 0x01010001, contains createPassCourse, defenceGap, inOut, roundTest

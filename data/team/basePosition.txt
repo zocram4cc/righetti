@@ -1,20 +1,20 @@
 //this file is as important as it is poorly documented; it regulates almost all positioning for the 18 players that are not the GK or have the cursor on them. Could be exploitable for fun shenanigans.
 //Some inspiration was taken from 16 and 17 - https://implyingrigged.info/wiki/User:MarcoZ/AI_Scrapbook#basePosition
 30.0	//adjustAngle_FreeKickSupport
--10.0 	1.00	//adjustBackOF
--4.0 	-8.00	//adjustCloseRate_stratagy_defensive
+-10.0 	5.00	//adjustBackOF
+-4.0 	10.00	//adjustCloseRate_stratagy_defensive
 45.0 	40.0	//adjustCloseZRate_FreeKick (35 in 17)
--8.1 	-10.1	//adjustDefenceLine_ForeCheck
--7.0 	-6.00	//adjustDefenceLine_Retreat
+-8.1 	50.0	//adjustDefenceLine_ForeCheck
+-7.0 	40.0	//adjustDefenceLine_Retreat
 10.0 	20.0	//adjustDefenceLine_strategy_defensive
--5.0 	-10.0	//adjustDefenceLine_strategy_levelup
+-5.0 	20.0	//adjustDefenceLine_strategy_levelup
 2.0 	4.00	//adjustDfLineWidth_GoalKick
 5.0		//adjustDistX_Throwin_CB
 4.0		//adjustDiv
 1		//adjustEnemyZ
--10.0 	-4.20	//adjustFrontOF
--12.0 	-4.24	//adjustFwLine 
-1 		//adjustGapDfLine
+-10.0 	6.00	//adjustFrontOF
+-12.0 	3.33	//adjustFwLine 
+1 	2	//adjustGapDfLine
 1		//adjustGapDfLineAction
 1 	2	//adjustMoveEnemySide
 7.0 	8.00	//adjustReturnDist
@@ -22,14 +22,14 @@
 8.0		//adjustSideZ
 13.0	//adjustSideZ_concept_side
 1		//adjustSlideMoveSpeed
-0.23 	0.20	//adjustSpaceCoverRate
+0.23 	0.24	//adjustSpaceCoverRate
 7.0		//adjustSupportDist_FreeKick
--1.5 	-2.50	//adjustWidth_strategy_defensive
+-1.5 	-2.25	//adjustWidth_strategy_defensive
 0.5 	0.33	//adjustXCompactFW
-2.5 	5.00	//adjustXFromAttackAwareness3
-5.0 	9.00	//adjustXFromAttackAwareness4
+2.5 	8.00	//adjustXFromAttackAwareness3
+5.0 	16.00	//adjustXFromAttackAwareness4
 4.0		//adjustX_FreeKick
-2.5 	2.00	//adjustZCompact
+2.5 	2.25	//adjustZCompact
 0.5 	//adjustZMinCompact
 7.0		//adjustZOneSideCut
 0.4		//adjustZRate_cover
@@ -37,7 +37,7 @@
 10 	16 	//attackLevel
 12.0 	16.0	//attackLevelAdjustX
 1		//backOffsideLine
-0.6 	0.30	//ballSideMaxRate_stratagy_defensive
+0.6 	0.40	//ballSideMaxRate_stratagy_defensive
 1		//ballSideOpen
 25.0	//baseCloseZRate_FreeKick
 23.0	//baseDist_FreeKick (30 in 17)
@@ -66,9 +66,9 @@
 10 	9	//defenceCompact
 0.0 	//HEX 0x00010100, contains defenceFormationTest1, defenceFormationTest2, dfAdjustZ, NULL
 20.0 	24.0	//dfAdjustZCheckLenMax
-12.5 	6.00	//dfAdjustZCheckLenMin
+12.5 	7.00	//dfAdjustZCheckLenMin
 30.0 	42.0	//dfAdjustZCheckWidthMax
-5.0 	//dfAdjustZCheckWidthMin
+5.0 	6.00	//dfAdjustZCheckWidthMin
 10.0 	20.0	//dfAdjustZRateMax (30 in 17)
 2.0 	4.00	//dfAttackWidthBack
 1		//dfAttackWidthForce
@@ -77,14 +77,14 @@
 12.0 	9.00	//dfAttackWidthMarginFront
 0.0 	//HEX 0x01010100, contains dfCoverAdjustX, dfCoverEnable, dfForceAverageZ, NULL
 0.5 	0.24	//dfGroupRate
-10 	14 	//dfLine
+10 	42 	//dfLine
 10.0 	90.0	//dfLineAdjustMax //time to press - hopefully these reflect the d-line slider
 3.0 	32.0	//dfLineAdjustMin
-10.0 	25.0	//dfLineBack
-8.0 	89.0	//dfLineCenterAdjustMax
--5.0 	30.0	//dfLineCenterAdjustMin
+10.0 	28.0	//dfLineBack
+8.0 	90.0	//dfLineCenterAdjustMax
+-5.0 	32.0	//dfLineCenterAdjustMin
 0.55 	0.24	//dfLineCloseRate
-0.2 	0.34	//dfLineRate
+0.2 	0.42	//dfLineRate
 0.1		//dfLineRate_goalKick
 16.0 	20.0	//dfLineWidth_3
 20.0 	24.0	//dfLineWidth_4
@@ -95,7 +95,7 @@
 30	5	//dfUserPositionAdjustTime
 58.0 	50.0	//diffRestartX_End (65 in 17)
 35.0 	20.0	//diffRestartX_Start (40 in 17)
-9.0 	10.00	//forceDashDistDefence
+9.0 	10.0	//forceDashDistDefence
 15.0 	14.0	//forceDashDistOffence
 2.4 	2.80	//forceJogDist
 1.2 	1.60	//forceWalkDist
@@ -132,11 +132,11 @@ nan		//freekickAttackForce2
 50.0	//jogMfLineScore
 1		//keepDfTargetLineX
 -18.0 	-16.0	//kickoffDfLineX
-0.8 	0.32	//lastLineCloseMaxRate
-35.0 	40.0	//lengthDf
-35.0 	32.0 	//lengthDf_Retreat
-30.0 	28.0	//lengthDf_SuperRetreat
-35.0	39.0	//lengthOf (40 in 17)
+0.8 	0.311	//lastLineCloseMaxRate
+35.0 	60.0	//lengthDf
+35.0 	50.0 	//lengthDf_Retreat
+30.0 	42.0	//lengthDf_SuperRetreat
+35.0	38.0	//lengthOf (40 in 17)
 13.0	//limitBesideWidth
 13.0 	10.0	//limitBesideWidth_df 
 1		//lineControl
@@ -149,16 +149,16 @@ nan		//freekickAttackForce2
 30.0 	38.0	//matchUpContinueRate
 40.0 	52.0	//matchUpContinueRate_FW_MF
 95.0 	80.0	//maxCloseXRate_FreeKick
-30.0 	1.00	//maxWaitTime //I hate wait times.
+30.0 	0.00	//maxWaitTime //I hate wait times.
 0.2 	1.00	//mfAdjustMaxRateX
-0.4 	0.45 	//mfGroupRate (0.3 in 17)
-0.1 	0.45	//mfLineRate
-10.0 	20.0	//mfLineScore_adjustMax
-35.0 	55.0	//mfPushUpRate
-65.0 	100.0	//mfPushUpRate_offencive
-9.0 	18.0	//minDistMF_DF (8 in 17)
-6.0 	12.0	//minDistMF_DF_stratagy_defensive
-1.5 	5.00	//minDistMF_FW
+0.4 	0.75 	//mfGroupRate (0.3 in 17)
+0.1 	0.69	//mfLineRate
+10.0 	60.0	//mfLineScore_adjustMax
+35.0 	79.0	//mfPushUpRate
+65.0 	92.0	//mfPushUpRate_offencive
+9.0 	17.25	//minDistMF_DF (8 in 17)
+6.0 	14.0	//minDistMF_DF_stratagy_defensive
+1.5 	2.33	//minDistMF_FW
 9.0 	7.00	//minWidth (8 in 17)
 2.0		//minWidth_GoalKick
 7.0 	6.00	//minWidth_stratagy_defensive
@@ -169,21 +169,21 @@ nan		//freekickAttackForce2
 1		//offenceZposiAdjust
 0		//offenceZposiAdjustDist
 1		//onPassCourse
-0.15 	0.50	//openSideAdjustZRate
+0.15 	0.90	//openSideAdjustZRate
 4.0		//player_count_backDistX
 25.0	//player_count_frontDistX
 25.0	//player_count_height (18 in 17)
-0.5 	1.00		//pressRate
-1	2	//pushUpSide
-1	2	//pushUpSideBack
+0.5 	5.00		//pressRate
+1	3	//pushUpSide
+1	3	//pushUpSideBack
 20.0	//rangeX_Throwin_CB
 1		//returnControlSide
 0.24	//setPlayDeclineRate
 1.0		//setplayToInplayHeightMax
 0		//setplayToInplayHeightMin
-0.6 	2.00	//sideBackPushUpRate
+0.6 	4.00	//sideBackPushUpRate
 1		//sideClose
-60.0 	40.0	//sideCloseRate
+60.0 	38.0	//sideCloseRate
 0		//slide
 25.0 	32.0	//slideDistMax
 8.0 	2.00	//slideDistMin

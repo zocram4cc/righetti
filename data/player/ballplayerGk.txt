@@ -11,10 +11,10 @@
 
 //LongPassInfo//
 15.0	//forceEnemyDist
-3.0	2	//forceKickTime
+3.0	1	//forceKickTime
 0		//limitLineFromPenaltyLine
-60.0 50	//rangeFar
-35.0 28	//rangeNear
+60.0 48	//rangeFar
+35.0 26	//rangeNear
 0		//padding
 0		//padding
 0		//padding
@@ -22,9 +22,9 @@
 //ShortPassInfo//
 40.0	//courseCheckWidth
 80.0	//passAngleSubMax
-30.0 27	//passDistMax
-35.0 28	//rangeFar
-6.0	4	//rangeNear
+30.0 25	//passDistMax
+35.0 26	//rangeFar
+6.0	3	//rangeNear
 10.0	//targetFreeDist
 0		//padding
 0		//padding

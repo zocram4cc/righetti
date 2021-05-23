@@ -10,25 +10,25 @@
 35.0	30.0	//throwRangeLongMin
 30.0	27.0	//throwRangeNormalMax
 5.0		4.00	//throwRangeNormalMin
-20.0	24.75	//waitTimeAddMax
-4.0		4.50	//waitTimeAddMin
+20.0	24.85	//waitTimeAddMax
+4.0		4.65	//waitTimeAddMin
 0		//padding
 0		//padding
 
 //anime//
-60.0	52.0	//blockFarAdjustAngleLimit
+60.0	50.0	//blockFarAdjustAngleLimit
 30.0	//blockNearAdjustAngleLimit
-60.0	50.0	//catchAdjustAngleLimit
+60.0	45.0	//catchAdjustAngleLimit
 0.5	    0.67	//catchHandSideElapsedTime
-70.0	60.0	//catchHoldBallSpeed
-20.0	12.0	//collapsingBallSpeed
-0.23	0.39	//collapsingElapsedTime
+70.0	57.0	//catchHoldBallSpeed
+20.0	11.0	//collapsingBallSpeed
+0.23	0.42	//collapsingElapsedTime
 45.0	40.0	//contactDeflectAngle
 0.5		0.32	//contactDeflectDist
 0		//contactDeflectTest
-60.0	50.0	//deflectAdjustAngleLimit
+60.0	47.5	//deflectAdjustAngleLimit
 0		//physicalDeflectTest
-60.0	50.0	//punchAdjustAngleLimit
-60.0	50.0	//scoopOutFarAdjustAngleLimit
+60.0	48.0	//punchAdjustAngleLimit
+60.0	48.0	//scoopOutFarAdjustAngleLimit
 30.0	20.0	//scoopOutNearAdjustAngleLimit
 15.0	10.0	//snapUnderAdjustAngleLimit

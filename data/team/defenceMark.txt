@@ -10,19 +10,19 @@
 60	50	//backAngleLimitGoal
 90	80	//backAngleLimitSide
 67.5	50.0	//ballBackAngleForLineUp
-0.7		0.60	//checkBackFollowDist
-0.7		0.80	//checkBackFollowDist_BoxToBox
+0.7		0.67	//checkBackFollowDist
+0.7		0.88	//checkBackFollowDist_BoxToBox
 15.0	14.0	//checkBackFollowRemainDist
 18.0	16.0	//checkBackFollowRemainDist_BoxToBox
-1.0		//checkBackFollowZoneDist
-2.0 	1.25	//checkBackFollowZoneDist_BoxToBox
+1.0		1.25	//checkBackFollowZoneDist
+2.0 	1.75	//checkBackFollowZoneDist_BoxToBox
 10	9	//checkCenterPlayLastXDist
 8	7	//checkCenterPlayLastXDistRemain
 2		//checkCenterPlayZPosRemain //these goddamn integer constants are fucking with my formatting :^(
 25.0	22.0	//checkFrontPlayPointDist
 20	16	//checkRearOffenceDist
-20	18	//checkRearOffenceDistFar
-15	//checkReverseSideXDist
+20	21	//checkRearOffenceDistFar
+15	16	//checkReverseSideXDist
 40	29	//checkTargetGoalDist
 0.1 	0.09	//checkZoneAreaRate
 0.3		0.12	//checkZoneAreaRate_BoxToBox
@@ -45,7 +45,7 @@
 7.0 	6.00	//markContinueAddDistDF
 15.0	9.00	//markContinueDist
 20.0	12.0	//markContinueDist_BoxToBox
-5 	4	//mfZZoneRange
+5 	//mfZZoneRange
 90.0 	75.0	//needMarkAngleBase
 25.0 	21.0	//needMarkDistGKShort
 2.0 	1.50	//needMarkOverLastLineDist
@@ -57,10 +57,10 @@
 22.5	//releaseCheckTargetMarkedAngle
 6		//releaseCheckTargetMarkedDist
 5		//releaseTargetDist
-10.0 	7.75	//remainMarkXLimit
+10.0 	7.95	//remainMarkXLimit
 13.0 	8.25	//remainMarkXLimit_BoxToBox
-12.0	7.75	//remainMarkZLimit
-18.0 	8.25	//remainMarkZLimit_BoxToBox
+12.0	7.95	//remainMarkZLimit
+18.0 	9.25	//remainMarkZLimit_BoxToBox
 10		//reverseSideAddWideLimit
 135.0	115.0	//targetBallAngleForGap
 30.0 	26.0	//targetLastDistForGap
