@@ -1,25 +1,23 @@
 # Righetti
 ## Righetti - Gameplay patch for PES21
 
-Righetti is the unofficial proposed gameplay patch, via dt18 constant modding, specifically developed for and by [the 4chan Cup](https://implyingrigged.info) for its future use in Pro Evolution Soccer 2021, to attempt to fix its lack of entertainment value when watched in coach mode. Its name is a very unsubtle nod at the nationality of the original developer.
+Righetti is the gameplay patch specifically developed for and by [the 4chan Cup](https://implyingrigged.info) for its use in Pro Evolution Soccer 2021, to attempt to fix its lack of entertainment value when watched in coach mode, by editing a legacy file Konami includes in all of its games in data pack 18 which allows the user to tweak a number of gameplay constants loaded at match time. Its name is a very unsubtle nod at the nationality of the original developer.
 
 **Note:** You can contribute to the patch's development, but please, upload any changes\forks in BIN, CPK and text form *at the same time*. Don't make the documentation drift from the actual binary. Thank you.
 
 **Current patch notes:**
-- Significantly reduced all wait times, making the game feel a lot snappier.
-- Expanded all ranges for passing options across the board, giving the AI more options.
-- Boosted the AI's defence and attack levels, making them press more. (see team/basePosition)
-- Made the AI more capable of seeing potential throughball targets, boosting counters (see team/spaceRun)
-- Buffed the Box to Box playstyle by making it stick to opposing players for longer.
+- Significantly reduced or zeroed all wait times, making the game feel a lot snappier.
+- Reduced the maximum pass distances for long lobbed passes both in play and on goal kicks to curb some of the persistent long ball issues.
+- Expanded all angles and ranges for short passing options across the board, giving the AI more options.
+- Made the defense a lot pressier than stock, and it should now stay around the midfield line when attacking on FLP, giving more passing options. (see team/basePosition)
+- Significantly heightened the AI's ability to see potential throughball targets (see team/lineBreak)
+- Made the attacking AI more capable of taking more chances, but without being laser precise. (see team/spaceRun)
 - Slightly nerfed the defence's marking abilities.
-- Very slightly nerfed the keepers.
-- About a million more minor changes across the board.
+- Slightly nerfed the keepers.
+- About a million more minor changes across the board. For further detail, feel free to browse the data or ask any question to what does what to me or Neon63. More help is always welcome.
 
 **Known bugs:**
-- Excessive tendency for the AI to pass laterally and swap wings.
-- Shot count is still lower than desired.
-- The animation for centering the ball tends to play twice.
-- Ball physics are not exactly perfect yet.
+- Maybe an overreliance on "sieges" - AKA bunching up at the edge of the box. It's a tendency for 21 to do this, but 0.04 seems to have heightened it a little
 
 ### How do I read this shit
 The text files follow this format:
@@ -28,5 +26,4 @@ STOCK VALUE   PATCHED VALUE //variable description
 ```
 
 ## TODO:
-- Test, test, and test some more. (You) too can help in finding weird corner cases.
-- Reformat the docs since I am a retard and can't into legibility.
+- Wait for feedback after Summer and see what's to be changed.
