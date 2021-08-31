@@ -1,36 +1,36 @@
-10.0 	8.00	//adjustDribbleWaitTimer
+10.0 	8.88	//adjustDribbleWaitTimer
 10.0 	12.0	//adjustSandDist
 5.0		6.50	//continueAdvantageDelay
 3.0		4.00	//continueAdvantagePress
-50.0 	22.0	//courseCutCheckRange
+50.0 	24.0	//courseCutCheckRange
 35.0 	28.0	//courseCutTargetDistFar
 6.0		3.00	//courseCutTargetDistNear
 20.0 	//lowerConnectionParam
-6.0		2.00	//matchUpAdjustLineCheckDistDefensiveAwareness3
-12.0 	5.55	//matchUpAdjustLineCheckDistDefensiveAwareness4
-70.0 	47.0	//matchUpBackFollowAngle
+6.0		2.20	//matchUpAdjustLineCheckDistDefensiveAwareness3
+12.0 	4.55	//matchUpAdjustLineCheckDistDefensiveAwareness4
+70.0 	50.0	//matchUpBackFollowAngle
 20	22	//matchUpBallFutureFrame
-10.0 	6.00	//matchUpContinueAddBackFollowAngle
-1.5	 	3.50	//matchUpContinueAddBallDist
-2.0		1.50	//matchUpContinueAddDfXLimit
-2.0		1.50	//matchUpContinueAddMfXLimit
-2.0		1.50	//matchUpContinueAddZLimit
+10.0 	7.00	//matchUpContinueAddBackFollowAngle
+1.5	 	3.55	//matchUpContinueAddBallDist
+2.0		1.65	//matchUpContinueAddDfXLimit
+2.0		1.65	//matchUpContinueAddMfXLimit
+2.0		1.65	//matchUpContinueAddZLimit
 4.0		3.00	//matchUpContinueDistSub
 1		//matchUpCountMidToLastDefault
 1		//matchUpCountOverTopDanger
 1		//matchUpCountOverTopDefault
 1		//matchUpCountTopToMidCaution
 1		//matchUpCountTopToMidSafe
-10.0 	5.00	//matchUpDfXLimit
-4.0		3.00	//matchUpFwXLimit
-5.0 	3.00	//matchUpLimitDistDefensiveAwareness0
-8.0 	5.00	//matchUpLimitDistDefensiveAwareness1
+10.0 	6.50	//matchUpDfXLimit
+4.0		3.50	//matchUpFwXLimit
+5.0 	3.50	//matchUpLimitDistDefensiveAwareness0
+8.0 	6.25	//matchUpLimitDistDefensiveAwareness1
 10.0	//matchUpMfXLimit
-3.0 	2.00	//matchUpMustContinueDist
-10	5	//matchUpStartLine
-26.0 	18.0	//matchUpStartLineMax
-5.0		3.00	//matchUpZLimit
+3.0 	2.22	//matchUpMustContinueDist
+10	6	//matchUpStartLine
+26.0 	20.0	//matchUpStartLineMax
+5.0		3.25	//matchUpZLimit
 14.0 	8.00	//maxSandDist
-30.0 	36.5	//maxWaitTime
+30.0 	35.5	//maxWaitTime
 40 	47	//predictionFrame
 80.0	//upperConnectionParam

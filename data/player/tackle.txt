@@ -1,40 +1,40 @@
 64		//anime array
 0 1		//autoSideStepEnable
-0.4		0.50	//check_SaftyRate_Delay
-0.5		0.60	//check_SaftyRate_Last_Line
-0.4		0.50	//check_SaftyRate_No_Cover
-0.5		//failAfterStopTime
-0.7		0.50	//forecastHitRate
+0.4		0.35	//check_SaftyRate_Delay
+0.5		0.25	//check_SaftyRate_Last_Line
+0.4		0.35	//check_SaftyRate_No_Cover
+0.5		0.25	//failAfterStopTime
+0.7		0.45	//forecastHitRate
 2		//freeMoveTackleMode
 0		//manualSideStepEnable
 0		//reactionStartFrame
-1.5		0.90	//saftyRate_FarDist
-0.2		0.10	//saftyRate_NearDist
-1.75	//tackleThinkDisableToTrap
+1.5		0.68	//saftyRate_FarDist
+0.2		0.08	//saftyRate_NearDist
+1.75	1.55	//tackleThinkDisableToTrap
 0		//padding
 0		//padding
 0		//padding
 
 //anime//
-1.0 	1.80	//accelBackLimitSpeed
-4.0		//accelLimitSpeedIdle
+1.0 	2.00	//accelBackLimitSpeed
+4.0		5.00	//accelLimitSpeedIdle
 0		//accelLimitSpeedMove
-22.5 	20.5	//adjustLimitAngleIdle
-11.25 	10.25	//adjustLimitAngleMove (22.5 IN 17)
+22.5 	27.5	//adjustLimitAngleIdle
+11.25 	22.5	//adjustLimitAngleMove (22.5 IN 17)
 0.0		//HEX 0x01010101, contains autoShoulderCom, autoShoulderInterruptCom, autoShoulderInterruptUser, autoShoulderUser
 1		//ballVisibleCheck
 14.0 	//enterSpeed (15 in 17)
 4	0	//farCutFrame
 6	2	//midCutFrame
 8	4	//nearCutFrame
-1.2		1.18	//playbackSpeedHighest
-0.9		0.75	//playbackSpeedLowest
-135.0 	105.0	//pressTackleEnableAngleIdle
-157.5 	117.5	//pressTackleEnableAngleIdleAggressiveLv1
-168.75 	128.75	//pressTackleEnableAngleIdleAggressiveLv2
-105.0 	90.0	//pressTackleEnableAngleMove
-135.0 	98.0	//pressTackleEnableAngleMoveAggressiveLv1
-157.5 	100.5	//pressTackleEnableAngleMoveAggressiveLv2
+1.2		1.40	//playbackSpeedHighest
+0.9		0.55	//playbackSpeedLowest
+135.0 	115.0	//pressTackleEnableAngleIdle
+157.5 	127.5	//pressTackleEnableAngleIdleAggressiveLv1
+168.75 	148.75	//pressTackleEnableAngleIdleAggressiveLv2
+105.0 	95.0	//pressTackleEnableAngleMove
+135.0 	102.0	//pressTackleEnableAngleMoveAggressiveLv1
+157.5 	120.0	//pressTackleEnableAngleMoveAggressiveLv2
 0		//shoulderCutFrame
 0.1		//shoulderInterruptSlideLimit
 1	0	//shoulderOnly

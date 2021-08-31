@@ -1,80 +1,80 @@
 22.5	50.0	//addAngleKickOff //hope this helps with kekoff
-3	//addRemainMarkXDistDf
-20.0	16.0	//adjustApproachRateMax_inOffenceDir
-5.0		3.50	//adjustContinueDistTeamWork
+3	4	//addRemainMarkXDistDf
+20.0	18.0	//adjustApproachRateMax_inOffenceDir
+5.0		4.50	//adjustContinueDistTeamWork
 3.0		//adjustCrossDistTeamWork
-3.0		4.00	//adjustDistBoxToBox
-50.0	42.0	//approachRateMax
-30.0 	38.0	//approachRateMax_buildUp
-40.0	32.0	//approachRateMax_side
-60	50	//backAngleLimitGoal
-90	80	//backAngleLimitSide
-67.5	50.0	//ballBackAngleForLineUp
-0.7		0.67	//checkBackFollowDist
-0.7		0.88	//checkBackFollowDist_BoxToBox
-15.0	14.0	//checkBackFollowRemainDist
-18.0	16.0	//checkBackFollowRemainDist_BoxToBox
-1.0		1.25	//checkBackFollowZoneDist
-2.0 	1.75	//checkBackFollowZoneDist_BoxToBox
+3.0		4.50	//adjustDistBoxToBox
+50.0	48.0	//approachRateMax
+30.0 	48.0	//approachRateMax_buildUp
+40.0	38.0	//approachRateMax_side
+60	58	//backAngleLimitGoal
+90	88	//backAngleLimitSide
+67.5	60.0	//ballBackAngleForLineUp
+0.7		0.71	//checkBackFollowDist
+0.7		0.78	//checkBackFollowDist_BoxToBox
+15.0	16.0	//checkBackFollowRemainDist
+18.0	18.0	//checkBackFollowRemainDist_BoxToBox
+1.0		1.75	//checkBackFollowZoneDist
+2.0 	2.15	//checkBackFollowZoneDist_BoxToBox
 10	9	//checkCenterPlayLastXDist
 8	7	//checkCenterPlayLastXDistRemain
 2		//checkCenterPlayZPosRemain //these goddamn integer constants are fucking with my formatting :^(
 25.0	22.0	//checkFrontPlayPointDist
-20	16	//checkRearOffenceDist
-20	21	//checkRearOffenceDistFar
+20	21	//checkRearOffenceDist
+20	22	//checkRearOffenceDistFar
 15	16	//checkReverseSideXDist
-40	29	//checkTargetGoalDist
-0.1 	0.09	//checkZoneAreaRate
-0.3		0.12	//checkZoneAreaRate_BoxToBox
-22.5	17.5	//continueAddAngleLimit
+40	38	//checkTargetGoalDist
+0.1 	0.19	//checkZoneAreaRate
+0.3		0.24	//checkZoneAreaRate_BoxToBox
+22.5	27.5	//continueAddAngleLimit
 2		//continueAddStartLine
 2		//continueAddWideLimit
 4	3	//cornerKickTime
-2.5		2.10	//dfZZoneRange
-6.0		5.00	//distDash
+2.5		2.60	//dfZZoneRange
+6.0		8.00	//distDash
 2.0 	2.50	//distDashMargin
 4.0 	4.50	//distDash_course
 2.0		2.20	//distJog
-2.0		1.80	//distJogMargin
-2.0 	//distJog_course
-3.0 	3.50	//distRun
+2.0		2.20	//distJogMargin
+2.0 	2.20	//distJog_course
+3.0 	3.55	//distRun
 2.0		//distRunMargin
 3.0		//distRun_course
 4.0		//gapDist
 5.0		//keepDistForGap
-7.0 	6.00	//markContinueAddDistDF
-15.0	9.00	//markContinueDist
-20.0	12.0	//markContinueDist_BoxToBox
+7.0 	8.00	//markContinueAddDistDF
+15.0	14.0	//markContinueDist
+20.0	16.0	//markContinueDist_BoxToBox
 5 	//mfZZoneRange
-90.0 	75.0	//needMarkAngleBase
-25.0 	21.0	//needMarkDistGKShort
-2.0 	1.50	//needMarkOverLastLineDist
+90.0 	92.0	//needMarkAngleBase
+25.0 	26.0	//needMarkDistGKShort
+2.0 	2.50	//needMarkOverLastLineDist
 7 		//noCrossCheckDist
-4.0 	3.20	//preLastDistForGap
-20 	17	//predictionFrame
-29.15	//releaseCheckTargetAngle
-15.0	//releaseCheckTargetDfLineDist
-22.5	//releaseCheckTargetMarkedAngle
-6		//releaseCheckTargetMarkedDist
-5		//releaseTargetDist
-10.0 	7.95	//remainMarkXLimit
-13.0 	8.25	//remainMarkXLimit_BoxToBox
-12.0	7.95	//remainMarkZLimit
-18.0 	9.25	//remainMarkZLimit_BoxToBox
-10		//reverseSideAddWideLimit
-135.0	115.0	//targetBallAngleForGap
-30.0 	26.0	//targetLastDistForGap
-2.0 	1.50	//targetLineDistForLineUp
-20.0 	18.0	//targetPlayDistForLineUp
-4.0		//tmpCheckZoneMarkDist
+4.0 	4.20	//preLastDistForGap
+20 	16	//predictionFrame
+29.15	40.0	//releaseCheckTargetAngle
+15.0	18.0	//releaseCheckTargetDfLineDist
+22.5	24.5	//releaseCheckTargetMarkedAngle
+6		8.00	//releaseCheckTargetMarkedDist
+5		7.00	//releaseTargetDist
+10.0 	11.0	//remainMarkXLimit
+13.0	//remainMarkXLimit_BoxToBox
+12.0	11.5	//remainMarkZLimit
+18.0 	14.0	//remainMarkZLimit_BoxToBox
+10		12.0	//reverseSideAddWideLimit
+135.0	124.0	//targetBallAngleForGap
+30.0 	32.0	//targetLastDistForGap
+2.0 	2.50	//targetLineDistForLineUp
+20.0 	22.0	//targetPlayDistForLineUp
+4.0		6.00	//tmpCheckZoneMarkDist
 1		//useCoverMoveSpeed
-10		//zoneFrontXMf
-15.0 	12.0	//zoneMarkXLimit
-18.0 	14.0	//zoneMarkXLimit_BoxToBox
-15.0 	12.0	//zoneMarkZLimit
-18.0 	14.0	//zoneMarkZLimit_BoxToBox
-2.5 	2.10	//zoneZRange
-5		//zoneZRangeAlone
+10		12.0	//zoneFrontXMf
+15.0 	14.0	//zoneMarkXLimit
+18.0 	16.0	//zoneMarkXLimit_BoxToBox
+15.0 	14.0	//zoneMarkZLimit
+18.0 	16.0	//zoneMarkZLimit_BoxToBox
+2.5 	3.00	//zoneZRange
+5		6.00	//zoneZRangeAlone
 0	 	//padding
 0	 	//padding
 0		//padding

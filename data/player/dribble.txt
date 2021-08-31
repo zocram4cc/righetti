@@ -5,8 +5,8 @@
 0	1	//dribbleFrontNormalTouchEnable
 1.0		//dribbleFrontNormalTouchRate
 0		//dribbleGotoAddFrame
-50.0 	10.0	//dribbleStopDist
-100.0 	220.0	//dribbleStopSpeed
+50.0 	22.0	//dribbleStopDist
+100.0 	180.0	//dribbleStopSpeed
 48		//slowDribble array
 64		//staggerDribble array
 0		//padding
