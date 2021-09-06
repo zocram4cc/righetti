@@ -3,34 +3,34 @@
 5.0		4.00	//adjustCorrectDist
 0		//adjustDistDelay
 0		//adjustDistOneSideCutRev
-2.0 	1.00	//adjustZ
-0.3		0.10	//adjustZRate
-165.0 	105.0	//baseAngleCutLongitudinal0
-15.0	//baseAngleCutLongitudinal1
-240.0 	122.0	//baseAngleCutSide0
-300.0 	180.0	//baseAngleCutSide1
-25.0 	18.0	//baseAngleOneSideCutRev
-6.0 	4.00	//checkDistBaseToCover
-7.5 	5.00	//checkDistTransToCover
-30.0 	20.0	//correctAdjustAngle
-60.0 	38.0	//correctAngleWidth0
+2.0 	1.67	//adjustZ
+0.3		0.45	//adjustZRate
+165.0 	125.0	//baseAngleCutLongitudinal0
+15.0	18.0	//baseAngleCutLongitudinal1
+240.0 	152.0	//baseAngleCutSide0
+300.0 	240.0	//baseAngleCutSide1
+25.0 	20.0	//baseAngleOneSideCutRev
+6.0 	5.50	//checkDistBaseToCover
+7.5 	7.25	//checkDistTransToCover
+30.0 	//correctAdjustAngle
+60.0 	50.0	//correctAngleWidth0
 120.0 	90.0	//correctAngleWidth1
-10.0 	8.00	//correctDist0
-7.5		4.70	//correctDist1
-10.0 	7.00	//coverAdjustAngle
-4.0		3.00	//coverAdjustDist
+10.0 	9.00	//correctDist0
+7.5		7.00	//correctDist1
+10.0 	9.00	//coverAdjustAngle
+4.0		3.67	//coverAdjustDist
 42.0 	40.0	//coverAngle
-55.0 	24.0	//coverDfAngle
-18.0 	10.0	//coverDfAngle2
+55.0 	48.0	//coverDfAngle
+18.0 	17.0	//coverDfAngle2
 4.5 	5.00	//coverDist
 50.0	//coverPenaltyAngle
 9.0 	//diffContinueTargetLineX
 6.0		//diffTargetLineX
-60	69	//futureFrame
+60	64	//futureFrame
 1		//isNearPlayerAssign
-8.0		6.00	//limitDistX_MfLine
-70.0	60.0	//mfLimitRate
-5.0		6.00	//minCoverDist
+8.0		8.50	//limitDistX_MfLine
+70.0	90.0	//mfLimitRate
+5.0		4.50	//minCoverDist
 0 		//padding
 0 		//padding
 0		//padding

@@ -8,9 +8,9 @@
 176		//manualBlendManualRateGageWeak array
 -0.1	//manualBlendParaMaxAdd
 20.0	//manualBlendthreshold
-0.9	0.94	//paraMaxSpeedRate (1 in 17)
-0.7	0.84	//paraMinSpeedRate (0.9 in 17)
-nan		//passAssistLevel
+0.90	0.92	//paraMaxSpeedRate (1 in 17)
+0.70	0.82	//paraMinSpeedRate (0.9 in 17)
+-1.00 	//passAssistLevel
 192		//receiveSpeed array
 224		//search array
 0		//padding
@@ -18,7 +18,7 @@ nan		//passAssistLevel
 //angleY//
 7.0		6.00	//angleForDistMax
 0		//angleForDistMin
-40.0	36.7	//distMax
+40.0	37.0	//distMax
 12.0	11.0	//distMin
 
 //calcRecieveSpeed//
@@ -36,16 +36,16 @@ nan		//passAssistLevel
 //lob//
 6.0		7.00	//enemyDistMax
 1.0		1.50	//enemyDistMin
-1.5		1.60	//enemyXPos
+1.5		1.45	//enemyXPos
 0.6		//lobHeightDistMax
-0.4		0.55	//lobHeightDistMin
+0.4		0.35	//lobHeightDistMin
 13.0	14.0	//passDistMax
-20.0	19.5	//passDistMaxThrough
+20.0	19.0	//passDistMaxThrough
 0		//padding
 
 //manual//
-40.0	//distForGageMax
-2.25	//distForGageMin
+40.0	39.0	//distForGageMax
+2.25	2.00	//distForGageMin
 0		//padding
 0		//padding
 
@@ -73,11 +73,11 @@ nan		//passAssistLevel
 0	//padding (?)
 
 //search//
-0.4	//angleRate
+0.40	0.67	//angleRate
 0		//debugDisp_searchBasePoint
 1.0		//distRate
-30.0 //searchMaxDist
-2.25 	1.67	//searchMinDist
+30.0 	32.0	//searchMaxDist
+2.25 	1.00	//searchMinDist
 0		//padding
 0		//padding
 0		//padding

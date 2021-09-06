@@ -20,13 +20,13 @@
 //ballForceDirect -> blendStartFrame//
 2.0	//offsetPos_Dash_Dash		
 0.5	//offsetPos_Dash_Idle
-1.7	//offsetPos_Dash_Run
+1.7		1.25	//offsetPos_Dash_Run
 2.0	//offsetPos_Idle_Dash
 0.5	//offsetPos_Idle_Idle
-1.7	//offsetPos_Idle_Run
+1.7		1.25	//offsetPos_Idle_Run
 0.5	//offsetPos_Run_Idle
-1.7	//offsetPos_Run_Run
-2.0	//offsetPos_Run_dash
+1.7		1.25	//offsetPos_Run_Run
+2.0		2.25	//offsetPos_Run_dash
 0	//padding
 0	//padding
 0	//padding
@@ -42,21 +42,21 @@
 0		//padding
 
 //ballForceDirect -> burstSetting//
-2.75	//max
-2.75	//min
+2.75	3.00	//max
+2.75	3.00	//min
 1.2		//ratio
 0		//padding
 
 //ballForceDirect -> cancelFrame//
-2.75	//offsetPos_Dash_Dash	
-2.0		//offsetPos_Dash_Idle
-2.0		//offsetPos_Dash_Run
-1.0		//offsetPos_Idle_Dash
-0.5		//offsetPos_Idle_Idle
-0.75	//offsetPos_Idle_Run
-1.0		//offsetPos_Run_Idle
-1.5		//offsetPos_Run_Run
-1.5		//offsetPos_Run_dash
+2.75	2.25	//offsetPos_Dash_Dash	
+2.0		1.50	//offsetPos_Dash_Idle
+2.0		1.50	//offsetPos_Dash_Run
+1.0		0.67	//offsetPos_Idle_Dash
+0.5		0.35	//offsetPos_Idle_Idle
+0.75	0.55	//offsetPos_Idle_Run
+1.0		0.50	//offsetPos_Run_Idle
+1.5		1.00	//offsetPos_Run_Run
+1.5		1.00	//offsetPos_Run_dash
 0		//padding
 0		//padding
 0		//padding
@@ -68,8 +68,8 @@
 0	//padding
 
 //ballForceDirect -> runDashSetting//
-2.0	//max	
-2.0	//min
+2.0		2.75	//max	
+2.0		2.25	//min
 1.2	//ratio
 0	//padding
 
@@ -128,11 +128,11 @@
 0		//padding
 
 //touchAfterSec//
-0.2		//defence	
-0.25	//defenceKeep
-0.15	//offence
-0.4		//shoot
-0.5		//shootSpeedBall
+0.2		0.16	//defence	
+0.25	0.26	//defenceKeep
+0.15	0.05	//offence
+0.4		0.50	//shoot
+0.5		0.75	//shootSpeedBall
 0		//padding
 0		//padding
 0		//padding
@@ -142,3 +142,5 @@
 0	//fast
 0	//padding
 0	//padding
+
+//TODO: new block from 17, to be documented

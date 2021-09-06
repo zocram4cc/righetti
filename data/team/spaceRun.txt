@@ -11,8 +11,8 @@
 20.0	//angleWidth2 //GONE IN 21
 25.0	//angleWidth2_good //GONE IN 21
 1			//backwardCurve
-100   82		//chanceScore
-85    71		//chanceScore_good
+100   84		//chanceScore
+85    73		//chanceScore_good
 30.0  45		//checkAngleWidthSector
 50.0  75		//checkAngleWidthSector_good
 2		//checkAreaNum
@@ -55,10 +55,10 @@
 20.0 	26.0	//checkPlayPointDistX
 24.0 	38.0	//checkPlayPointDistX_good
 40.0 	50.0	//checkPlayPointDist_good
-100 91	//checkScore
+100 92	//checkScore
 95		//checkScore_flow //GONE IN 21
 80		//checkScore_flow_good //GONE IN 21
-90 	97	//checkScore_good
+90 	98	//checkScore_good
 1		//checkSpaceRunCount
 1	2	//checkSpaceRunCount_good
 40.0  42		//checkZ

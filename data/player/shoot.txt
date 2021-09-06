@@ -12,12 +12,12 @@
 0	//padding
 
 //advanceLoop//
-50.0 38	//distMax
-5.0	2	//distMin
-10.0 11	//heightMaxForGageMax
-6.0	4	//heightMaxForGageMin
-2.0	1.8	//heightMinForGageMax
-1.2	1	//heightMinForGageMin
+50.0	38.0	//distMax
+5.0		2.00	//distMin
+10.0 	11.0	//heightMaxForGageMax
+6.0		4.00	//heightMaxForGageMin
+2.0		1.80	//heightMinForGageMax
+1.2		1.00	//heightMinForGageMin
 0		//padding
 0		//padding
 

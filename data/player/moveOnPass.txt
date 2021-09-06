@@ -1,8 +1,9 @@
-37.0 	2.00	//adjustWaitFrame
-50 	4	//baseWaitFrame
-30 	22	//continueFrame
-15.0 	15.0	//distMax
-5.0		1.00	//distMin
+37.0 	0.00	//adjustWaitFrame
+50.0	0.00	//baseWaitFrame
+30.0	0.00	//continueFrame
+15.0 	20.0	//distMax
+5.0		0.00	//distMin
 0		//padding
 0		//padding
 0		//padding
+// TEST

@@ -9,14 +9,14 @@
 
 //decideTiming -> pes15TestDecideTiming
 1	//enable
-0.8 	0.20	//maxSec
+0.8 	0.12	//maxSec
 0	//minSec
 0	//padding
 
 //decideTiming
-0.8		0.01	//moveSec
+0.8		0.00	//moveSec
 32	//pes15TestDecideTiming index
-0.3		0.01	//stopSec
+0.3		0.00	//stopSec
 0 1	//Highball Enable (apparently)
 
 //moveContact -> firstAttackEnd

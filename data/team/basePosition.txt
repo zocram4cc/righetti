@@ -14,7 +14,7 @@
 1		//adjustEnemyZ
 -10.0 	0.00	//adjustFrontOF
 -12.0 	-3.33	//adjustFwLine 
-1 	//adjustGapDfLine
+1		//adjustGapDfLine
 1		//adjustGapDfLineAction
 1 	2	//adjustMoveEnemySide
 7.0 	8.00	//adjustReturnDist
@@ -46,9 +46,9 @@
 0.1 	0.30	//changeWidthRate
 3.0		//checkAdjustDist
 4.0		//checkBaseDist
-12.0 	//checkReturnDist
-22.0	//checkReturnDistX
-15.0	//checkReturnDistZ
+12.0 	16.0	//checkReturnDist
+22.0	24.0	//checkReturnDistX
+15.0	16.0	//checkReturnDistZ
 0.5 	0.40	//checkZRate_cover
 50.0 	//closePenetrateZRate
 45.0 	42.0	//closeRate_DF_FW
@@ -91,7 +91,7 @@
 24.0 	27.0	//dfLineWidth_5
 6.0		//dfLineWidth_Corner
 1		//dfUserPositionAdjustEnable
-1.0 	5.00	//dfUserPositionAdjustRate
+1.0 	4.00	//dfUserPositionAdjustRate
 30	5	//dfUserPositionAdjustTime
 58.0 	50.0	//diffRestartX_End (65 in 17)
 35.0 	20.0	//diffRestartX_Start (40 in 17)
@@ -145,12 +145,12 @@ nan		//freekickAttackForce2
 0		//marginPredictionFrameBase
 1.0		//marginSide
 -6.0 	-5.00	//marginTargetLineX (-9 in 17)
-6.0			//margin_restartX
+6.0		//margin_restartX
 30.0 	40.0	//matchUpContinueRate
 40.0 	48.0	//matchUpContinueRate_FW_MF
 95.0 	80.0	//maxCloseXRate_FreeKick
 30.0 	0.00	//maxWaitTime //I hate wait times.
-0.2 	1.00	//mfAdjustMaxRateX
+0.2 	2.00	//mfAdjustMaxRateX
 0.4 	0.12 	//mfGroupRate (0.3 in 17)
 0.1 	0.01	//mfLineRate
 10.0 	48.0	//mfLineScore_adjustMax
@@ -161,7 +161,7 @@ nan		//freekickAttackForce2
 1.5 	0.33	//minDistMF_FW
 9.0 	9.90	//minWidth (8 in 17)
 2.0		//minWidth_GoalKick
-7.0 	6.50	//minWidth_stratagy_defensive
+7.0 	6.60	//minWidth_stratagy_defensive
 0.8		//moveStartDist
 1		//numericalRelationDefenceLine
 45.0 	32.0	//offenceWideLength
@@ -188,7 +188,7 @@ nan		//freekickAttackForce2
 25.0 	34.0	//slideDistMax
 8.0 	1.00	//slideDistMin
 10.0 	8.00	//slideJudgeWidthBase
-10.0 	16.0	//slideJudgeWidthMargin
+10.0 	18.0	//slideJudgeWidthMargin
 0		//slideKind
 3.0 	2.00	//slideWidth
 1		//slowDownArrivalFrame

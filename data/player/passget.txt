@@ -32,20 +32,20 @@
 1	//slowMoveEnable
 
 //defence//
-90.0 80		//paraMax
-60.0 30		//paraMin
-0.4	 0.5	//secMax
-0.4	 0.1	//secMin
+90.0 	120.0	//paraMax
+60.0 	20.0	//paraMin
+0.4		0.35	//secMax
+0.4 	0.00	//secMin
 
 //inputMoveAir -> moveRange//
-1.5		2.00	//length
+1.5		2.24	//length
 0.5	//side
 0	//padding
 0	//padding
 
 
 //inputMoveAir -> moveRangeFree//
-1.5 	2.00	//length
+1.5 	2.24	//length
 0	//side
 0	//padding
 0	//padding

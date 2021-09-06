@@ -61,13 +61,13 @@ nan		//passAssistLevel
 0	//padding (?)
 
 //search//
-0.5		//angleRate
+0.5		0.55	//angleRate
 0		//debugDisp_searchBasePoint
-1.0		//distRate
-50.0 	28.0	//passTargetDistMax
+1.0		1.11	//distRate
+50.0 	27.0	//passTargetDistMax
 10.0 	5.00	//passTargetDistMaxOffset
-15.0 	10.0	//passTargetDistMin
-4.0		3.00	//passTargetDistMinOffset
+15.0 	9.00	//passTargetDistMin
+4.0		8.00	//passTargetDistMinOffset
 60.0 	34.0	//searchMaxDist
 10.0 	6.00	//searchMinDist
 15.0	16.0	//xAxisAngleMaxAngle

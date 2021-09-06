@@ -1,5 +1,5 @@
 0		//back_charge_forced_falldown
-56.0 	69.0	//forced_large_speed
+56.0 	88.0	//forced_large_speed
 0.45	//lower_size_mid_to_max
 0.45	//lower_size_mid_to_max_by_sliding
 0.5		//lower_size_mid_to_max_by_tackle

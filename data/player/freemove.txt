@@ -8,9 +8,9 @@
 0	//padding
 
 //runLoopBank//
-40.0	//limitBankLower
-30.0	//limitBankUpper
-67.5	112.5	//rotYLimMax (112.5 in 17)
+40.0	42.0	//limitBankLower
+30.0	18.0	//limitBankUpper
+67.5	69.5	//rotYLimMax (112.5 in 17)
 0		//padding
 
 //stepMoveFront -> distAdjust//
@@ -21,6 +21,6 @@
 
 //stepMoveFront//
 48		//distAdjust index
-10.0	9.90	//distBase
+10.0	11.1	//distBase
 0		//mode
 0		//padding

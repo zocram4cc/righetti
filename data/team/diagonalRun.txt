@@ -8,7 +8,7 @@
 8.0		9.00	//distXBpMax
 15.0 	11.0	//distXBpMax_dummyRunner
 13.0 	11.0	//distXOffsideLineMax
-0		//distXOffsideLineMin
+0	1	//distXOffsideLineMin
 20.0 	15.0	//fanAngle
 5.0 	4.00	//fanAngleHalfMargin
 5.0 	8.00	//fanAngleHalfMargin_dummyRunner

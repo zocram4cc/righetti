@@ -1,21 +1,21 @@
-2.0		1.76	//adjustAngle //Crosses are now OK to good, don't touch this any more
+2.0		2.10	//adjustAngle //Crosses are now OK to good, don't touch this any more
 0		//adjustAngleHigh
 0		//adjustGageFarZ
 2.0		//adjustGageNearZ
 96		//adjustSearchAngleRate array
-10.0	9.85	//adjustSpeed
+10.0	9.84	//adjustSpeed
 -5.0	//adjustSpeedGrounder
 0		//adjustSpeedHigh
 112		//adjustStartPointRate array
 128		//allowAngleWidth array
-4.5		4.80	//centeringCurveAdjustMax
-4.0		4.50	//centeringCurveBase
+4.5		4.89	//centeringCurveAdjustMax
+4.0		4.25	//centeringCurveBase
 93.0 	90.0	//centeringMaxSpeedHigh
-89.0 	83.6	//centeringMaxSpeedLow
+89.0 	83.0	//centeringMaxSpeedLow
 0.0		//HEX 0x00000001, contains debugDisp, debugDisp_searchBasePoint, forceLowLob, gageTest
 257		//HEX 0x01010000, contains isSkillLowLob, isValid_lowLob, NULL, NULL
 2.0		3.00	//limitBackX
-13.0	14.0	//limitFrontX
+13.0	12.0	//limitFrontX
 144		//limitZRate array
 40.0	30.0	//searchMaxDist
 5.00	4.00	//searchMinDist
@@ -25,24 +25,24 @@
 
 //adjustSearchAngleRate//
 0
-0.55 (0.7 in 17)
-0.25 (0.3 in 17)
+0.55 	0.65	(0.7 in 17)
+0.25 	0.29	(0.3 in 17)
 0	//padding (?)
 
 //adjustStartPointRate//
-0
-0
-0.5
-1.0
+0 	0.25
+0 	0.50
+0.5	0.67
+1.0	1.25
 
 //allowAngleWidth//
-0
-0
-35.0
+0.00	12.5
+0.00	24.5
+35.0	47.5
 180.0
 
 //limitZRate//
-1.0
-1.0
-0.5
-0	//padding (?)
+1.0	1.50
+1.0	1.25
+0.5	1.00
+0	0.50	//padding (?)

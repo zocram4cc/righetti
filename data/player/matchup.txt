@@ -1,12 +1,12 @@
 25.0 	30.0	//adjustHardPressAngle
-3.0 	4.00	//adjustHardPressDist
+3.0 	4.10	//adjustHardPressDist
 145.0	105.0	//checkAngle_bodyAngle
-70.0 	50.0	//checkAngle_pressPoint0
-85.0 	60.0	//checkAngle_pressPoint1
-30.0 	10.0	//checkAngle_pressPoint2
-110.0 	75.0	//checkAngle_target
-5.0		3.00	//checkContinueAngle
+70.0 	60.0	//checkAngle_pressPoint0
+85.0 	70.0	//checkAngle_pressPoint1
+30.0 	15.0	//checkAngle_pressPoint2
+110.0 	85.0	//checkAngle_target
+5.0		4.00	//checkContinueAngle
 1		//delayAutoClose
-3.5		2.40	//pressContinueDist
-1.0		2.00	//pressDist
+3.5		2.75	//pressContinueDist
+1.0		2.25	//pressDist
 0		//pressOneSideCutDist

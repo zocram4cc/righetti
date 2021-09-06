@@ -6,12 +6,12 @@
 35.0 	28.0	//courseCutTargetDistFar
 6.0		3.00	//courseCutTargetDistNear
 20.0 	//lowerConnectionParam
-6.0		2.20	//matchUpAdjustLineCheckDistDefensiveAwareness3
+6.0		2.22	//matchUpAdjustLineCheckDistDefensiveAwareness3
 12.0 	4.55	//matchUpAdjustLineCheckDistDefensiveAwareness4
 70.0 	50.0	//matchUpBackFollowAngle
 20	22	//matchUpBallFutureFrame
 10.0 	7.00	//matchUpContinueAddBackFollowAngle
-1.5	 	3.55	//matchUpContinueAddBallDist
+1.5	 	3.65	//matchUpContinueAddBallDist
 2.0		1.65	//matchUpContinueAddDfXLimit
 2.0		1.65	//matchUpContinueAddMfXLimit
 2.0		1.65	//matchUpContinueAddZLimit
@@ -27,10 +27,10 @@
 8.0 	6.25	//matchUpLimitDistDefensiveAwareness1
 10.0	//matchUpMfXLimit
 3.0 	2.22	//matchUpMustContinueDist
-10	6	//matchUpStartLine
+10	5	//matchUpStartLine
 26.0 	20.0	//matchUpStartLineMax
 5.0		3.25	//matchUpZLimit
 14.0 	8.00	//maxSandDist
 30.0 	35.5	//maxWaitTime
-40 	47	//predictionFrame
+40 	44	//predictionFrame
 80.0	//upperConnectionParam
