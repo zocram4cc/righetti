@@ -99,9 +99,9 @@
 0.8		//adjustRateMax		
 0.4		//adjustRateMin
 1		//custom
-80.0	//paraMax
-50.0	//paraMin
-80.0	//specialist
+80.0	82.0	//paraMax
+50.0	48.0	//paraMin
+80.0	78.0	//specialist
 0		//padding
 0		//padding
 

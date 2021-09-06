@@ -37,8 +37,8 @@
 6.0		//checkCrossPointDist2_chance_good //GONE IN 21
 27.0  	30.0	//checkFreeDist
 32.0 	36.0	//checkFreeDist_good
-0.0		80.0	//checkInterceptScore
-10.0 	91.0	//checkInterceptScore_good
+0.0		82.0	//checkInterceptScore
+10.0 	93.0	//checkInterceptScore_good
 19.0 	26.0	//checkLastLineDist_chance
 23.0 	32.0	//checkLastLineDist_chance_good
 5.0		//checkLastLineDist_flow //GONE IN 21
@@ -55,10 +55,10 @@
 20.0 	26.0	//checkPlayPointDistX
 24.0 	38.0	//checkPlayPointDistX_good
 40.0 	50.0	//checkPlayPointDist_good
-100 90	//checkScore
+100 91	//checkScore
 95		//checkScore_flow //GONE IN 21
 80		//checkScore_flow_good //GONE IN 21
-90 	96	//checkScore_good
+90 	97	//checkScore_good
 1		//checkSpaceRunCount
 1	2	//checkSpaceRunCount_good
 40.0  42		//checkZ

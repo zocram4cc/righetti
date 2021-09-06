@@ -10,8 +10,8 @@
 35.0	30.0	//throwRangeLongMin
 30.0	27.0	//throwRangeNormalMax
 5.0		4.00	//throwRangeNormalMin
-20.0	24.85	//waitTimeAddMax
-4.0		4.65	//waitTimeAddMin
+20.0	25.15	//waitTimeAddMax
+4.0		4.85	//waitTimeAddMin
 0		//padding
 0		//padding
 
