@@ -71,9 +71,9 @@
 0	//padding
 0	//padding
 
-//defenceMarkCalcApproachRate// //this seems to be important, if the defence is sluggish to mark opposition strikers, revert
+//defenceMarkCalcApproachRate// 
 1	//custom
-0.5 	0.275	//rate
+0.5 	0.375	//rate
 0	//padding
 0	//padding
 
@@ -99,9 +99,9 @@
 0.8		//adjustRateMax		
 0.4		//adjustRateMin
 1		//custom
-80.0	82.0	//paraMax
-50.0	48.0	//paraMin
-80.0	78.0	//specialist
+80.0	83.0	//paraMax
+50.0	47.0	//paraMin
+80.0	77.0	//specialist
 0		//padding
 0		//padding
 
@@ -112,19 +112,19 @@
 0	//padding
 
 //gk -> catchable// avok you asshole, why did you not map this - 0x3CFC
-85.0 	77.0	//catchableSpeedDefaultMax	0000AA42 9A42
-70.0 	57.0	//catchableSpeedDefaultMin  00008C42 6442
-60.0 	49.0	//catchableSpeedMin  00007042 4442
+85.0 	78.0	//catchableSpeedDefaultMax	0000AA42 9A42
+70.0 	55.0	//catchableSpeedDefaultMin  00008C42 6442
+60.0 	48.0	//catchableSpeedMin  00007042 4442
 0		//custom 
-1.1		0.88	//frontAdjustRate  CDCC8C3F AE47613F
-110.0 	92.0	//punchableSpeedMax 0000DC42 B842
-80.0 	72.0	//punchableSpeedMin 0000A042 9042
-20.0	//tooNearDist  0000A041
+1.1		0.89	//frontAdjustRate  CDCC8C3F AE47613F
+110.0 	94.0	//punchableSpeedMax 0000DC42 B842
+80.0 	70.0	//punchableSpeedMin 0000A042 9042
+20.0	19.0	//tooNearDist  0000A041
 
 //gk -> gkPress// sweeper keepers do not @ me
-1.7 	1.40	//advantageousRateClassical	
-1.5 	1.20	//advantageousRateNormal
-1.3 	0.80	//advantageousRateOffensive
+1.7 	1.20	//advantageousRateClassical	
+1.5 	0.90	//advantageousRateNormal
+1.3 	0.60	//advantageousRateOffensive
 1	//custom
 
 //gk//
