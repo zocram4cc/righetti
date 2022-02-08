@@ -23,8 +23,8 @@
 2		//checkCount_good
 27.0  	30.0	//checkFreeDist
 32.0 	34.0	//checkFreeDist_good
-0.0		87.0	//checkInterceptScore
-10.0 	92.0	//checkInterceptScore_good
+0.0		88.0	//checkInterceptScore
+10.0 	94.0	//checkInterceptScore_good
 19.0 	22.0	//checkLastLineDist_chance
 23.0 	25.0	//checkLastLineDist_chance_good
 4.0 	5.00	//checkMarginDist
@@ -39,8 +39,8 @@
 20.0 	18.0	//checkPlayPointDistX
 24.0 	23.0	//checkPlayPointDistX_good
 40.0 	38.0	//checkPlayPointDist_good
-100 90	//checkScore
-90 	96	//checkScore_good
+100 92	//checkScore
+90 	98	//checkScore_good
 1		//checkSpaceRunCount
 1	2	//checkSpaceRunCount_good
 40.0 	44.0	//checkZ
