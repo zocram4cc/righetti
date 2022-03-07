@@ -1,5 +1,5 @@
 90.0 	80.0	//angleDiff_chance
-110.0 	105.0	//angleDiff_chance_good
+110.0 	102.0	//angleDiff_chance_good
 60.0 	56.0	//angleDiff_second
 90.0 	85.0	//angleDiff_second_good
 1			//backwardCurve
@@ -23,8 +23,8 @@
 2		//checkCount_good
 27.0  	30.0	//checkFreeDist
 32.0 	34.0	//checkFreeDist_good
-0.0		88.0	//checkInterceptScore
-10.0 	94.0	//checkInterceptScore_good
+0.0		92.0	//checkInterceptScore
+10.0 	98.0	//checkInterceptScore_good
 19.0 	22.0	//checkLastLineDist_chance
 23.0 	25.0	//checkLastLineDist_chance_good
 4.0 	5.00	//checkMarginDist
@@ -43,10 +43,10 @@
 90 	98	//checkScore_good
 1		//checkSpaceRunCount
 1	2	//checkSpaceRunCount_good
-40.0 	44.0	//checkZ
-13.0 	16.0 	//checkZ_counter
+40.0 	41.0	//checkZ
+13.0 	15.0 	//checkZ_counter
 18.0 	20.0	//checkZ_counter_good
-40.0 	44.0	//checkZ_good
+40.0 	43.0	//checkZ_good
 20.0 	28.0	//checkZ_second
 30.0 	34.0	//checkZ_second_good
 0.0 	//HEX 0x01010001, contains createPassCourse, defenceGap, inOut, roundTest

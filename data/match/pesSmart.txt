@@ -111,15 +111,15 @@
 0	//padding
 0	//padding
 
-//gk -> catchable// avok you asshole, why did you not map this - 0x3CFC
-85.0 	76.0	//catchableSpeedDefaultMax	0000AA42 9A42
-70.0 	56.0	//catchableSpeedDefaultMin  00008C42 6442
-60.0 	49.0	//catchableSpeedMin  00007042 4442
+//gk -> catchable// it was actually mapped, avok just forgot a flag
+85.0 	75.0	//catchableSpeedDefaultMax	
+70.0 	56.0	//catchableSpeedDefaultMin  
+60.0 	48.0	//catchableSpeedMin  
 0		//custom 
-1.1		0.89	//frontAdjustRate  CDCC8C3F AE47613F
-110.0 	92.0	//punchableSpeedMax 0000DC42 B842
-80.0 	72.0	//punchableSpeedMin 0000A042 9042
-20.0	18.0	//tooNearDist  0000A041
+1.1		0.88	//frontAdjustRate  
+110.0 	92.0	//punchableSpeedMax 
+80.0 	70.0	//punchableSpeedMin 
+20.0	18.2	//tooNearDist  
 
 //gk -> gkPress// sweeper keepers do not @ me
 1.7 	1.20	//advantageousRateClassical	
@@ -159,13 +159,13 @@
 
 //stamina -> contactTired//
 1	//custom	
-0.0		3.00	//value
+0.0		4.00	//value
 0	//padding
 0	//padding
 
 //stamina -> dashTired//
 1	//custom
-3.0		4.00	//value
+3.0		5.00	//value
 0	//padding
 0	//padding
 
@@ -177,37 +177,37 @@
 
 //stamina -> dribbleTired//
 1	//custom
-2.0 	5.00	//value
+2.0 	6.00	//value
 0	//padding
 0	//padding
 
 //stamina -> fallDownTired//
 1		//custom
-10.0	12.0	//value
+10.0	14.0	//value
 0		//padding
 0		//padding
 
 //stamina -> jostleTired//
 1	//custom
-2.0 	4.00	//value
+2.0 	6.00	//value
 0	//padding
 0	//padding
 
 //stamina -> metabolism//
 1	//custom
-8.0 	10.0	//value
+8.0 	12.0	//value
 0	//padding
 0	//padding
 
 //stamina -> speedTired//
 1	//custom
-1.0 	6.00	//value
+1.0 	7.00	//value
 0	//padding
 0	//padding
 
 //stamina -> staggerTired//
 1	//custom
-3.0		4.00	//value
+3.0		5.00	//value
 0	//padding
 0	//padding
 

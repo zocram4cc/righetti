@@ -2,7 +2,7 @@
 //Some inspiration was taken from 16 and 17 - https://implyingrigged.info/wiki/User:MarcoZ/AI_Scrapbook#basePosition
 30.0	//adjustAngle_FreeKickSupport
 -10.0 	-4.00	//adjustBackOF
--4.0 	10.00	//adjustCloseRate_stratagy_defensive
+-4.0 	-1.00	//adjustCloseRate_stratagy_defensive
 45.0 	40.0	//adjustCloseZRate_FreeKick (35 in 17)
 -8.1 	-7.0	//adjustDefenceLine_ForeCheck
 -7.0 	-6.0	//adjustDefenceLine_Retreat
@@ -34,7 +34,7 @@
 7.0		9.00	//adjustZOneSideCut
 0.4		0.33	//adjustZRate_cover
 7.0		15.0	//adjustZ_FreeKick (15 in 17)
-10 	14 	//attackLevel
+10 	15 	//attackLevel
 12.0 	18.0	//attackLevelAdjustX
 1		//backOffsideLine
 0.6 	0.75	//ballSideMaxRate_stratagy_defensive
@@ -151,17 +151,17 @@ nan		//freekickAttackForce2
 95.0 	80.0	//maxCloseXRate_FreeKick
 30.0 	0.00	//maxWaitTime //I hate wait times.
 0.2 	2.50	//mfAdjustMaxRateX
-0.4 	0.05 	//mfGroupRate (0.3 in 17)
+0.4 	0.04	//mfGroupRate (0.3 in 17)
 0.1 	0.01	//mfLineRate
-10.0 	34.0	//mfLineScore_adjustMax
-35.0 	48.0	//mfPushUpRate
-65.0 	52.0	//mfPushUpRate_offencive
-9.0 	8.75	//minDistMF_DF (8 in 17)
-6.0 	7.00	//minDistMF_DF_stratagy_defensive
+10.0 	35.0	//mfLineScore_adjustMax
+35.0 	44.0	//mfPushUpRate
+65.0 	67.0	//mfPushUpRate_offencive
+9.0 	8.95	//minDistMF_DF (8 in 17)
+6.0 	6.66	//minDistMF_DF_stratagy_defensive
 1.5 	0.75	//minDistMF_FW
-9.0 	12.0	//minWidth (8 in 17)
+9.0 	14.0	//minWidth (8 in 17)
 2.0		//minWidth_GoalKick
-7.0 	8.88	//minWidth_stratagy_defensive
+7.0 	9.99	//minWidth_stratagy_defensive
 0.8		0.08	//moveStartDist
 1		//numericalRelationDefenceLine
 45.0 	36.0	//offenceWideLength
@@ -173,7 +173,7 @@ nan		//freekickAttackForce2
 4.0		3.00	//player_count_backDistX
 25.0	24.0	//player_count_frontDistX
 25.0	18.0	//player_count_height (18 in 17)
-0.5 	4.00		//pressRate
+0.5 	3.50		//pressRate
 1	3	//pushUpSide
 1	3	//pushUpSideBack
 20.0	//rangeX_Throwin_CB
@@ -214,5 +214,5 @@ nan		//freekickAttackForce2
 0		//transitionSmooth
 70.0	//upperConnectionParam
 20.0 	33.0	//walkMfLineScore
-0.3		0.45	//wideRate
+0.3		0.35	//wideRate
 0		//xposiRateCustom
