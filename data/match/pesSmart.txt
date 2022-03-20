@@ -71,9 +71,9 @@
 0	//padding
 0	//padding
 
-//defenceMarkCalcApproachRate// 
+//defenceMarkCalcApproachRate// //this seems to be important, if the defence is sluggish to mark opposition strikers, revert
 1	//custom
-0.5 	0.375	//rate
+0.5 	0.275	//rate
 0	//padding
 0	//padding
 
@@ -96,12 +96,12 @@
 0	//padding
 
 //freekick -> adjustedTargetSetplay//
-0.8		//adjustRateMax		
-0.4		//adjustRateMin
+0.8		1.20	//adjustRateMax		
+0.4		0.20	//adjustRateMin
 1		//custom
-80.0	83.0	//paraMax
-50.0	47.0	//paraMin
-80.0	77.0	//specialist
+80.0	92.0	//paraMax
+50.0	38.0	//paraMin
+80.0	69.0	//specialist
 0		//padding
 0		//padding
 
@@ -111,20 +111,20 @@
 0	//padding
 0	//padding
 
-//gk -> catchable// it was actually mapped, avok just forgot a flag
-85.0 	75.0	//catchableSpeedDefaultMax	
-70.0 	56.0	//catchableSpeedDefaultMin  
-60.0 	48.0	//catchableSpeedMin  
+//gk -> catchable// 
+85.0 	78.0	//catchableSpeedDefaultMax	
+70.0 	58.0	//catchableSpeedDefaultMin  
+60.0 	50.0	//catchableSpeedMin  
 0		//custom 
-1.1		0.88	//frontAdjustRate  
-110.0 	92.0	//punchableSpeedMax 
-80.0 	70.0	//punchableSpeedMin 
-20.0	18.2	//tooNearDist  
+1.1		0.89	//frontAdjustRate 
+110.0 	92.2	//punchableSpeedMax 
+80.0 	72.2	//punchableSpeedMin 
+20.0	19.0	//tooNearDist 
 
 //gk -> gkPress// sweeper keepers do not @ me
 1.7 	1.20	//advantageousRateClassical	
-1.5 	0.90	//advantageousRateNormal
-1.3 	0.60	//advantageousRateOffensive
+1.5 	1.00	//advantageousRateNormal
+1.3 	0.67	//advantageousRateOffensive
 1	//custom
 
 //gk//
@@ -159,13 +159,13 @@
 
 //stamina -> contactTired//
 1	//custom	
-0.0		4.00	//value
+0.0		3.00	//value
 0	//padding
 0	//padding
 
 //stamina -> dashTired//
 1	//custom
-3.0		5.00	//value
+3.0		4.00	//value
 0	//padding
 0	//padding
 
@@ -177,37 +177,37 @@
 
 //stamina -> dribbleTired//
 1	//custom
-2.0 	6.00	//value
+2.0 	5.00	//value
 0	//padding
 0	//padding
 
 //stamina -> fallDownTired//
 1		//custom
-10.0	14.0	//value
+10.0	12.0	//value
 0		//padding
 0		//padding
 
 //stamina -> jostleTired//
 1	//custom
-2.0 	6.00	//value
+2.0 	4.00	//value
 0	//padding
 0	//padding
 
 //stamina -> metabolism//
 1	//custom
-8.0 	12.0	//value
+8.0 	10.0	//value
 0	//padding
 0	//padding
 
 //stamina -> speedTired//
 1	//custom
-1.0 	7.00	//value
+1.0 	6.00	//value
 0	//padding
 0	//padding
 
 //stamina -> staggerTired//
 1	//custom
-3.0		5.00	//value
+3.0		4.00	//value
 0	//padding
 0	//padding
 

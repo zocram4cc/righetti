@@ -1,16 +1,16 @@
-90 	99	//checkAreaScore
-70 	50	//checkAreaScore_lineBreaker
+90	//checkAreaScore
+70 	72	//checkAreaScore_lineBreaker
 60.0 	82.0 	//checkBodyAngleEyesOff
-80.0 	50.0	//checkBodyAngleEyesOff_lineBreaker
+80.0 	120.0	//checkBodyAngleEyesOff_lineBreaker
 60.0 	90.0	//checkBodyAnglePullAway
-90.0 	15.0	//checkBodyAnglePullAway_lineBreaker
-15.0 	20.0	//checkDistEyesOff
-25.0 	7.00	//checkDistEyesOff_lineBreaker
-70 	52	//checkInterceptScore
-40 	16	//checkInterceptScore_lineBreaker
-65.0 	60.0	//checkSideAngleEyesOff
-80.0 	55.0	//checkSideAngleEyesOff_lineBreaker
+90.0 	128.0	//checkBodyAnglePullAway_lineBreaker
+15.0 	22.0	//checkDistEyesOff
+25.0 	42.0	//checkDistEyesOff_lineBreaker
+70 	//checkInterceptScore
+40 	//checkInterceptScore_lineBreaker
+65.0 	90.0	//checkSideAngleEyesOff
+80.0 	128.0	//checkSideAngleEyesOff_lineBreaker
 3 	4	//searchCount
-5 	3	//searchCount_lineBreaker
+5 	7	//searchCount_lineBreaker
 0		//padding
 0		//padding
