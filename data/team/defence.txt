@@ -1,36 +1,36 @@
-10.0 	8.88	//adjustDribbleWaitTimer
-10.0 	12.0	//adjustSandDist
-5.0		6.50	//continueAdvantageDelay
-3.0		4.00	//continueAdvantagePress
-50.0 	24.0	//courseCutCheckRange
-35.0 	28.0	//courseCutTargetDistFar
-6.0		3.00	//courseCutTargetDistNear
+10.0 	7.66	//adjustDribbleWaitTimer
+10.0 	11.0	//adjustSandDist
+5.0		6.25	//continueAdvantageDelay
+3.0		3.65	//continueAdvantagePress
+50.0 	28.0	//courseCutCheckRange
+35.0 	30.0	//courseCutTargetDistFar
+6.0		4.00	//courseCutTargetDistNear
 20.0 	//lowerConnectionParam
-6.0		2.22	//matchUpAdjustLineCheckDistDefensiveAwareness3
-12.0 	4.55	//matchUpAdjustLineCheckDistDefensiveAwareness4
+6.0		3.66	//matchUpAdjustLineCheckDistDefensiveAwareness3
+12.0 	8.88	//matchUpAdjustLineCheckDistDefensiveAwareness4
 70.0 	50.0	//matchUpBackFollowAngle
-20	22	//matchUpBallFutureFrame
+20  	//matchUpBallFutureFrame
 10.0 	7.00	//matchUpContinueAddBackFollowAngle
-1.5	 	3.65	//matchUpContinueAddBallDist
-2.0		1.65	//matchUpContinueAddDfXLimit
-2.0		1.65	//matchUpContinueAddMfXLimit
-2.0		1.65	//matchUpContinueAddZLimit
-4.0		3.00	//matchUpContinueDistSub
+1.5	 	2.76	//matchUpContinueAddBallDist
+2.0		1.76	//matchUpContinueAddDfXLimit
+2.0		1.76	//matchUpContinueAddMfXLimit
+2.0		1.76	//matchUpContinueAddZLimit
+4.0		3.10	//matchUpContinueDistSub
 1		//matchUpCountMidToLastDefault
 1		//matchUpCountOverTopDanger
 1		//matchUpCountOverTopDefault
 1		//matchUpCountTopToMidCaution
 1		//matchUpCountTopToMidSafe
-10.0 	6.50	//matchUpDfXLimit
-4.0		3.50	//matchUpFwXLimit
-5.0 	3.50	//matchUpLimitDistDefensiveAwareness0
-8.0 	6.25	//matchUpLimitDistDefensiveAwareness1
+10.0 	7.40	//matchUpDfXLimit
+4.0		3.45	//matchUpFwXLimit
+5.0 	3.85	//matchUpLimitDistDefensiveAwareness0
+8.0 	6.82	//matchUpLimitDistDefensiveAwareness1
 10.0	//matchUpMfXLimit
-3.0 	2.22	//matchUpMustContinueDist
-10	5	//matchUpStartLine
-26.0 	20.0	//matchUpStartLineMax
-5.0		3.25	//matchUpZLimit
-14.0 	8.00	//maxSandDist
-30.0 	34.5	//maxWaitTime
+3.0 	2.88	//matchUpMustContinueDist
+10	6	//matchUpStartLine
+26.0 	22.0	//matchUpStartLineMax
+5.0		3.85	//matchUpZLimit
+14.0 	9.00	//maxSandDist
+30.0 	33.95	//maxWaitTime
 40 	44	//predictionFrame
 80.0	//upperConnectionParam

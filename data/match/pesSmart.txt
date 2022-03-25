@@ -73,7 +73,7 @@
 
 //defenceMarkCalcApproachRate// 
 1	//custom
-0.5 	0.375	//rate
+0.5 	0.355	//rate
 0	//padding
 0	//padding
 
@@ -96,12 +96,12 @@
 0	//padding
 
 //freekick -> adjustedTargetSetplay//
-0.8		//adjustRateMax		
-0.4		//adjustRateMin
+0.8		0.85	//adjustRateMax		
+0.4		0.35	//adjustRateMin
 1		//custom
-80.0	83.0	//paraMax
-50.0	47.0	//paraMin
-80.0	77.0	//specialist
+80.0	84.0	//paraMax
+50.0	45.0	//paraMin
+80.0	76.0	//specialist
 0		//padding
 0		//padding
 
@@ -112,14 +112,14 @@
 0	//padding
 
 //gk -> catchable// it was actually mapped, avok just forgot a flag
-85.0 	75.0	//catchableSpeedDefaultMax	
-70.0 	56.0	//catchableSpeedDefaultMin  
-60.0 	48.0	//catchableSpeedMin  
+85.0 	73.7	//catchableSpeedDefaultMax	
+70.0 	55.5	//catchableSpeedDefaultMin  
+60.0 	49.5	//catchableSpeedMin  
 0		//custom 
-1.1		0.88	//frontAdjustRate  
-110.0 	92.0	//punchableSpeedMax 
-80.0 	70.0	//punchableSpeedMin 
-20.0	18.2	//tooNearDist  
+1.1		0.90	//frontAdjustRate  
+110.0 	91.3	//punchableSpeedMax 
+80.0 	69.69	//punchableSpeedMin 
+20.0	18.25	//tooNearDist  
 
 //gk -> gkPress// sweeper keepers do not @ me
 1.7 	1.20	//advantageousRateClassical	

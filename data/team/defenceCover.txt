@@ -20,7 +20,7 @@
 10.0 	9.00	//coverAdjustAngle
 4.0		3.67	//coverAdjustDist
 42.0 	40.0	//coverAngle
-55.0 	48.0	//coverDfAngle
+55.0 	50.0	//coverDfAngle
 18.0 	17.0	//coverDfAngle2
 4.5 	5.00	//coverDist
 50.0	//coverPenaltyAngle
@@ -30,7 +30,7 @@
 1		//isNearPlayerAssign
 8.0		8.50	//limitDistX_MfLine
 70.0	90.0	//mfLimitRate
-5.0		4.50	//minCoverDist
+5.0		4.45	//minCoverDist
 0 		//padding
 0 		//padding
 0		//padding
