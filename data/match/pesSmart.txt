@@ -112,12 +112,12 @@
 0	//padding
 
 //gk -> catchable// it was actually mapped, avok just forgot a flag
-85.0 	73.7	//catchableSpeedDefaultMax	
-70.0 	55.5	//catchableSpeedDefaultMin  
-60.0 	49.5	//catchableSpeedMin  
+85.0 	73.27	//catchableSpeedDefaultMax	
+70.0 	55.25	//catchableSpeedDefaultMin  
+60.0 	49.15	//catchableSpeedMin  
 0		//custom 
 1.1		0.90	//frontAdjustRate  
-110.0 	91.3	//punchableSpeedMax 
+110.0 	90.92	//punchableSpeedMax 
 80.0 	69.69	//punchableSpeedMin 
 20.0	18.25	//tooNearDist  
 
