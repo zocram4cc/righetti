@@ -1,40 +1,36 @@
-32	//longThrowSupport array
-1	//mode array
-48	//seamlessThrowin array
-64	//search array
-96	//speed array
-0	//padding
-0	//padding
-0	//padding
-
-//longThrowSupport//
-0.5	//adjustRate
-1	//enable
-0	//mode
-0	//padding
-
-//seamlessThrowin//
-5.0	//dist
-3.0	//touchLineDist
-0	//padding
-0	//padding
-
-//search//
-32.0	//distFarLongPara
-25.0	//distFarNormal
-15.0	//distMiddle
-5.0		//distNear
-0.6		//gageMiddle
-0		//padding
-0		//padding
-0		//padding
-
-//speed//
-20.0	//adjustDistMax
-10.0	//adjustDistMin
-10.0	//adjustSpeed
-50.0	//baseMaxKph
-35.0	//baseMinKph
-0		//padding
-0		//padding
-0		//padding
+0
+0
+32
+1
+48
+64
+80
+112
+0
+0
+0.5
+1
+0
+0
+80.0
+3.0
+0
+0
+5.0
+3.0
+0
+0
+32.0
+25.0
+15.0
+5.0
+0.6
+0
+0
+0
+20.0
+10.0
+10.0
+50.0
+35.0
+0

@@ -1,8 +1,8 @@
-1		//addCount
-0		//addCount_adverse
--1.0	//checkMiddleLineX
--5.0	//checkMiddleLineX_adverse
--18.0	//checkTopLineX
--25.0	//checkTopLineX_adverse
-0		//style
-0 		//padding
+5
+0
+0
+1
+0
+-1.0
+-5.0
+-18.0

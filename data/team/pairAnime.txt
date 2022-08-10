@@ -1,74 +1,56 @@
-48	//decideTiming array
-0 	//highballEnable
-160	//moveContact array
-0 	//moveEnable
-176	//stamina array
-192	//stopContact array
-1 	//stopEnable
-0 	//padding
-
-//decideTiming -> pes15TestDecideTiming
-1	//enable
-0.8 	0.00	//maxSec
-0	//minSec
-0	//padding
-
-//decideTiming
-0.8		0.00	//moveSec
-32	//pes15TestDecideTiming index
-0.3		0.00	//stopSec
-0 1	//Highball Enable (apparently)
-
-//moveContact -> firstAttackEnd
-0 1	//enable
-10	11	//paraDiff
-0	//padding
-0	//padding
-
-//moveContact -> pes15TestMoveContact -> defenceIdealRot
-5.0		3.00	//margin
-40.0 	29.0	//max
-30.0 	9.00	//min
-15.0 	8.00	//paraDown
-
-//moveContact -> pes15TestMoveContact -> dropOut
-1		//enable
-0.15	0.03	//minSec
-0		//padding
-0		//padding
-
-//moveContact -> pes15TestMoveContact -> speedDiff
-5.0 	4.00	//paraDown
-5.0 	4.00	//value
-0	//padding
-0	//padding
-
-//moveContact -> pes15TestMoveContact
-1	//calcType
-80	//defenceIdealRot index
-96	//dropOut index
-257	//HEX 0x01010000, contains enable, neutralEnd, NULL, NULL
-112	//speedDiff index
-0	//tackleResultSetAnime
-0	//padding
-0	//padding
-
-//moveContact
-64	//firstAttackEnd index
-128	//pes15TestMoveContact index
-0	//padding
-0	//padding
-
-//stamina
-0.5 	0.86	//effect
-0.8 	1.26	//max
-0.2 	0.46	//min
-0	//padding
-
-//stopContact
-110.0 	96.0	//keepBodyAngleSub
-1		//myGoalAngleEnable
-0		//padding
-0		//padding
-
-//this will hopefully speed up the animations a bit, 21 is slow
+-25.0
+0
+0
+64
+0
+176
+0.0
+257
+1
+192
+208
+1
+0
+0
+0
+1
+0.01
+0
+0
+0.01
+48
+0.01
+0
+0
+10
+0
+0
+5.0
+20.0
+10.0
+15.0
+1
+0.15
+0
+0
+5.0
+5.0
+0
+0
+1
+96
+112
+257
+128
+0
+0
+0
+80
+144
+0
+0
+0.52
+0.9
+0.1
+0
+110.0

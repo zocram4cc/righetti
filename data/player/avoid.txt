@@ -1,20 +1,20 @@
-45.0	55.0	//angleDelta
-45.0	55.0	//angleVelocity
-4.0		3.00	//cornerKickTime1
-8.0		7.00	//cornerKickTime2
-6.0		7.00	//dist
-2.0		3.00	//distDefence
-4.0		5.00	//distInner
-5.0		6.00	//distShort
-2.0		1.00	//freeKickTime1
-6.0		4.00	//freeKickTime2
-8.0		4.00	//goalKickTime2
-4.0		1.00	//kickOffTime2
-2.0		1.00	//penaltyKickTime1
-4.0		2.00	//penaltyKickTime2
-11.25	22.25	//subtleAngleSub
-6.0		4.00	//throwInTime2
-3.0		2.00	//transitionTime2
-10.0	7.00	//transitionTime3
-0		//padding
-0		//padding
+45.0
+45.0
+4.0
+8.0
+6.0
+2.0
+4.0
+5.0
+2.0
+6.0
+8.0
+4.0
+2.0
+4.0
+11.25
+6.0
+3.0
+10.0
+0
+0

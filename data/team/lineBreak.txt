@@ -1,16 +1,16 @@
-90 	92	//checkAreaScore
-70 	66	//checkAreaScore_lineBreaker
-60.0 	82.0 	//checkBodyAngleEyesOff
-80.0 	111.0	//checkBodyAngleEyesOff_lineBreaker
-60.0 	85.0	//checkBodyAnglePullAway
-90.0 	122.0	//checkBodyAnglePullAway_lineBreaker
-15.0 	19.0	//checkDistEyesOff
-25.0 	36.0	//checkDistEyesOff_lineBreaker
-70 	72	//checkInterceptScore
-40 	44	//checkInterceptScore_lineBreaker
-65.0 	84.0	//checkSideAngleEyesOff
-80.0 	111.0	//checkSideAngleEyesOff_lineBreaker
-3	4	//searchCount
-5	6	//searchCount_lineBreaker
-0		//padding
-0		//padding
+0
+0
+0
+90
+70
+60.0
+80.0
+60.0
+90.0
+15.0
+25.0
+65
+33
+65.0
+80.0
+3

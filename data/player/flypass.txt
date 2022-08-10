@@ -1,79 +1,64 @@
-48		//attackSideAdjustAngleXZMax array
-64		//defenceSideAdjustAngleXZMax array
-1		//gageManualTest
-80		//height array
-128		//manual array
-144		//manualBlendManualRateGageMax array
-160		//manualBlendManualRateGageStrong array
-176		//manualBlendManualRateGageWeak array
--0.1	//manualBlendParaMaxAdd
-30.0	//manualBlendthreshold
-nan		//passAssistLevel
-192		//search array
-
-//attackSideAdjustAngleXZMax//
+48
+64
+1
+80
+128
+144
+160
+176
+-0.1
+30.0
+nan
+192
 1.0
 1.0
-0.8
-0	//padding (?)
-
-//defenceSideAdjustAngleXZMax//
-0.8
+0.5
+0
+1.0
+0.25
 0.125
-0.025
-0	//padding (?)
-
-//height//
-35.0 	32.0	//distMax (50 in 17)
-35.0	32.0	//distMax_high (50 in 17)
-10		6.00	//distMin (0 in 17)
-10		6.00	//distMin_high (0 in 17)
-5 		4.67	//heightForDistMaxParaMax (4.5 in 17)
-6.5		5.86	//heightForDistMaxParaMin (6.0 in 17)
-2.0		1.95	//heightForDistMaxSkill
-8.0		7.67	//heightForDistMax_high
-1.8		1.21	//heightForDistMinParaMax (1.2 in 17)
-1.8		1.21	//heightForDistMinParaMin (1.2 in 17)
-1.5		1.42	//heightForDistMinSkill
-2.3		1.76	//heightForDistMin_high (1.75 in 17)
-//manual//
-60.0	//distForGageMax
-10.0	//distForGageMin
-0.3		//interpolateRate
-0		//padding
-
-//manualBlendManualRateGageMax//
+0
+35.0
+35.0
+10.0
+10.0
+5.0
+6.5
+2.0
+8.0
+1.8
+1.8
+1.5
+2.3
+60.0
+10.0
+0.3
+0
 1.0
 0.6
 0.6
-0	//padding (?)
-
-//manualBlendManualRateGageStrong//
+0
 1.0
 0.5
 0.5
-0	//padding (?)
-
-//manualBlendManualRateGageWeak//
+0
 1.0
 0.4
 0.4
-0	//padding (?)
-
-//search//
-0.5		0.55	//angleRate
-0		//debugDisp_searchBasePoint
-1.0		1.11	//distRate
-50.0 	27.0	//passTargetDistMax
-10.0 	5.00	//passTargetDistMaxOffset
-15.0 	9.00	//passTargetDistMin
-4.0		8.00	//passTargetDistMinOffset
-60.0 	34.0	//searchMaxDist
-10.0 	6.00	//searchMinDist
-15.0	16.0	//xAxisAngleMaxAngle
-5.0		3.00	//xAxisAngleZeroAngle
-15.0	12.0	//zAxisAngleMaxAngle
-5.0		2.50	//zAxisAngleZeroAnglefloat
-0		//padding
-0		//padding
-0		//padding
+0
+0.5
+0
+1.0
+50.0
+10.0
+15.0
+4.0
+60.0
+10.0
+15.0
+5.0
+15.0
+5.0
+0
+0
+0

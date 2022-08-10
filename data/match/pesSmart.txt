@@ -1,292 +1,212 @@
-0.2 0	//InplayTapPassCheckSec
-208	//UEFAShootFreekick array
-240	//defenceMarkCalcApproachRate array
-288	//foul array
-336	//freekick array
-400	//gk array
-416	//isAutoKickAfterRun array
-464	//isShouldTurnBeforePass array
-624	//stamina array
-688	//subConcept array
-704	//thinkUnitDribbleBreakThrough array
-752	//thinkUnitPassCross array
-768	//thinkUnitPassTarget array
-784	//updateIntention array
-832	//updateThinkList array
-0	//padding
-
-//UEFAShootFreekick -> clickArea//
-240.0	//h
--70.0	//up
-240.0	//w
-0		//padding
-
-//UEFAShootFreekick -> curve//
-4.0		//addKickRot	
-1.3		//multiply
-0.85	//reverseCuveRate
-200.0	//swipeDistMax
-10.0	//swipeDistMin
-0		//padding
-0		//padding
-0		//padding
-
-//UEFAShootFreekick -> shootHeightFromSwipeSpeed -> pixcelDist//
-1		//enable		
-500.0	//far
-75.0	//near
-150.0	//nearStrong
-350.0	//normalMax
-300.0	//normalMin
-0		//padding
-0		//padding
-
-//UEFAShootFreekick -> shootHeightFromSwipeSpeed//
-1		//enable	
-25.0	//goalMouseDown
-190.0	//goalMouseOver
-160.0	//goalMouseUpMax
-140.0	//goalMouseUpMin
-0.8		//mouseOverValue
-1		//nearStrongEnable
-112		//pixcelDist index
-
-//UEFAShootFreekick -> speed//
-0.45	//kickNormal	
-0.7		//kickStrong
-0.15	//kickWeak
-60.0	//swipeFastMax
-45.0	//swipeFastMin
-25.0	//swipeSlowMax
-10.0	//swipeSlowMin
-0		//padding
-
-//UEFAShootFreekick//
-64	//clickArea index
-80	//curve index
-1	//enable
-144	//shootHeightFromSwipeSpeed index
-176	//speed
-0	//padding
-0	//padding
-0	//padding
-
-//defenceMarkCalcApproachRate// 
-1	//custom
-0.5 	0.355	//rate
-0	//padding
-0	//padding
-
-//foul -> action//
-1	//custom
-25	95	//time
-0	//padding
-0	//padding
-
-//foul -> area//
-1	//custom
-1	//mode
-0	//padding
-0	//padding
-
-//foul//
-256	//action index
-272	//area index
-0	//padding
-0	//padding
-
-//freekick -> adjustedTargetSetplay//
-0.8		0.85	//adjustRateMax		
-0.4		0.35	//adjustRateMin
-1		//custom
-80.0	84.0	//paraMax
-50.0	45.0	//paraMin
-80.0	76.0	//specialist
-0		//padding
-0		//padding
-
-//freekick//
-304	//adjustedTargetSetplay index
-0	//padding
-0	//padding
-0	//padding
-
-//gk -> catchable// it was actually mapped, avok just forgot a flag
-85.0 	73.27	//catchableSpeedDefaultMax	
-70.0 	55.25	//catchableSpeedDefaultMin  
-60.0 	49.15	//catchableSpeedMin  
-0		//custom 
-1.1		0.90	//frontAdjustRate  
-110.0 	90.92	//punchableSpeedMax 
-80.0 	69.69	//punchableSpeedMin 
-20.0	18.25	//tooNearDist  
-
-//gk -> gkPress// sweeper keepers do not @ me
-1.7 	1.20	//advantageousRateClassical	
-1.5 	0.90	//advantageousRateNormal
-1.3 	0.60	//advantageousRateOffensive
-1	//custom
-
-//gk//
-352	//catchable index
-384	//gkPress index
-0	//padding
-0	//padding
-
-//isAutoKickAfterRun//
-0	//custom
-0	//padding
-0	//padding
-0	//padding
-
-//isShouldTurnBeforePass -> angle//
-1		//custom	
-120.0 140	//max
-95.0  80	//min
-0		//padding
-
-//isShouldTurnBeforePass -> dist//
-35.0	28.0	//checkDistMiddle	
-30.0	22.0	//checkDistShort
-1		//custom
-0		//padding
-
-//isShouldTurnBeforePass//
-432	//angle index
-1.0	//checkKickPointDist
-448	//dist index
-0	//padding
-
-//stamina -> contactTired//
-1	//custom	
-0.0		4.00	//value
-0	//padding
-0	//padding
-
-//stamina -> dashTired//
-1	//custom
-3.0		5.00	//value
-0	//padding
-0	//padding
-
-//stamina -> defenceTired//
-1	//custom
-3.0 	8.00	//value
-3.0		8.00	//valueOwnSide
-0	//padding
-
-//stamina -> dribbleTired//
-1	//custom
-2.0 	6.00	//value
-0	//padding
-0	//padding
-
-//stamina -> fallDownTired//
-1		//custom
-10.0	14.0	//value
-0		//padding
-0		//padding
-
-//stamina -> jostleTired//
-1	//custom
-2.0 	6.00	//value
-0	//padding
-0	//padding
-
-//stamina -> metabolism//
-1	//custom
-8.0 	12.0	//value
-0	//padding
-0	//padding
-
-//stamina -> speedTired//
-1	//custom
-1.0 	7.00	//value
-0	//padding
-0	//padding
-
-//stamina -> staggerTired//
-1	//custom
-3.0		5.00	//value
-0	//padding
-0	//padding
-
-//stamina//
-480	//contactTired index
-496	//dashTired index
-512	//defenceTired index
-528	//dribbleTired index
-544	//fallDownTired index
-560	//jostleTired index
-576	//metabolism index
-592	//speedTired index
-608	//staggerTired index
-0	//padding
-0	//padding
-0	//padding
-
-//subConcept -> longPassLayOffAndBreakthroughToDefenceLine//
-60.0	90.0	//checkRot
-1		//custom
-0		//padding
-0		//padding
-
-//subConcept//
-672	//longPassLayOffAndBreakthroughToDefenceLine index
-0	//padding
-0	//padding
-0	//padding
-
-//thinkUnitDribbleBreakThrough//
-1	//custom
-0	//padding
-0	//padding
-0	//padding
-
-//thinkUnitPassCross -> buildUpShort//
-1	//custom	
-1	//mode
-0	//padding
-0	//padding
-
-//thinkUnitPassCross -> getTarget//
-1		//custom
-55.0	//reverseSideShootRangeAngleSub
-0		//padding
-0		//padding
-
-//thinkUnitPassCross//
-720	//buildUpShort index
-736	//getTarget index
-0	//padding
-0	//padding
-
-//thinkUnitPassTarget//
-0	//custom
-0	//padding
-0	//padding
-0	//padding
-
-//updateIntention//
-1	//custom
-0	//padding
-0	//padding
-0	//padding
-
-//updateThinkList -> execSubConcept//
-0	//custom
-8.0 	5.20	//enemyDist
-0	//padding
-0	//padding
-
-//updateThinkList -> intentionChallengeAttackSideCenter//
-1	//custom
-0	//padding
-0	//padding
-0	//padding
-
-//updateThinkList//
-800	//execSubConcept index
-816	//intentionChallengeAttackSideCenter index
-0	//padding
-0	//padding
+0
+0
+0.2
+208
+240
+288
+336
+400
+416
+464
+624
+688
+704
+752
+768
+784
+832
+0
+240.0
+-70.0
+240.0
+0
+4.0
+1.3
+0.85
+200.0
+10.0
+0
+0
+0
+1
+500.0
+75.0
+150.0
+350.0
+300.0
+0
+0
+1
+25.0
+190.0
+160.0
+140.0
+0.8
+1
+112
+0.45
+0.7
+0.15
+60.0
+45.0
+25.0
+10.0
+0
+64
+80
+1
+144
+176
+0
+0
+0
+1
+0.35
+0
+0
+1
+25
+0
+0
+1
+1
+0
+0
+256
+272
+0
+0
+1.2
+0.2
+1
+120.0
+30.0
+50.0
+0
+0
+304
+0
+0
+0
+56.0
+42.0
+20.0
+0
+0.86
+73.1
+48.0
+15.0
+0
+0
+0
+1
+352
+384
+0
+0
+0
+0
+0
+0
+1
+120.0
+95.0
+0
+35.0
+30.0
+1
+0
+432
+1.0
+448
+0
+1
+1.0
+0
+0
+1
+2.0
+0
+0
+1
+3.0
+3.0
+0
+1
+4.0
+0
+0
+1
+8.0
+0
+0
+1
+4.0
+0
+0
+1
+8.0
+0
+0
+1
+4.0
+0
+0
+1
+4.0
+0
+0
+480
+496
+512
+528
+544
+560
+576
+592
+608
+0
+0
+0
+60.0
+1
+0
+0
+672
+0
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+1
+55.0
+0
+0
+720
+736
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+8.0
+0
+0
+1
+0
+0
+0
+800
+816

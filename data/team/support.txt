@@ -1,48 +1,45 @@
-45.0	75.0	//angleMax
-22.5	65.0	//angleMaxAdjust
-90.0	125.0	//angleMaxFront
-22.5	85.0	//angleMaxMargin
-135.0	170.0	//angleSubAbsMax
-0		//angleSubAbsMaxMargin
-20.0	32.0	//baseDistMax
-5.0		9.00	//baseDistMaxAdjust
-5.0		9.00	//baseDistMaxMargin
-15.0	20.0	//baseXDistMax
-5.0		9.00	//baseXDistMaxAdjust
-5.0		9.00	//baseXDistMaxMargin
-15.0	20.0	//baseZDistMax
-5.0		9.00	//baseZDistMaxAdjust
-5.0		9.00	//baseZDistMaxMargin
-12.0	20.0	//distDash
-1.0		2.00	//distDashMargin
-8.0		12.0	//distDashQuick
-2.0		3.00	//distJog
-1.0		1.50	//distJogMargin
-20.0	34.0	//distMax
-15.0	24.0	//distMaxAdjust
-5.0		9.00	//distMaxMargin
-3.0		4.00	//distRequestPass
-4.0		6.00	//distRun
-1.0		4.00	//distRunMargin
-10.0	12.0	//distXDashQuick
-50.0	//lowerConnectionParam
-6.0		//spaceRectLength
-160		//style array
-6.0		10.0	//supportDist
-3.0		6.00	//supportDistAdjust
-3.0		2.00	//supportDistAdjustBase_Long
-5.0		4.00	//supportDistSituation
-8.0		5.00	//supportDistSituationBack
-12.0	10.0	//supportDistSituationSide
-16.0	//thicknessPillar
-70.0	//upperConnectionParam
-1.0		0.01	//waitTimeMax
-
-
-//style//
-0	//Again no idea what these mean
+1
+1
 0
+45.0
+22.5
+90.0
+22.5
+135.0
 0
+20.0
+5.0
+5.0
+10.0
+6.0
+6.0
+14.0
+6.0
+6.0
+12.0
+1.0
+8.0
+4.0
+2.0
+24.0
+16.0
+8.0
+4.0
+6.0
+4.0
+12.0
+50.0
+6.0
+160
+8.0
+8.0
+2.0
+6.0
+6.0
+10.0
+16.0
+70.0
+1.0
 0
 0
 0

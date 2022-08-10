@@ -1,80 +1,80 @@
-22.5	50.0	//addAngleKickOff
-3	//addRemainMarkXDistDf
-20.0	22.0	//adjustApproachRateMax_inOffenceDir
-5.0		5.10	//adjustContinueDistTeamWork
-3.0		4.00	//adjustCrossDistTeamWork
-3.0		5.00	//adjustDistBoxToBox
-50.0	52.0	//approachRateMax
-30.0 	25.0	//approachRateMax_buildUp
-40.0	39.0	//approachRateMax_side
-60.0	56.0	//backAngleLimitGoal
-90.0	85.0	//backAngleLimitSide
-67.5	60.0	//ballBackAngleForLineUp
-0.7		0.71	//checkBackFollowDist
-0.7		0.77	//checkBackFollowDist_BoxToBox
-15.0	17.0	//checkBackFollowRemainDist
-18.0	19.0	//checkBackFollowRemainDist_BoxToBox
-1.0		1.85	//checkBackFollowZoneDist
-2.0 	2.35	//checkBackFollowZoneDist_BoxToBox
-10.0	11.0	//checkCenterPlayLastXDist
-8.00	9.00	//checkCenterPlayLastXDistRemain
-2		//checkCenterPlayZPosRemain //these goddamn integer constants are fucking with my formatting :^(
-25.0	24.0	//checkFrontPlayPointDist
-20	21	//checkRearOffenceDist
-20	22	//checkRearOffenceDistFar
-15	16	//checkReverseSideXDist
-40	38	//checkTargetGoalDist
-0.1 	0.19	//checkZoneAreaRate
-0.3		0.35	//checkZoneAreaRate_BoxToBox
-22.5	26.5	//continueAddAngleLimit
-2		//continueAddStartLine
-2		//continueAddWideLimit
-4	3	//cornerKickTime
-2.5		2.60	//dfZZoneRange
-6.0		7.00	//distDash
-2.0 	2.25	//distDashMargin
-4.0 	4.25	//distDash_course
-2.0		2.13	//distJog
-2.0		2.13	//distJogMargin
-2.0 	2.13	//distJog_course
-3.0 	3.26	//distRun
-2.0		2.12	//distRunMargin
-3.0		3.22	//distRun_course
-4.0		3.75	//gapDist
-5.0		5.55	//keepDistForGap
-7.0 	8.00	//markContinueAddDistDF
-15.0	15.25	//markContinueDist
-20.0	19.5	//markContinueDist_BoxToBox
-5 	//mfZZoneRange
-90.0 	89.0	//needMarkAngleBase
-25.0 	26.0	//needMarkDistGKShort
-2.0 	2.50	//needMarkOverLastLineDist
-7 	6	//noCrossCheckDist
-4.0 	4.20	//preLastDistForGap
-20 	18	//predictionFrame
-29.15	40.0	//releaseCheckTargetAngle
-15.0	18.0	//releaseCheckTargetDfLineDist
-22.5	24.5	//releaseCheckTargetMarkedAngle
-6	8	//releaseCheckTargetMarkedDist
-5	7	//releaseTargetDist
-10.0 	12.0	//remainMarkXLimit
-13.0 	14.0	//remainMarkXLimit_BoxToBox
-12.0	13.5	//remainMarkZLimit
-18.0 	16.0	//remainMarkZLimit_BoxToBox
-10	12	//reverseSideAddWideLimit
-135.0	124.0	//targetBallAngleForGap
-30.0 	32.0	//targetLastDistForGap
-2.0 	2.50	//targetLineDistForLineUp
-20.0 	22.0	//targetPlayDistForLineUp
-4.0		6.00	//tmpCheckZoneMarkDist
-1		//useCoverMoveSpeed
-10	12	//zoneFrontXMf
-15.0 	14.0	//zoneMarkXLimit
-18.0 	17.0	//zoneMarkXLimit_BoxToBox
-15.0 	14.0	//zoneMarkZLimit
-18.0 	17.0	//zoneMarkZLimit_BoxToBox
-2.5 	3.00	//zoneZRange
-5	6	//zoneZRangeAlone
-0	 	//padding
-0	 	//padding
-0		//padding
+0
+0
+0
+47.0
+4
+13.0
+4.0
+1.0
+2.0
+31.0
+20.0
+13.0
+20
+40
+45.0
+0.24
+0.265
+6.0
+8.0
+1.51
+1.52
+6
+3
+2
+16.0
+8
+14
+8
+18
+0.105
+0.12
+16.0
+1
+1
+6
+2.0
+8.0
+4.0
+5.0
+4.0
+4.0
+5.0
+8.0
+5.0
+6.0
+4.0
+5.0
+8.0
+14.0
+15.0
+5
+52.0
+20.0
+1.0
+4
+4.0
+45
+22.0
+10.0
+14.0
+4
+3
+5.0
+6.0
+4.0
+7.0
+6
+90.0
+16.0
+2.0
+8.0
+2.0
+1
+6
+11.0
+12.0
+9.0
+11.0
+1.0
+2

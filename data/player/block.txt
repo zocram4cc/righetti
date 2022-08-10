@@ -1,25 +1,20 @@
-1	//exec
-32	//press
-64	//touchAfterSec
-0	//padding
-
-0.0	//HEX 0x00000100, contains centering, longPass, shoot, shortPass
-1	//shortPassForecast
-0	//padding
-0	//padding
-
-//press//
-0	//checkArea
-3.0	0.50	//checkDistShoot
-1.0 0.90	//checkDist
-1	//enable
-16	//press index
-0	//padding
-0	//padding
-0	//padding
-
-//touchAfterSec//
-0.7	0.90	//normal (0.5 in 17)
-1.0	2.00	//speedBall
-0	//padding
-0	//padding
+1
+32
+64
+0
+0.0
+1
+0
+0
+0
+1.0
+3.0
+1
+16
+0
+0
+0
+0.2
+1.0
+0
+0

@@ -1,22 +1,20 @@
-0		//back_charge_forced_falldown
-56.0 	88.0	//forced_large_speed
-0.45	//lower_size_mid_to_max
-0.45	//lower_size_mid_to_max_by_sliding
-0.5		//lower_size_mid_to_max_by_tackle
-0.25	//lower_size_min_to_mid
-0.15	//lower_size_min_to_mid_by_sliding
-0.2		//lower_size_min_to_mid_by_tackle
-0.6		//ragdoll_falldown_size_jump
-0.5		//ragdoll_falldown_size_normal_body
-0.8		//ragdoll_falldown_size_normal_foot
-0.8		//ragdoll_falldown_size_tackle
-24.0	42.0	//speed_mid_to_max (35 in 17)
-16.0	36.0	//speed_min_to_mid (27 in 17)
-0.15	//upper_size_mid_to_max
-0.04	//upper_size_mid_to_max_by_tackle
-0.06	//upper_size_min_to_mid
-0.03	//upper_size_min_to_mid_by_tackle
-0		//padding
-0		//padding
-
-//this is physics shit, reminder to fuck around here if Sou wants some wacky patch
+0
+56.0
+0.75
+0.45
+0.5
+0.5
+0.15
+0.2
+0.6
+0.5
+0.8
+0.8
+24.0
+16.0
+0.2
+0.04
+0.15
+0.03
+0
+0

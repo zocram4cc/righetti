@@ -1,44 +1,42 @@
-16	//subConcept
-0 	//subConcept_passRequest_all_off
-0 	//subConcept_passRequest_off
-0 	//padding
-
-//subConcept//
-1	//No idea what any of these values are or how to split them
-0	1
+0
+0
+0
+16
+0
+0
+0
 1
-0	1
-0	1
+0
 1
-1
-0	1
-0	1
-1
-0	1
-0	1
-0	1
-0	1
+0
+0
 1
 1
-0	1
+0
+0
 1
-0	1
-0	1
-0	1
-1
-0	1
-0	1
-0	1
-0	1
+0
+0
+0
+0
 1
 1
+0
 1
-0	1
-0	1
-0	1
+0
+0
+0
+1
+0
+0
+0
+0
 1
 1
 1
+0
+0
+0
 1
 1
 1
@@ -51,4 +49,4 @@
 1
 1
 1
-0	1
+1

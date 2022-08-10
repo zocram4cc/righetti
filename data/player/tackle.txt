@@ -1,46 +1,44 @@
-64		//anime array
-0 	1	//autoSideStepEnable
-0.4		2.50	//check_SaftyRate_Delay
-0.5		2.60	//check_SaftyRate_Last_Line
-0.4		2.50	//check_SaftyRate_No_Cover
-0.5		4.00	//failAfterStopTime
-0.7		4.50	//forecastHitRate
-2		//freeMoveTackleMode
-0		//manualSideStepEnable
-0		//reactionStartFrame
-1.5		8.00	//saftyRate_FarDist
-0.2		3.90	//saftyRate_NearDist
-1.75	0.95	//tackleThinkDisableToTrap
-0		//padding
-0		//padding
-0		//padding
-
-//anime//
-1.0 	3.00	//accelBackLimitSpeed
-4.0		6.00	//accelLimitSpeedIdle
-0		//accelLimitSpeedMove
-22.5 	62.5	//adjustLimitAngleIdle
-11.25 	42.5	//adjustLimitAngleMove (22.5 IN 17)
-0.0		//HEX 0x01010101, contains autoShoulderCom, autoShoulderInterruptCom, autoShoulderInterruptUser, autoShoulderUser
-1		//ballVisibleCheck
-14.0 	//enterSpeed (15 in 17)
-4	0	//farCutFrame
-6	2	//midCutFrame
-8	4	//nearCutFrame
-1.2		1.84	//playbackSpeedHighest
-0.9		0.55	//playbackSpeedLowest
-135.0 	125.0	//pressTackleEnableAngleIdle
-157.5 	147.5	//pressTackleEnableAngleIdleAggressiveLv1
-168.75 	167.75	//pressTackleEnableAngleIdleAggressiveLv2
-105.0 	99.0	//pressTackleEnableAngleMove
-135.0 	122.0	//pressTackleEnableAngleMoveAggressiveLv1
-157.5 	142.0	//pressTackleEnableAngleMoveAggressiveLv2
-0		//shoulderCutFrame
-0.1		0.50	//shoulderInterruptSlideLimit
-1	0	//shoulderOnly
-0.75	0.45	//shoulderSlideLimit
-257		//HEX 0x01010000, contains stepMoveAutoTackleFarEnable, stepMoveAutoTackleVeryfarEnable, tackleVeryfarEnable, NULL
-2		//veryfarCutFrame
-0		//padding
-0		//padding
-0		//padding
+64
+0
+0.24
+0.25
+0.24
+0.25
+0.17
+2
+0
+0
+0.4
+0.01
+1.75
+0
+0
+0
+3.0
+6.0
+0
+25.5
+22.25
+0.0
+0
+20.0
+0
+1
+2
+4
+2.0
+0.5
+125.0
+147.5
+158.75
+100.0
+128.0
+127.5
+0
+0.1
+1
+0.75
+1
+0
+0
+0

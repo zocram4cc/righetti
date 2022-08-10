@@ -1,134 +1,120 @@
-0.8		1.80	//adjustDashSpeedRate
-1.2	 	0.80	//adjustFlyPassFrame
-15	8	//adjustFrameSpaceRun
-368		//adjustFrameTime array
-0		//adjustFrameTimeBase
-10.0 	12.0	//adjustMoveSpeedMax
-25.0 	23.0	//adjustPassGetSpeed
-35.0 	30.0	//adjustPassGetSpeedFly
-50.0 	48.0	//adjustPassSpeedMax
-1.0		//adjustRatePassGetFrame
-384		//allowAngleWidth array
-4.0		//angleAddValue
-120.0 	110.0	//angleRateMax
-120.0 	70.0	//angleRateMaxFly
-85.0  	60.0	//angleRateMin
-85.0  	55.0	//angleRateMinFly
-16.0  	12.0	//angleWidthMin
-3.0	  	2.40	//angleYMax
-60.0 	1.00	//ballRouteAdjustMoveFrame
-0.417 	0.01	//baseAdjustFrame
-52.0 	40.0	//baseDistMax
-30.0 	20.0	//baseDistMin
-0.417 	0.01	//baseFrame
-35.0 	32.0	//basePassGetSpeed
-45.0 	38.0	//basePassGetSpeedFly
-30.0 	29.0	//basePassSpeedMax
-23.0	22.0	//boundDist0
-40.0	38.0	//boundDist1
-0.5		0.02	//dashMoveSecForPassgetMin
-0		//HEX 0x00000000, contains debugDisp, debugDisp_searchBasePoint, NULL, NULL //THIS IS A PURE GUESS
-40.0 	32.0	//distMaxAngleY
-12.0 	8.0		//distMinAngleY
-3.0		//distToPassgetSpeed
-45.0	32.0	//flyDistRate
-1.0		//flyPassSpeedAdjustRate
-400		//gageAdjustMaxSpeedFlyMinus
-416		//gageAdjustMaxSpeedFlyPlus
-432		//gageAdjustMaxSpeedMinus
-448		//gageAdjustMaxSpeedPlus
-5.0		//gageAdjustSpeedIntercept
-3.0		//gageAdjustSpeedInterceptBase
-0.0		//HEX 0x01010101, contains gageTest1, gageTest3, gageTest4, gageTest5
-36.0	//injectionAngleMax
-25.0	//manualFlyPassAngleYAdjust
-6.0		//manualPassAngleYAdjust
-4.0		//manualPassAngleYBase
-35.0	//manualPassSpeedAdjust
-35.0	//manualPassSpeedBase
-80 	90	//marginFrame_max
-0		//marginFrame_min
-30.0 	26.0	//maxPassTargetDist
-6.0		5.00	//minFlyDistFromTarget
-10.0 	5.00	//minPassTargetDist
-15.0 	20.0	//moveContinueFrameAdjustZposi
-50.0 	70.0	//moveContinueFrameMax
-25.0 	20.0	//moveContinueFrameMin
-0.042 	0.0117	//passFrameMargin
-1		//passGetSpeedTest
-7.0		//passPointDistMin
-0		//passgetAngleSub
-5.0		//passgetLineDiff
-2.0	 	//passgetMoveAngleDiff
-4.0		//passgetMoveLateDist
--24		-28.0	//passgetMoveLateFrame
-70.0 	80.0	//passgetMoveLateRate
-2.2		2.80	//passgetMovePointDistMax
-1.8		1.40	//passgetMovePointDistMin
-40.0 	50.0	//passgetMovePointRate
-1.2		1.40	//passgetOutSideDiff
-96.0 	92.0	//passgetSpeedRate
-93.0 	89.0	//passgetSpeedRate2
-464		//searchAngleWidth array
-32.0 	24.0	//searchLengthMax (25 IN 17)
-36.0 	28.0	//searchLengthMax_fly (30 IN 17)
-1.0		//searchLengthMin
-50.0 	34.0	//searchMaxDist
-60.0 	36.0	//searchMaxDistFly
-2.0		1.60	//searchMinDist
-6.0		//searchMinDistFly
-0.0		//HEX 0x01010101, contains searchTest, searchTest2, stickTest1, stickTest3
-30.0 	28.0	//targetDistMax
-8.0		6.00	//targetDistMin
-1.0		0.40	//targetDistSec
-20.0 	16.0	//targetDistZMax
-14.0 	4.00	//targetDistZMin
-1		//useSinCurveAngleY
-45.0	//wallTargetAdjustAngleWidth
-110.0 	90.0	//wallTargetDistFrameMax
-10.0 	6.66	//wallTargetDistFrameMin
-0.2		//wallTargetReverseDistRate
-0		//padding
-0		//padding
-
-//adjustFrameTime//
+0.8
+1.2
+15
+368
 0
-0.5   0.1
-0.1   0.02
-0	//padding (?)
-
-//allowAngleWidth//
+10.0
+25.0
+35.0
+50.0
+1.0
+384
+4.0
+120.0
+120.0
+85.0
+85.0
+16.0
+3.0
+60.0
+0.417
+52.0
+30.0
+0.417
+35.0
+45.0
+30.0
+23.0
+40.0
+0.5
 0
-15.0  12.0
-30.0  24.0
-180.0 120.0
-
-//gageAdjustMaxSpeedFlyMinus//
+40.0
+12.0
+3.0
+45.0
+1.0
+400
+416
+432
+448
+5.0
+3.0
+0.0
+36.0
+25.0
+6.0
+4.0
+35.0
+35.0
+80
+0
+30.0
+6.0
+10.0
+15.0
+50.0
+25.0
+0.042
+1
+7.0
+0
+5.0
+2.0
+4.0
+nan
+70.0
+2.2
+1.8
+40.0
+1.2
+96.0
+93.0
+464
+32.0
+36.0
+1.0
+50.0
+60.0
+2.0
+6.0
+0.0
+30.0
+8.0
+1.0
+20.0
+14.0
+1
+45.0
+110.0
+10.0
+0.2
+0
+0
+0
+0.5
+0.1
+0
+0
+15.0
+30.0
+180.0
 0
 5.0
 1.5
-0	//padding (?)
-
-//gageAdjustMaxSpeedFlyPlus//
+0
 0
 5.0
 1.5
-0	//padding (?)
-
-//gageAdjustMaxSpeedMinus//
+0
 0
 3.0
 1.5
-0	//padding (?)
-
-//gageAdjustMaxSpeedPlus//
+0
 0
 3.0
 1.5
-0	//padding (?)
-
-//searchAngleWidth//
 0
-45.0 	42.0
-60.0	55.0
-140.0	115.0
+0
+65.0
+80.0
+180.0

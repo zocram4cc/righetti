@@ -1,100 +1,80 @@
-48	//advanceLoop array
-80	//controlShootGageMax array
-112	//controlShootGageMid array
-144	//controlShootGageMin array
-176	//control_dy array
-192	//loop array
-208 //normalShootGageMax array
-240 //normalShootGageMid array
-272 //normalShootGageMin array
-304	//normal_dy array
-0	//padding
-0	//padding
-
-//advanceLoop//
-50.0	38.0	//distMax
-5.0		2.00	//distMin
-10.0 	11.0	//heightMaxForGageMax
-6.0		4.00	//heightMaxForGageMin
-2.0		1.80	//heightMinForGageMax
-1.2		1.00	//heightMinForGageMin
-0		//padding
-0		//padding
-
-//controlShootGageMax//
+48
+80
+112
+144
+176
+192
+208
+240
+272
+304
+0
+0
+50.0
+5.0
+10.0
+6.0
+2.0
+1.2
+0
+0
 80.0
 80.0
 82.0
 84.0
 90.0
 98.0
-0	//padding
-0	//padding
-
-//controlShootGageMid//
+0
+0
 62.0
 64.0
 72.0
 79.0
 84.0
 90.0
-0	//padding
-0	//padding
-
-//controlShootGageMin//
+0
+0
 45.0
 45.0
 62.0
 74.0
 78.0
 82.0
-0	//padding
-0	//padding
-
-//control_dy//
-26.5	//gageMax
-3.0		//gageMin
-0.5		//interpolateRate
-0		//padding
-
-//loop//
-28.0	//angleY	
-0.8		//manualRate
-80.0	//speedForGageMax
-40.0	//speedForGageMin
-
-//normalShootGageMax//
+0
+0
+26.5
+3.0
+0.5
+0
+28.0
+0.8
+80.0
+40.0
 95.0
 100.0
 105.0
 115.0
 120.0
 120.0
-0	//padding
-0	//padding
-
-//normalShootGageMid//
+0
+0
 70.0
 70.0
 80.0
 95.0
 115.0
 115.0
-0	//padding
-0	//padding
-
-//normalShootGageMin//
+0
+0
 56.0
 56.0
 68.0
 82.0
 84.0
 90.0
-0	//padding
-0	//padding
-
-//normal_dy//
-28.0	//gageMax
-3.0		//gageMin
-0.5		//interpolateRate
-0		//padding
+0
+0
+28.0
+3.0
+0.5
+0

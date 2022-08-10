@@ -1,8 +1,8 @@
-0.3	//BlendTime
-5.0	//addPenaltyX
-5.0	//addPenaltyZ
-3.0	//connectLimit
-256	//HEX 0x00010000, contains isHard, onoff, NULL, NULL
-0	//targetAngleType
-0	//padding
-0	//padding
+230
+0
+0.3
+5.0
+5.0
+3.0
+256
+0

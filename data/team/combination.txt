@@ -1,125 +1,72 @@
-15.0	14.5	//checkDist
-60.0	56.0	//checkWedgeAngle
-25.0 	24.0	//checkWedgeFarX
-9.0 	8.20	//checkWedgeNearX
-7.5 	9.50	//checkWedgeOffsideX
-4.0 	5.00	//checkZ
-48	//combsCom array
-272	//combsSide array
-0	//useJson
-0	//padding
-0	//padding
-0	//padding
-
-//These are split into blocks of 2 for readability.//
-//combsCom//
-3	//area
-5	//kind
-
-//combsCom//
-5	//area
-3	//kind
-
-//combsCom//
-0	//area
-0	//kind
-
-//combsCom//
-//These are guesses, the two 0x00 could also be padding//
-0	//area
-0	//kind
-
-//Same as above, these are blocks of 2 for readability//
-//combsSide -> combs//
-8	//area
-7	//kind
-
-//combsSide -> combs//
-5	//area
-4	//kind
-
-//combsSide -> combs//
-1	//area
-10	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//combsSide -> combs//
-0	//area
-0	//kind
-
-//The "mystery array" has a control value in the "combsSide" array, but doesn't
-//appear on the file structure reconstruction. Either it's a hard-coded mystery
-//value or I missed something really funky during the reconstruction phase. 
-//Either way, I can't say for sure what these values control.//
-//combsSide -> mystery array//
+0
+0
+0
+12.0
+75.0
+24.0
+8.0
+8.0
+6.0
+48
+272
 0
 0
 0
 0
-
-//combsSide -> mystery array//
+3
+5
+5
+3
 0
 0
 0
 0
-
-//combsSide -> mystery array//
+8
+7
+5
+4
+1
+10
 0
 0
 0
 0
-
-//combsSide -> mystery array//
 0
 0
 0
 0
-
-//combsSide -> mystery array//
 0
 0
 0
 0
-
-//combsSide -> mystery array//
 0
 0
 0
 0
-
-//combsSide//
-80	//combs index
-176	//mystery array index
-0	//padding
-0	//padding
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+80

@@ -1,57 +1,60 @@
-90.0 	100.0	//angleDiff_chance
-110.0 	125.0	//angleDiff_chance_good
-60.0 	70.0	//angleDiff_second
-90.0 	95.0	//angleDiff_second_good
-1		//backwardCurve
-100	102	//chanceScore
-85	88	//chanceScore_good
-30.0	40.0	//checkAngleWidthSector
-50.0	69.0	//checkAngleWidthSector_good
-2	3	//checkAreaNum
-4	5	//checkAreaNum_good
-12.0	13.0	//checkBackDist_second
-17.0	19.0	//checkBackDist_second_good
-25.0	27.5	//checkBallDist_chance
-28.0	33.0	//checkBallDist_chance_good
-16.0	19.0	//checkBallDist_counter
-20.0	25.0	//checkBallDist_counter_good
-25.0	29.5	//checkBallDist_second
-30.0 	40.5	//checkBallDist_second_good
-90.0 	84.0	//checkBodyAngle
-110.0	105.0	//checkBodyAngle_good
-1	2	//checkCount
-2	3	//checkCount_good
-27.0  	30.0	//checkFreeDist
-32.0 	35.0	//checkFreeDist_good
-0.0		97.0	//checkInterceptScore
-10.0 	105.0	//checkInterceptScore_good
-19.0 	24.0	//checkLastLineDist_chance
-23.0 	30.0	//checkLastLineDist_chance_good
-4.0 	6.00	//checkMarginDist
-8.0		11.00	//checkMarginDist_good
-82.0 	90.0	//checkMoveAngle
-100.0 	111.0	//checkMoveAngle_good
-15.0 	12.0	//checkOffsideLineDistX
-2.0 	2.25	//checkOffsideLineDistX_counter
-2.0 	2.25	//checkOffsideLineDistX_counter_good
-18.0 	12.0	//checkOffsideLineDistX_good
-40.0 	41.0	//checkPlayPointDist
-20.0 	23.0	//checkPlayPointDistX
-24.0 	36.0	//checkPlayPointDistX_good
-40.0 	42.0	//checkPlayPointDist_good
-100 92	//checkScore
-90 	98	//checkScore_good
-1		//checkSpaceRunCount
-1	2	//checkSpaceRunCount_good
-40.0 	41.5	//checkZ
-13.0 	14.5 	//checkZ_counter
-18.0 	20.0	//checkZ_counter_good
-40.0 	44.0	//checkZ_good
-20.0 	24.0	//checkZ_second
-30.0 	32.0	//checkZ_second_good
-0.0 	//HEX 0x01010001, contains createPassCourse, defenceGap, inOut, roundTest
-4	5	//searchCount
-6	7	//searchCount_good
-3	4	//supportTime
-2	3	//supportTime_good
-1		//vitalSupportPrior
+0
+0
+0
+90.0
+110.0
+60.0
+90.0
+1
+98
+92
+30.0
+55.0
+2
+4
+14.0
+18.0
+28.0
+30.0
+20.0
+24.0
+28.0
+34.0
+80.0
+99.0
+1
+2
+28.0
+34.0
+126.0
+115.0
+25.0
+28.0
+6.0
+9.0
+82.0
+100.0
+15.0
+2.0
+2.0
+18.0
+40.0
+20.0
+24.0
+40.0
+94
+86
+1
+1
+40.0
+13.0
+18.0
+40.0
+20.0
+30.0
+0.0
+4
+6
+3
+2
+1

@@ -1,110 +1,88 @@
-32	//aiDebugCamera array
-48	//cameraMoveAreaSize array
-64	//cameraMoveMarginTime array
-80	//dropPointDispFast array
-320	//newWideCamera array
-0	//padding
-0	//padding
-0	//padding
-
-//aiDebugCamera//
-30.2	//cameraY
-110.4	//cameraZ
-0		//isEnable
-20.5	//lookAtZ
-
-//cameraMoveAreaSize//
-0	//isCustomize
-0.9	//x
-0.9	//z
-0	//padding
-
-//cameraMoveMarginTime//
-0		//isCustomize
-7.0		//mergetime
-30.0	//movetime
-0		//padding
-
-//dropPointDispFast//
-0.33	//afterKickTime
-0.1		//decelerateRate
-1		//isEnable
-25.0	//isGrounderEnable
-25.0	//passDistFly
-0.4		//passDistGrounder
-0		//speedLimit
-0		//padding
-
-//newWideCamera -> paramMax -> paramTable//
-22.0	//Fov		
-0.5		//LookY
-3.0		//Mani
-1.372	//Pan
-0.42	//PosY
-49.0	//PosZ
-41.01	//X_limit
-21.921	//Z_max
--10.209	//Z_min
-1		//isCustomize
-0		//padding
-0		//padding
-
-//newWideCamera -> paramMax//
-0.9	//distance		
-0.7	//height
-1	//isCustomize
-112	//paramTable index
-
-//newWideCamera -> paramMin -> paramTable//
-29.698	//Fov		
-0.5		//LookY
-3.0		//Mani
-1.324	//Pan
-0.4		//PosY
-35.5	//PosZ
-41.01	//X_limit
-21.406	//Z_max
-2.076	//Z_min
-1		//isCustomize
-0		//padding
-0		//padding
-
-//newWideCamera -> paramMin//
-0.9	//distance	
-0.2	//height
-1	//isCustomize
-176	//paramTable
-
-//newWideCamera -> relayParam -> paramTable//
-19.05	//Fov		
-0.5		//LookY
-2.73	//Mani
-1.4		//Pan
-0.471	//PosY
-33.1	//PosZ
-46.9	//X_limit
-29.7	//Z_max
--20.1	//Z_min
-0		//isCustomize
-0		//padding
-0		//padding
-
-//newWideCamera -> relayParam//
-0.9	//distance	
-0.2	//height
-0	//isEnable
-240	//paramTable
-0	//relayBallPosZ
-0	//padding
-0	//padding
-0	//padding
-
-//newWideCamera//
-5.0		//ballZRangeMarginUnder
-10.0	//ballZRangeMarginUpper
-1		//isEnable
-160		//paramMax index
-224		//paramMin index
-288		//relayParam index
-0		//padding
-0		//padding
+0
+0
+32
+48
+64
+80
+0
+320
+0
+0
+30.2
+110.4
+0
+20.5
+0
+0.9
+0.9
+0
+0
+7.0
+30.0
+0
+0.33
+0.1
+1
+25.0
+25.0
+0.4
+0
+0
+22.0
+0.5
+3.0
+1.372
+0.42
+49.0
+41.01
+21.921
+-10.209
+1
+0
+0
+0.9
+0.7
+1
+112
+29.698
+0.5
+3.0
+1.324
+0.4
+35.5
+41.01
+21.406
+2.076
+1
+0
+0
+0.9
+0.2
+1
+176
+19.05
+0.5
+2.73
+1.4
+0.471
+33.1
+46.9
+29.7
+-20.1
+0
+0
+0
+0.9
+0.2
+0
+240
+0
+0
+0
+0
+5.0
+10.0
+1
+160
+224
+288
